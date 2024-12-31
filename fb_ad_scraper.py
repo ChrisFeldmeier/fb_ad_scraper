@@ -10,6 +10,7 @@ from datetime import datetime
 import os
 import argparse
 import uuid
+import re
 
 # Configure logging
 logging.basicConfig(
@@ -72,6 +73,12 @@ class FacebookScraper:
         self.session = requests.Session()
         os.makedirs(data_dir, exist_ok=True)
         
+        # GraphQL doc_ids for different operations
+        self.doc_ids = {
+            'page_search': '9333890689970605',  # useAdLibraryTypeaheadSuggestionDataSourceQuery
+            'page_ads': '8539922039449935'      # AdLibrarySearchPaginationQuery
+        }
+        
         # Default cookies that seem to be required
         self.cookies = {
             'datr': '4SxPZUh5ui2ibThObJTg7Gfk',
@@ -86,6 +93,7 @@ class FacebookScraper:
         }
         
         self._setup_session()
+        self._extract_page_params()  # Extract parameters from Ad Library page
 
     def _setup_session(self):
         """Setup session with default headers and cookies"""
@@ -122,32 +130,15 @@ class FacebookScraper:
             "adType": "ALL"
         }
         
-        data = {
-            'av': self.cookies.get('c_user', ''),
-            '__user': self.cookies.get('c_user', ''),
-            '__a': '1',
-            '__req': 'z',
-            '__hs': '20088.HYP:comet_plat_default_pkg.2.1.0.2.1',
-            'dpr': '2',
-            '__ccg': 'EXCELLENT',
-            '__rev': '1019106461',
-            '__s': '45kpqy:4p4zwy:eyzfmg',
-            '__hsi': '7454603510249310343',
-            '__dyn': '7xeUmxa13yoS1syUbFp432m2q1Dxu13wqovzEdF8ixy360CEbo9E3-xS6Ehw2nVEK12wvk0ie2O1VwBwXwEwgo9oO0n24oaEd86a3a1YwBgao6C0Mo6i588Egz898mwkE-U6-3e4UaEW0KrK2S1qxaawse5o4q0HUkw5CwSyES0gq0K-1Lwqp8aE2cwAwQwr86C0nC1TwmUaE2Tw',
-            '__csr': 'hn25O9uJnKhAibkJqGLxtAAwgo561CwTwWzE460So1To2_w8S682Jw3Go00GLO0cNw',
-            '__comet_req': '1',
-            'fb_dtsg': 'NAcOag_5vxMjISOW5TqSct7wBqCgAaLpoGkRebRUTDTuGueVqtNQkhQ:16:1699733852',
-            'jazoest': '25730',
-            'lsd': '1oMsaEuqGqy53uwEmB0Ecv',
-            '__spin_r': '1019106461',
-            '__spin_b': 'trunk',
-            '__spin_t': str(int(time.time())),
+        # Get base parameters and add request specific ones
+        data = self._get_request_params()
+        data.update({
             'fb_api_caller_class': 'RelayModern',
             'fb_api_req_friendly_name': 'useAdLibraryTypeaheadSuggestionDataSourceQuery',
             'variables': json.dumps(variables),
             'server_timestamps': 'true',
-            'doc_id': '9333890689970605'
-        }
+            'doc_id': self.doc_ids['page_search']
+        })
 
         try:
             response = self.session.post(url, data=data)
@@ -213,32 +204,15 @@ class FacebookScraper:
             "viewAllPageID": page_id
         }
         
-        data = {
-            'av': '100001401300300',
-            '__user': '100001401300300',
-            '__a': '1',
-            '__req': '10',
-            '__hs': '20088.HYP:comet_plat_default_pkg.2.1.0.2.1',
-            'dpr': '2',
-            '__ccg': 'EXCELLENT',
-            '__rev': '1019106461',
-            '__s': '45kpqy:4p4zwy:eyzfmg',
-            '__hsi': '7454603510249310343',
-            '__dyn': '7xeUmxa13yoS1syUbFp432m2q1Dxu13wqovzEdF8ixy360CEbo9E3-xS6Ehw2nVEK12wvk0ie2O1VwBwXwEwgo9oO0n24oaEd86a3a1YwBgao6C0Mo6i588Egz898mwkE-U6-3e4UaEW0KrK2S1qxaawse5o4q0HUkw5CwSyES0gq0K-1Lwqp8aE2cwAwQwr86C0nC1TwmUaE2Tw',
-            '__csr': 'hn25O9uJnKhAibkJqGLxtAAwgo561CwTwWzE460So1To2_w8S682Jw3Go00GLO0cNw',
-            '__comet_req': '1',
-            'fb_dtsg': 'NAcOag_5vxMjISOW5TqSct7wBqCgAaLpoGkRebRUTDTuGueVqtNQkhQ:16:1699733852',
-            'jazoest': '25730',
-            'lsd': '1oMsaEuqGqy53uwEmB0Ecv',
-            '__spin_r': '1019106461',
-            '__spin_b': 'trunk',
-            '__spin_t': str(int(time.time())),
+        # Get base parameters and add request specific ones
+        data = self._get_request_params()
+        data.update({
             'fb_api_caller_class': 'RelayModern',
             'fb_api_req_friendly_name': 'AdLibrarySearchPaginationQuery',
             'variables': json.dumps(variables),
             'server_timestamps': 'true',
-            'doc_id': '8539922039449935'
-        }
+            'doc_id': self.doc_ids['page_ads']
+        })
 
         try:
             response = self.session.post(url, data=data)
@@ -450,6 +424,99 @@ class FacebookScraper:
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write(response_text)
         logging.info(f"Saved raw response to {filepath}")
+
+    def _extract_page_params(self):
+        """Extract important parameters from Ad Library page"""
+        try:
+            response = self.session.get('https://www.facebook.com/ads/library/')
+            if response.status_code == 200:
+                page_content = response.text
+                
+                # Extract fb_dtsg token
+                fb_dtsg_match = re.search(r'"DTSGInitData",\[\],{"token":"([^"]+)"', page_content)
+                if fb_dtsg_match:
+                    self.fb_dtsg = fb_dtsg_match.group(1)
+                    logging.info(f"Found fb_dtsg token: {self.fb_dtsg}")
+                
+                # Extract client revision
+                rev_match = re.search(r'"client_revision":(\d+),', page_content)
+                if rev_match:
+                    self.client_revision = rev_match.group(1)
+                    logging.info(f"Found client revision: {self.client_revision}")
+                
+                # Extract LSD token
+                lsd_match = re.search(r'"LSD",\[\],{"token":"([^"]+)"', page_content)
+                if lsd_match:
+                    self.lsd = lsd_match.group(1)
+                    logging.info(f"Found LSD token: {self.lsd}")
+                
+                # Extract haste session
+                hsi_match = re.search(r'"haste_session":"([^"]+)"', page_content)
+                if hsi_match:
+                    self.hsi = hsi_match.group(1)
+                    logging.info(f"Found haste session: {self.hsi}")
+                
+                # Extract spin parameters
+                spin_r_match = re.search(r'"__spin_r":(\d+),', page_content)
+                if spin_r_match:
+                    self.spin_r = spin_r_match.group(1)
+                    logging.info(f"Found spin_r: {self.spin_r}")
+                
+                spin_b_match = re.search(r'"__spin_b":"([^"]+)"', page_content)
+                if spin_b_match:
+                    self.spin_b = spin_b_match.group(1)
+                    logging.info(f"Found spin_b: {self.spin_b}")
+                
+                return True
+                
+        except Exception as e:
+            logging.error(f"Error extracting page parameters: {str(e)}")
+            return False
+
+    def _get_request_params(self):
+        """Generate parameters for GraphQL request"""
+        return {
+            'av': self.cookies.get('c_user', ''),
+            '__user': self.cookies.get('c_user', ''),
+            '__a': '1',
+            '__req': self._get_next_req_id(),  # Increment request counter
+            '__hs': getattr(self, 'hsi', ''),
+            'dpr': '2',
+            '__ccg': 'EXCELLENT',
+            '__rev': getattr(self, 'client_revision', ''),
+            '__s': self._generate_session_string(),
+            '__hsi': str(int(time.time() * 1000)),
+            '__dyn': '7xeUmxa13yoS1syUbFp432m2q1Dxu13wqovzEdF8ixy360CEbo9E3-xS6Ehw2nVEK12wvk0ie2O1VwBwXwEwgo9oO0n24oaEd86a3a1YwBgao6C0Mo6i588Egz898mwkE-U6-3e4UaEW0KrK2S1qxaawse5o4q0HUkw5CwSyES0gq0K-1Lwqp8aE2cwAwQwr86C0nC1TwmUaE2Tw',
+            '__csr': self._generate_csr(),
+            '__comet_req': '1',
+            'fb_dtsg': getattr(self, 'fb_dtsg', ''),
+            'jazoest': self._generate_jazoest(),
+            'lsd': getattr(self, 'lsd', ''),
+            '__spin_r': getattr(self, 'spin_r', ''),
+            '__spin_b': getattr(self, 'spin_b', ''),
+            '__spin_t': str(int(time.time())),
+        }
+
+    def _get_next_req_id(self):
+        """Generate next request ID"""
+        if not hasattr(self, '_req_counter'):
+            self._req_counter = 0
+        self._req_counter += 1
+        return chr(97 + (self._req_counter % 26))  # a, b, c, ...
+
+    def _generate_session_string(self):
+        """Generate session string"""
+        return f"{hex(int(time.time()))[2:]}:{hex(random.randint(0, 16**8))[2:]}"
+
+    def _generate_csr(self):
+        """Generate CSR parameter"""
+        return ''.join(random.choices('0123456789abcdefghijklmnopqrstuvwxyz', k=32))
+
+    def _generate_jazoest(self):
+        """Generate jazoest parameter"""
+        # Facebook uses a simple algorithm to generate this
+        base = "2" + str(sum(ord(c) for c in self.fb_dtsg)) if hasattr(self, 'fb_dtsg') else "25730"
+        return base
 
 def main():
     parser = argparse.ArgumentParser(description='Facebook Ad Library Scraper')

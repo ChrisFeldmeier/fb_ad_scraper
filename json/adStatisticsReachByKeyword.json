@@ -1,0 +1,710 @@
+[
+    {
+        "result": {
+            "data": {
+                "json": [
+                    {
+                        "index": 1,
+                        "keyword": "Shopify",
+                        "adCount": 11,
+                        "totalReach": 241881.75000000003,
+                        "totalAdSpend": 7256.452500000001
+                    },
+                    {
+                        "index": 2,
+                        "keyword": "tua",
+                        "adCount": 3,
+                        "totalReach": 111805.68,
+                        "totalAdSpend": 3354.1704
+                    },
+                    {
+                        "index": 3,
+                        "keyword": "brand",
+                        "adCount": 2,
+                        "totalReach": 97189.07999999999,
+                        "totalAdSpend": 2915.6723999999995
+                    },
+                    {
+                        "index": 4,
+                        "keyword": "Behalte",
+                        "adCount": 1,
+                        "totalReach": 71067.56999999999,
+                        "totalAdSpend": 2132.0271
+                    },
+                    {
+                        "index": 5,
+                        "keyword": "Image",
+                        "adCount": 1,
+                        "totalReach": 71067.56999999999,
+                        "totalAdSpend": 2132.0271
+                    },
+                    {
+                        "index": 6,
+                        "keyword": "Kontrolle",
+                        "adCount": 1,
+                        "totalReach": 71067.56999999999,
+                        "totalAdSpend": 2132.0271
+                    },
+                    {
+                        "index": 7,
+                        "keyword": "Marke",
+                        "adCount": 1,
+                        "totalReach": 71067.56999999999,
+                        "totalAdSpend": 2132.0271
+                    },
+                    {
+                        "index": 8,
+                        "keyword": "Minuten",
+                        "adCount": 1,
+                        "totalReach": 71067.56999999999,
+                        "totalAdSpend": 2132.0271
+                    },
+                    {
+                        "index": 9,
+                        "keyword": "Onlineshop",
+                        "adCount": 1,
+                        "totalReach": 71067.56999999999,
+                        "totalAdSpend": 2132.0271
+                    },
+                    {
+                        "index": 10,
+                        "keyword": "Startklar",
+                        "adCount": 1,
+                        "totalReach": 71067.56999999999,
+                        "totalAdSpend": 2132.0271
+                    },
+                    {
+                        "index": 11,
+                        "keyword": "Verkaufen?",
+                        "adCount": 1,
+                        "totalReach": 71067.56999999999,
+                        "totalAdSpend": 2132.0271
+                    },
+                    {
+                        "index": 12,
+                        "keyword": "eigenen",
+                        "adCount": 1,
+                        "totalReach": 71067.56999999999,
+                        "totalAdSpend": 2132.0271
+                    },
+                    {
+                        "index": 13,
+                        "keyword": "starte",
+                        "adCount": 1,
+                        "totalReach": 71067.56999999999,
+                        "totalAdSpend": 2132.0271
+                    },
+                    {
+                        "index": 14,
+                        "keyword": "wenigen",
+                        "adCount": 1,
+                        "totalReach": 71067.56999999999,
+                        "totalAdSpend": 2132.0271
+                    },
+                    {
+                        "index": 15,
+                        "keyword": "Avvia",
+                        "adCount": 2,
+                        "totalReach": 63623.91,
+                        "totalAdSpend": 1908.7173
+                    },
+                    {
+                        "index": 16,
+                        "keyword": "agli",
+                        "adCount": 2,
+                        "totalReach": 63623.91,
+                        "totalAdSpend": 1908.7173
+                    },
+                    {
+                        "index": 17,
+                        "keyword": "attività",
+                        "adCount": 2,
+                        "totalReach": 63623.91,
+                        "totalAdSpend": 1908.7173
+                    },
+                    {
+                        "index": 18,
+                        "keyword": "che",
+                        "adCount": 2,
+                        "totalReach": 63623.91,
+                        "totalAdSpend": 1908.7173
+                    },
+                    {
+                        "index": 19,
+                        "keyword": "grazie",
+                        "adCount": 2,
+                        "totalReach": 63623.91,
+                        "totalAdSpend": 1908.7173
+                    },
+                    {
+                        "index": 20,
+                        "keyword": "offre",
+                        "adCount": 2,
+                        "totalReach": 63623.91,
+                        "totalAdSpend": 1908.7173
+                    },
+                    {
+                        "index": 21,
+                        "keyword": "oggi",
+                        "adCount": 2,
+                        "totalReach": 63623.91,
+                        "totalAdSpend": 1908.7173
+                    },
+                    {
+                        "index": 22,
+                        "keyword": "realtà",
+                        "adCount": 2,
+                        "totalReach": 63623.91,
+                        "totalAdSpend": 1908.7173
+                    },
+                    {
+                        "index": 23,
+                        "keyword": "strumenti",
+                        "adCount": 2,
+                        "totalReach": 63623.91,
+                        "totalAdSpend": 1908.7173
+                    },
+                    {
+                        "index": 24,
+                        "keyword": "successo",
+                        "adCount": 2,
+                        "totalReach": 63623.91,
+                        "totalAdSpend": 1908.7173
+                    },
+                    {
+                        "index": 25,
+                        "keyword": "trasformata",
+                        "adCount": 2,
+                        "totalReach": 63623.91,
+                        "totalAdSpend": 1908.7173
+                    },
+                    {
+                        "index": 26,
+                        "keyword": "visione",
+                        "adCount": 2,
+                        "totalReach": 63623.91,
+                        "totalAdSpend": 1908.7173
+                    },
+                    {
+                        "index": 27,
+                        "keyword": "business",
+                        "adCount": 2,
+                        "totalReach": 58090.259999999995,
+                        "totalAdSpend": 1742.7078
+                    },
+                    {
+                        "index": 28,
+                        "keyword": "Store",
+                        "adCount": 2,
+                        "totalReach": 49024.68,
+                        "totalAdSpend": 1470.7404000000001
+                    },
+                    {
+                        "index": 29,
+                        "keyword": "Control",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 30,
+                        "keyword": "Start",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 31,
+                        "keyword": "When",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 32,
+                        "keyword": "across",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 33,
+                        "keyword": "are",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 34,
+                        "keyword": "buyers",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 35,
+                        "keyword": "channels",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 36,
+                        "keyword": "connect",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 37,
+                        "keyword": "customers",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 38,
+                        "keyword": "find",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 39,
+                        "keyword": "free",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 40,
+                        "keyword": "how",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 41,
+                        "keyword": "limits",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 42,
+                        "keyword": "reach",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 43,
+                        "keyword": "run",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 44,
+                        "keyword": "sales",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 45,
+                        "keyword": "sell",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 46,
+                        "keyword": "there",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 47,
+                        "keyword": "today",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 48,
+                        "keyword": "trial",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 49,
+                        "keyword": "value",
+                        "adCount": 1,
+                        "totalReach": 49007.31,
+                        "totalAdSpend": 1470.2193
+                    },
+                    {
+                        "index": 50,
+                        "keyword": "Launch",
+                        "adCount": 1,
+                        "totalReach": 48663.12,
+                        "totalAdSpend": 1459.8935999999999
+                    },
+                    {
+                        "index": 51,
+                        "keyword": "Reach",
+                        "adCount": 1,
+                        "totalReach": 48663.12,
+                        "totalAdSpend": 1459.8935999999999
+                    },
+                    {
+                        "index": 52,
+                        "keyword": "Thinking",
+                        "adCount": 1,
+                        "totalReach": 48663.12,
+                        "totalAdSpend": 1459.8935999999999
+                    },
+                    {
+                        "index": 53,
+                        "keyword": "about",
+                        "adCount": 1,
+                        "totalReach": 48663.12,
+                        "totalAdSpend": 1459.8935999999999
+                    },
+                    {
+                        "index": 54,
+                        "keyword": "audience",
+                        "adCount": 1,
+                        "totalReach": 48663.12,
+                        "totalAdSpend": 1459.8935999999999
+                    },
+                    {
+                        "index": 55,
+                        "keyword": "guide",
+                        "adCount": 1,
+                        "totalReach": 48663.12,
+                        "totalAdSpend": 1459.8935999999999
+                    },
+                    {
+                        "index": 56,
+                        "keyword": "help",
+                        "adCount": 1,
+                        "totalReach": 48663.12,
+                        "totalAdSpend": 1459.8935999999999
+                    },
+                    {
+                        "index": 57,
+                        "keyword": "launching",
+                        "adCount": 1,
+                        "totalReach": 48663.12,
+                        "totalAdSpend": 1459.8935999999999
+                    },
+                    {
+                        "index": 58,
+                        "keyword": "shop?",
+                        "adCount": 1,
+                        "totalReach": 48663.12,
+                        "totalAdSpend": 1459.8935999999999
+                    },
+                    {
+                        "index": 59,
+                        "keyword": "web",
+                        "adCount": 1,
+                        "totalReach": 48663.12,
+                        "totalAdSpend": 1459.8935999999999
+                    },
+                    {
+                        "index": 60,
+                        "keyword": "Assapora",
+                        "adCount": 1,
+                        "totalReach": 48181.77,
+                        "totalAdSpend": 1445.4531
+                    },
+                    {
+                        "index": 61,
+                        "keyword": "Inizia",
+                        "adCount": 1,
+                        "totalReach": 48181.77,
+                        "totalAdSpend": 1445.4531
+                    },
+                    {
+                        "index": 62,
+                        "keyword": "Vuoi",
+                        "adCount": 1,
+                        "totalReach": 48181.77,
+                        "totalAdSpend": 1445.4531
+                    },
+                    {
+                        "index": 63,
+                        "keyword": "ampliare",
+                        "adCount": 1,
+                        "totalReach": 48181.77,
+                        "totalAdSpend": 1445.4531
+                    },
+                    {
+                        "index": 64,
+                        "keyword": "clientela",
+                        "adCount": 1,
+                        "totalReach": 48181.77,
+                        "totalAdSpend": 1445.4531
+                    },
+                    {
+                        "index": 65,
+                        "keyword": "con",
+                        "adCount": 1,
+                        "totalReach": 48181.77,
+                        "totalAdSpend": 1445.4531
+                    },
+                    {
+                        "index": 66,
+                        "keyword": "costruire",
+                        "adCount": 1,
+                        "totalReach": 48181.77,
+                        "totalAdSpend": 1445.4531
+                    },
+                    {
+                        "index": 67,
+                        "keyword": "crescere",
+                        "adCount": 1,
+                        "totalReach": 48181.77,
+                        "totalAdSpend": 1445.4531
+                    },
+                    {
+                        "index": 68,
+                        "keyword": "immagine",
+                        "adCount": 1,
+                        "totalReach": 48181.77,
+                        "totalAdSpend": 1445.4531
+                    },
+                    {
+                        "index": 69,
+                        "keyword": "iniziare",
+                        "adCount": 1,
+                        "totalReach": 48181.77,
+                        "totalAdSpend": 1445.4531
+                    },
+                    {
+                        "index": 70,
+                        "keyword": "libertà",
+                        "adCount": 1,
+                        "totalReach": 48181.77,
+                        "totalAdSpend": 1445.4531
+                    },
+                    {
+                        "index": 71,
+                        "keyword": "minuti",
+                        "adCount": 1,
+                        "totalReach": 48181.77,
+                        "totalAdSpend": 1445.4531
+                    },
+                    {
+                        "index": 72,
+                        "keyword": "offline",
+                        "adCount": 1,
+                        "totalReach": 48181.77,
+                        "totalAdSpend": 1445.4531
+                    },
+                    {
+                        "index": 73,
+                        "keyword": "online",
+                        "adCount": 1,
+                        "totalReach": 48181.77,
+                        "totalAdSpend": 1445.4531
+                    },
+                    {
+                        "index": 74,
+                        "keyword": "online?",
+                        "adCount": 1,
+                        "totalReach": 48181.77,
+                        "totalAdSpend": 1445.4531
+                    },
+                    {
+                        "index": 75,
+                        "keyword": "pochi",
+                        "adCount": 1,
+                        "totalReach": 48181.77,
+                        "totalAdSpend": 1445.4531
+                    },
+                    {
+                        "index": 76,
+                        "keyword": "ritmo",
+                        "adCount": 1,
+                        "totalReach": 48181.77,
+                        "totalAdSpend": 1445.4531
+                    },
+                    {
+                        "index": 77,
+                        "keyword": "tuo",
+                        "adCount": 1,
+                        "totalReach": 48181.77,
+                        "totalAdSpend": 1445.4531
+                    },
+                    {
+                        "index": 78,
+                        "keyword": "vendere",
+                        "adCount": 1,
+                        "totalReach": 48181.77,
+                        "totalAdSpend": 1445.4531
+                    },
+                    {
+                        "index": 79,
+                        "keyword": "Descubre",
+                        "adCount": 1,
+                        "totalReach": 15025.71,
+                        "totalAdSpend": 450.77129999999994
+                    },
+                    {
+                        "index": 80,
+                        "keyword": "Lanza",
+                        "adCount": 1,
+                        "totalReach": 15025.71,
+                        "totalAdSpend": 450.77129999999994
+                    },
+                    {
+                        "index": 81,
+                        "keyword": "Los",
+                        "adCount": 1,
+                        "totalReach": 15025.71,
+                        "totalAdSpend": 450.77129999999994
+                    },
+                    {
+                        "index": 82,
+                        "keyword": "adecuado",
+                        "adCount": 1,
+                        "totalReach": 15025.71,
+                        "totalAdSpend": 450.77129999999994
+                    },
+                    {
+                        "index": 83,
+                        "keyword": "ayudarte",
+                        "adCount": 1,
+                        "totalReach": 15025.71,
+                        "totalAdSpend": 450.77129999999994
+                    },
+                    {
+                        "index": 84,
+                        "keyword": "crear",
+                        "adCount": 1,
+                        "totalReach": 15025.71,
+                        "totalAdSpend": 450.77129999999994
+                    },
+                    {
+                        "index": 85,
+                        "keyword": "editores",
+                        "adCount": 1,
+                        "totalReach": 15025.71,
+                        "totalAdSpend": 450.77129999999994
+                    },
+                    {
+                        "index": 86,
+                        "keyword": "gratuitos",
+                        "adCount": 1,
+                        "totalReach": 15025.71,
+                        "totalAdSpend": 450.77129999999994
+                    },
+                    {
+                        "index": 87,
+                        "keyword": "marca",
+                        "adCount": 1,
+                        "totalReach": 15025.71,
+                        "totalAdSpend": 450.77129999999994
+                    },
+                    {
+                        "index": 88,
+                        "keyword": "mejores",
+                        "adCount": 1,
+                        "totalReach": 15025.71,
+                        "totalAdSpend": 450.77129999999994
+                    },
+                    {
+                        "index": 89,
+                        "keyword": "para",
+                        "adCount": 1,
+                        "totalReach": 15025.71,
+                        "totalAdSpend": 450.77129999999994
+                    },
+                    {
+                        "index": 90,
+                        "keyword": "presupuesto",
+                        "adCount": 1,
+                        "totalReach": 15025.71,
+                        "totalAdSpend": 450.77129999999994
+                    },
+                    {
+                        "index": 91,
+                        "keyword": "profesionales",
+                        "adCount": 1,
+                        "totalReach": 15025.71,
+                        "totalAdSpend": 450.77129999999994
+                    },
+                    {
+                        "index": 92,
+                        "keyword": "respetando",
+                        "adCount": 1,
+                        "totalReach": 15025.71,
+                        "totalAdSpend": 450.77129999999994
+                    },
+                    {
+                        "index": 93,
+                        "keyword": "software",
+                        "adCount": 1,
+                        "totalReach": 15025.71,
+                        "totalAdSpend": 450.77129999999994
+                    },
+                    {
+                        "index": 94,
+                        "keyword": "video",
+                        "adCount": 1,
+                        "totalReach": 15025.71,
+                        "totalAdSpend": 450.77129999999994
+                    },
+                    {
+                        "index": 95,
+                        "keyword": "videos",
+                        "adCount": 1,
+                        "totalReach": 15025.71,
+                        "totalAdSpend": 450.77129999999994
+                    },
+                    {
+                        "index": 96,
+                        "keyword": "Dive",
+                        "adCount": 1,
+                        "totalReach": 9082.949999999999,
+                        "totalAdSpend": 272.48849999999993
+                    },
+                    {
+                        "index": 97,
+                        "keyword": "Dont",
+                        "adCount": 1,
+                        "totalReach": 9082.949999999999,
+                        "totalAdSpend": 272.48849999999993
+                    },
+                    {
+                        "index": 98,
+                        "keyword": "Give",
+                        "adCount": 1,
+                        "totalReach": 9082.949999999999,
+                        "totalAdSpend": 272.48849999999993
+                    },
+                    {
+                        "index": 99,
+                        "keyword": "Restart",
+                        "adCount": 1,
+                        "totalReach": 9082.949999999999,
+                        "totalAdSpend": 272.48849999999993
+                    },
+                    {
+                        "index": 100,
+                        "keyword": "Today",
+                        "adCount": 1,
+                        "totalReach": 9082.949999999999,
+                        "totalAdSpend": 272.48849999999993
+                    }
+                ]
+            }
+        }
+    }
+]

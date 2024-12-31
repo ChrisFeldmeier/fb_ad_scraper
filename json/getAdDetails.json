@@ -1,0 +1,54 @@
+[
+    {
+        "result": {
+            "data": {
+                "json": {
+                    "id": "cm2qhb2gy06vu03l065ayhjp7",
+                    "facebookAdId": "857362233091354",
+                    "advertiser": {
+                        "id": "cm2pvh6me002703meuv6uhijb",
+                        "facebookPageName": "Shopify",
+                        "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                        "totalAds": 173,
+                        "facebookCategory": "Software",
+                        "advertiserCategory": {
+                            "germanTranslation": "Software"
+                        }
+                    },
+                    "dataPoints": [
+                        {
+                            "id": "cm4lboyrq31xv01nv4sauv1ev",
+                            "isLatest": true,
+                            "isActive": true,
+                            "euTotalReach": 13888643,
+                            "totalAdSpend": 416659.29,
+                            "delivered": "2024-10-23T00:00:00.000Z",
+                            "preview": [
+                                {
+                                    "createdAt": "2024-12-12T12:56:09.734Z",
+                                    "adText": "Sell more, build more, get more done. All in one place.",
+                                    "adVisibleUrl": "",
+                                    "adCTAText": "Try out Shopify for free.",
+                                    "adCTASubText": "Start a free Shopify trial.",
+                                    "adHref": "https://www.shopify.com/free-trial/editions/summer2024?utm_source=meta&utm_medium=cpc&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&fbadid={{ad.id}}&utm_term={{placement}}",
+                                    "adDownloadedImage": "meta/ad-images/cm4lboyrq31xw01nv7h5t81ps-preview.jpg",
+                                    "adDownloadedVideo": null
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "meta": {
+                    "values": {
+                        "dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]

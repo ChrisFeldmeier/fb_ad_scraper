@@ -1,0 +1,4 @@
+requests>=2.31.0
+backoff>=2.2.1
+beautifulsoup4>=4.12.2
+browser-cookie3>=0.19.1 

@@ -1,0 +1,36 @@
+{
+  "cookies": {
+    "ps_n": "1",
+    "ps_l": "1",
+    "datr": "4SxPZUh5ui2ibThObJTg7Gfk",
+    "oo": "v1",
+    "sb": "C0tgZxWq1EcVbQNrl4pca_tT",
+    "presence": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1735233059507%2C%22v%22%3A1%7D",
+    "ar_debug": "1",
+    "fr": "15F1ccvaya1kduWHS.AWVlShrGaEOx_gX8XjP1KsX6vfw.Bnc7FK..AAA.0.0.BndAKq.AWWpP1WLcZM",
+    "dpr": "1.7999999523162842",
+    "usida": "eyJ2ZXIiOjEsImlkIjoiQXNwZDd6ZjE0dDlzOHIiLCJ0aW1lIjoxNzM1NjYwMjAzfQ%3D%3D",
+    "wd": "1791x962",
+    "c_user": "100001401300300",
+    "xs": "16%3AMl14BMs_UQ3cjg%3A2%3A1699733852%3A-1%3A13648%3A%3AAcX5IqEhPKWT3rrzLrJPdrbhy8FaZOiJrDdIWgzqR7C4vA",
+    "fb_dtsg": "NAcOjUO1objjG3t8IiJFKL61ILFBKWNhd6rmqtDPIE_In5SOLcDHvnQ:16:1699733852"
+  },
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7",
+    "content-type": "application/x-www-form-urlencoded",
+    "origin": "https://www.facebook.com",
+    "referer": "https://www.facebook.com/ads/library/",
+    "sec-ch-prefers-color-scheme": "dark",
+    "sec-ch-ua": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "priority": "u=1, i",
+    "x-fb-lsd": "CcwiOJZ7_IYM_Z1yNDIcOl"
+  },
+  "authentication_status": "success"
+}

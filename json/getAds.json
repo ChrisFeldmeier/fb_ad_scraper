@@ -1,0 +1,2351 @@
+[
+    {
+        "result": {
+            "data": {
+                "json": [
+                    {
+                        "id": "cm2qhch1c08f603l3opij9fn6",
+                        "facebookAdId": "1185520302553326",
+                        "totalReach": 16403589,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4s2htgs013t01nv2a6chafd",
+                                "isActive": true,
+                                "euTotalReach": 19335867,
+                                "totalAdSpend": 580076.01,
+                                "delivered": "2024-09-22T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-17T06:13:02.956Z",
+                                        "adText": "Rejoignez les millions d’entrepreneurs qui vendent en ligne sur Shopify.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Démarrez votre essai gratuit dès aujourd’hui",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/fr/demarrer",
+                                        "adDownloadedImage": "meta/ad-images/cm4s2htgs013u01nvxg3hntkx-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm2qhb2gy06vu03l065ayhjp7",
+                        "facebookAdId": "857362233091354",
+                        "totalReach": 10835510,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4lboyrq31xv01nv4sauv1ev",
+                                "isActive": true,
+                                "euTotalReach": 13888643,
+                                "totalAdSpend": 416659.29,
+                                "delivered": "2024-10-23T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-12T12:56:09.734Z",
+                                        "adText": "Sell more, build more, get more done. All in one place.",
+                                        "adVisibleUrl": "",
+                                        "adCTAText": "Try out Shopify for free.",
+                                        "adCTASubText": "Start a free Shopify trial.",
+                                        "adHref": "https://www.shopify.com/free-trial/editions/summer2024?utm_source=meta&utm_medium=cpc&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&fbadid={{ad.id}}&utm_term={{placement}}",
+                                        "adDownloadedImage": "meta/ad-images/cm4lboyrq31xw01nv7h5t81ps-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm2qhc94o050o03kyzwmegsne",
+                        "facebookAdId": "1952240558594607",
+                        "totalReach": 8792746,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4s2htax011201nvtty32819",
+                                "isActive": true,
+                                "euTotalReach": 11471029,
+                                "totalAdSpend": 344130.87,
+                                "delivered": "2024-09-22T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-17T06:13:02.745Z",
+                                        "adText": "Rejoignez les millions d’entrepreneurs qui vendent en ligne sur Shopify.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Démarrez votre essai gratuit dès aujourd’hui",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/fr/demarrer",
+                                        "adDownloadedImage": "meta/ad-images/cm4s2htax011301nvt51k3fcv-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm3t6ku81045703jmf3x160ob",
+                        "facebookAdId": "1279925443454753",
+                        "totalReach": 8107504,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4s2hsug00ui01nvcquo6n2u",
+                                "isActive": true,
+                                "euTotalReach": 9965764,
+                                "totalAdSpend": 298972.92,
+                                "delivered": "2024-11-08T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-17T06:13:02.152Z",
+                                        "adText": "There’s nothing like that first sale feeling. Launch your store and start\nselling today.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Millions of first sales made here",
+                                        "adCTASubText": " ",
+                                        "adHref": "https://www.shopify.com/de",
+                                        "adDownloadedImage": "meta/ad-images/cm4s2hsug00uj01nvf2pg6xiq-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm2qhcb2z050003lbpbgil0tf",
+                        "facebookAdId": "1756196768502164",
+                        "totalReach": 7115785,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4s2htcw011z01nvdx75s260",
+                                "isActive": true,
+                                "euTotalReach": 8239068,
+                                "totalAdSpend": 247172.04,
+                                "delivered": "2024-09-22T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-17T06:13:02.816Z",
+                                        "adText": "Unisciti ai milioni di imprenditori che vendono online con Shopify.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Inizia la prova gratuita",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/it/aprire",
+                                        "adDownloadedImage": "meta/ad-images/cm4s2htcw012001nvwfgyc45s-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm3t6ksbw03ud03jma808aiin",
+                        "facebookAdId": "3880103708971555",
+                        "totalReach": 6952141,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4s2hsal00qd01nvbtow0vpq",
+                                "isActive": true,
+                                "euTotalReach": 10703901,
+                                "totalAdSpend": 321117.03,
+                                "delivered": "2024-11-19T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-17T06:13:01.437Z",
+                                        "adText": "Behalte die Kontrolle über das Image deiner Marke und starte in wenigen Minuten\ndeinen eigenen Onlineshop auf Shopify.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Startklar zum Verkaufen?",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/de/free-trial",
+                                        "adDownloadedImage": "meta/ad-images/cm4s2hsal00qe01nv8ykcx3ew-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm2qhcf8q07g003l0c1zbdm0v",
+                        "facebookAdId": "463579753351344",
+                        "totalReach": 6871588,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4s2hteu012w01nvm4iaw6hy",
+                                "isActive": true,
+                                "euTotalReach": 8651020,
+                                "totalAdSpend": 259530.6,
+                                "delivered": "2024-09-22T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-17T06:13:02.886Z",
+                                        "adText": "Rejoignez les millions d’entrepreneurs qui vendent en ligne sur Shopify.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Démarrez votre essai gratuit dès aujourd’hui",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/fr/demarrer",
+                                        "adDownloadedImage": "meta/ad-images/cm4s2hteu012x01nvt673btes-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm3t6kv2x048h03jmpjdt7aw8",
+                        "facebookAdId": "537754822476269",
+                        "totalReach": 2795910,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4s2ht4700yi01nvcp5hmgz8",
+                                "isActive": true,
+                                "euTotalReach": 3894138,
+                                "totalAdSpend": 116824.14,
+                                "delivered": "2024-11-08T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-17T06:13:02.503Z",
+                                        "adText": "Wenn du ein Business gründen möchtest, ist es Zeit für Shopify.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Dein Weg vom Launch zur Legende",
+                                        "adCTASubText": "Erfahre, warum Millionen von Unternehmen ihr Business mit Shopify ausbauen.",
+                                        "adHref": "https://www.shopify.com/de",
+                                        "adDownloadedImage": "meta/ad-images/cm4s2ht4700yj01nv2we0m3j9-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm3t6kzbp008e03ldexnhhcro",
+                        "facebookAdId": "3819389114962390",
+                        "totalReach": 2604439,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4s2htj2014s01nv73mm6guy",
+                                "isActive": true,
+                                "euTotalReach": 2713858,
+                                "totalAdSpend": 81415.74,
+                                "delivered": "2024-06-05T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-17T06:13:03.038Z",
+                                        "adText": "Looking to start an online business? This is a must-read.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Small Businesses Love These",
+                                        "adCTASubText": "Reach your goals.",
+                                        "adHref": "https://www.shopify.com/blog/best-ecommerce-platform-small-business",
+                                        "adDownloadedImage": "meta/ad-images/cm4s2htj2014t01nvjosou21k-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm2qhcrbv051s03lbrs08pmfb",
+                        "facebookAdId": "546834397764321",
+                        "totalReach": 2368919,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm2qhcrbv051t03lb4r08ul5d",
+                                "isActive": null,
+                                "euTotalReach": 2368919,
+                                "totalAdSpend": 71067.56999999999,
+                                "delivered": "2024-09-21T22:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-11-23T06:43:11.138Z",
+                                        "adText": "Behalte die Kontrolle über das Image deiner Marke und starte in wenigen Minuten deinen eigenen Onlineshop auf Shopify.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Startklar zum Verkaufen?",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/de/free-trial",
+                                        "adDownloadedImage": "meta/ad-images/cm2qhcrbv051t03lb4r08ul5d-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm3t6kukd046i03jmeahdnioq",
+                        "facebookAdId": "922328689841673",
+                        "totalReach": 1797418,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4s2hsyg00w401nvcd8fr24g",
+                                "isActive": true,
+                                "euTotalReach": 2928787,
+                                "totalAdSpend": 87863.61,
+                                "delivered": "2024-11-08T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-17T06:13:02.296Z",
+                                        "adText": "Wenn du ein Business gründen möchtest, ist es Zeit für Shopify.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Dein Weg vom Launch zur Legende",
+                                        "adCTASubText": "Erfahre, warum Millionen von Unternehmen ihr Business mit Shopify ausbauen.",
+                                        "adHref": "https://www.shopify.com/de",
+                                        "adDownloadedImage": "meta/ad-images/cm4s2hsyg00w501nv901i1ovm-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm3t6kuwj047u03jmi1m1wr0t",
+                        "facebookAdId": "541767552056146",
+                        "totalReach": 1650483,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4s2ht2d00xr01nvidnsn5n3",
+                                "isActive": true,
+                                "euTotalReach": 2339636,
+                                "totalAdSpend": 70189.08,
+                                "delivered": "2024-11-08T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-17T06:13:02.437Z",
+                                        "adText": "Wenn du ein Business gründen möchtest, ist es Zeit für Shopify.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Dein Weg vom Launch zur Legende",
+                                        "adCTASubText": "Erfahre, warum Millionen von Unternehmen ihr Business mit Shopify ausbauen.",
+                                        "adHref": "https://www.shopify.com/de",
+                                        "adDownloadedImage": "meta/ad-images/cm4s2ht2d00xs01nvfauiu25q-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm3t6l03r04wc03jmpmn004gr",
+                        "facebookAdId": "1414702495902232",
+                        "totalReach": 1633598,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4s2html016o01nvipfazmz6",
+                                "isActive": true,
+                                "euTotalReach": 1753775,
+                                "totalAdSpend": 52613.25,
+                                "delivered": "2024-06-05T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-17T06:13:03.165Z",
+                                        "adText": "Explore creative ways to increase your cash flow, from simple side hustles to\nfull-blown business ideas.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "See How Easy It Can Be",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/blog/make-money-online",
+                                        "adDownloadedImage": "meta/ad-images/cm4s2html016p01nvy4xako3u-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm2qhcl0n094103l4uhocsmv2",
+                        "facebookAdId": "876900347359056",
+                        "totalReach": 1633577,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm2qhcl0n094203l42jl8tnzo",
+                                "isActive": null,
+                                "euTotalReach": 1633577,
+                                "totalAdSpend": 49007.31,
+                                "delivered": "2024-09-21T22:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-11-23T06:43:11.138Z",
+                                        "adText": "When you sell with Shopify, there are no limits to how you run your business. Control your brand, find more value, connect with customers, and reach more buyers across more sales channels.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Start your Shopify free trial today.",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/compare",
+                                        "adDownloadedImage": "meta/ad-images/cm2qhcl0n094203l42jl8tnzo-preview.jpg",
+                                        "adDownloadedVideo": "meta/ad-videos/cm2qhcl0n094203l42jl8tnzo.mp4"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm2qhd79108nq03l3xpjpfryx",
+                        "facebookAdId": "1889913114769913",
+                        "totalReach": 1628591,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm2qhd79108nr03l3dg9b8nkw",
+                                "isActive": null,
+                                "euTotalReach": 1628591,
+                                "totalAdSpend": 48857.73,
+                                "delivered": "2024-06-04T22:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-11-23T06:43:11.138Z",
+                                        "adText": "La tua visione, trasformata in realtà di successo grazie agli strumenti che ti offre Shopify!",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Avvia oggi la tua attività",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/it/prova-gratuita",
+                                        "adDownloadedImage": "meta/ad-images/cm2qhd79108nr03l3dg9b8nkw-preview.jpg",
+                                        "adDownloadedVideo": "meta/ad-videos/cm2qhd79108nr03l3dg9b8nkw.mp4"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm2qhc778048703mo1hm3rkff",
+                        "facebookAdId": "1061844842305391",
+                        "totalReach": 1622104,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm2qhc778048803mo0xjx1nsx",
+                                "isActive": null,
+                                "euTotalReach": 1622104,
+                                "totalAdSpend": 48663.12,
+                                "delivered": "2024-10-02T22:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-11-23T06:43:11.389Z",
+                                        "adText": "Thinking about launching a web shop? Our guide can help.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Launch Your Store",
+                                        "adCTASubText": "Reach a wider audience.",
+                                        "adHref": "https://www.shopify.com/blog/start-online-store",
+                                        "adDownloadedImage": "meta/ad-images/cm2qhc778048803mo0xjx1nsx-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm2qhcpi5050w03lbygqjx8p1",
+                        "facebookAdId": "491314010379145",
+                        "totalReach": 1606059,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm2qhcpi5050x03lbmyugill0",
+                                "isActive": null,
+                                "euTotalReach": 1606059,
+                                "totalAdSpend": 48181.77,
+                                "delivered": "2024-09-21T22:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-11-23T06:43:11.138Z",
+                                        "adText": "Inizia a vendere online e offline in pochi minuti con Shopify. Assapora la libertà di costruire un brand a tua immagine, ampliare la tua clientela e crescere al tuo ritmo.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Vuoi iniziare a vendere online?",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/it/prova-gratuita",
+                                        "adDownloadedImage": "meta/ad-images/cm2qhcpi5050x03lbmyugill0-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm3t6ks5p03th03jmn3vkqeh0",
+                        "facebookAdId": "501488579586510",
+                        "totalReach": 1472625,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4s2hs5s00pg01nvm0e07k72",
+                                "isActive": true,
+                                "euTotalReach": 3349666,
+                                "totalAdSpend": 100489.98,
+                                "delivered": "2024-11-19T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-17T06:13:01.264Z",
+                                        "adText": "Descubre el software adecuado para ayudarte a crear videos de marca\nprofesionales.",
+                                        "adVisibleUrl": "SHOPIFY.ES",
+                                        "adCTAText": "Los 13 mejores editores de video gratuitos",
+                                        "adCTASubText": "Lanza tu marca respetando tu presupuesto.",
+                                        "adHref": "https://www.shopify.com/es/blog/11-mejores-programas-de-software-de-edicion-de-video-gratis-para-2019",
+                                        "adDownloadedImage": "meta/ad-images/cm4s2hs5s00ph01nvfukqtavt-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm3t6kvbt049503jmurnhee0f",
+                        "facebookAdId": "2387865511553274",
+                        "totalReach": 1464657,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4s2ht5p00zd01nvbwsug406",
+                                "isActive": true,
+                                "euTotalReach": 2138757,
+                                "totalAdSpend": 64162.71,
+                                "delivered": "2024-11-08T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-17T06:13:02.557Z",
+                                        "adText": "Bring your business to the next level with Shopify. Start your free trial today.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Start your free trial",
+                                        "adCTASubText": " ",
+                                        "adHref": "https://www.shopify.com/de",
+                                        "adDownloadedImage": "meta/ad-images/cm4s2ht5p00ze01nvlsx9jvvg-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm3t6kuec046103jmzo5952qf",
+                        "facebookAdId": "2227387197655734",
+                        "totalReach": 1146656,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4s2hswj00vj01nv9bkfpkw4",
+                                "isActive": true,
+                                "euTotalReach": 1564846,
+                                "totalAdSpend": 46945.38,
+                                "delivered": "2024-11-08T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-17T06:13:02.227Z",
+                                        "adText": "Wenn du ein Business gründen möchtest, ist es Zeit für Shopify.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Dein Weg vom Launch zur Legende",
+                                        "adCTASubText": "Erfahre, warum Millionen von Unternehmen ihr Business mit Shopify ausbauen.",
+                                        "adHref": "https://www.shopify.com/de",
+                                        "adDownloadedImage": "meta/ad-images/cm4s2hswj00vk01nv0lk48k59-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm3t6ksi903va03jmyx8qj6mt",
+                        "facebookAdId": "1257991772203653",
+                        "totalReach": 886518,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4s2hscg00rb01nv9qaww5ni",
+                                "isActive": true,
+                                "euTotalReach": 1928235,
+                                "totalAdSpend": 57847.05,
+                                "delivered": "2024-11-19T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-17T06:13:01.504Z",
+                                        "adText": "Inizia a vendere online e offline in pochi minuti con Shopify. Assapora la\nlibertà di costruire un brand a tua immagine, ampliare la tua clientela e\ncrescere al tuo ritmo.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Vuoi iniziare a vendere online?",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/it/prova-gratuita",
+                                        "adDownloadedImage": "meta/ad-images/cm4s2hscg00rc01nvdod1ez5b-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm3t6kuqi047503jmblugidvc",
+                        "facebookAdId": "8896449910422418",
+                        "totalReach": 867843,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4s2ht0c00wx01nv2m1ph6k0",
+                                "isActive": true,
+                                "euTotalReach": 1236529,
+                                "totalAdSpend": 37095.87,
+                                "delivered": "2024-11-08T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-17T06:13:02.364Z",
+                                        "adText": "Wenn du ein Business gründen möchtest, ist es Zeit für Shopify.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Dein Weg vom Launch zur Legende",
+                                        "adCTASubText": "Erfahre, warum Millionen von Unternehmen ihr Business mit Shopify ausbauen.",
+                                        "adHref": "https://www.shopify.com/de",
+                                        "adDownloadedImage": "meta/ad-images/cm4s2ht0c00wy01nvmsxw90xc-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm2qhbnhj094503l762mu8d6p",
+                        "facebookAdId": "1991965961305658",
+                        "totalReach": 807545,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4s2ht8b010501nvxx3c7wjc",
+                                "isActive": true,
+                                "euTotalReach": 941936,
+                                "totalAdSpend": 28258.08,
+                                "delivered": "2024-10-17T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-17T06:13:02.651Z",
+                                        "adText": "Start selling online and offline in minutes with Shopify. Enjoy the freedom to\nbuild a brand your way, grow your own customer base, and\nscale at your pace.",
+                                        "adVisibleUrl": "",
+                                        "adCTAText": "Start selling online and offline in minutes with Shopify. Enjoy the freedom to build a brand your way, grow your own customer base, and\nscale at your pace.",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/free-trial?utm_source=meta&utm_medium=cpc&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&fbadid={{ad.id}}&utm_term={{placement}}",
+                                        "adDownloadedImage": "meta/ad-images/cm4s2ht8b010601nvq0ss4ygu-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm3t6kzhk012f03mkcz46noa8",
+                        "facebookAdId": "448971204443109",
+                        "totalReach": 525936,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4s2htkp015r01nvj7k4aclf",
+                                "isActive": true,
+                                "euTotalReach": 574651,
+                                "totalAdSpend": 17239.53,
+                                "delivered": "2024-06-05T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-17T06:13:03.097Z",
+                                        "adText": "Create powerful, engaging content with one of the year’s top 15 video editors.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Discover the Right One",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/blog/best-free-video-editing-software",
+                                        "adDownloadedImage": "meta/ad-images/cm4s2htkp015s01nvq601ve4j-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm2qhbjp1071e03l0sjojyikl",
+                        "facebookAdId": "1252461019128763",
+                        "totalReach": 500857,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm2qhbjp1071f03l0s04bcv86",
+                                "isActive": null,
+                                "euTotalReach": 500857,
+                                "totalAdSpend": 15025.71,
+                                "delivered": "2024-10-18T22:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-11-23T06:43:11.389Z",
+                                        "adText": "Descubre el software adecuado para ayudarte a crear videos de marca profesionales.",
+                                        "adVisibleUrl": "SHOPIFY.ES",
+                                        "adCTAText": "Los 13 mejores editores de video gratuitos",
+                                        "adCTASubText": "Lanza tu marca respetando tu presupuesto.",
+                                        "adHref": "https://www.shopify.com/es/blog/11-mejores-programas-de-software-de-edicion-de-video-gratis-para-2019",
+                                        "adDownloadedImage": "meta/ad-images/cm2qhbjp1071f03l0s04bcv86-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm2qhc4z908tn03l4mcserrok",
+                        "facebookAdId": "496419943267060",
+                        "totalReach": 492206,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm2qhc4z908to03l45x7cqv7l",
+                                "isActive": null,
+                                "euTotalReach": 492206,
+                                "totalAdSpend": 14766.18,
+                                "delivered": "2024-10-02T22:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-11-23T06:43:11.389Z",
+                                        "adText": "La tua visione, trasformata in realtà di successo grazie agli strumenti che ti offre Shopify!",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Avvia oggi la tua attività",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/it/prova-gratuita",
+                                        "adDownloadedImage": "meta/ad-images/cm2qhc4z908to03l45x7cqv7l-preview.jpg",
+                                        "adDownloadedVideo": "meta/ad-videos/cm2qhc4z908to03l45x7cqv7l.mp4"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm2qhcunu05au03kyx5ep4xat",
+                        "facebookAdId": "2024016501370144",
+                        "totalReach": 372164,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4lboan631ce01nvnb535z1m",
+                                "isActive": false,
+                                "euTotalReach": 372164,
+                                "totalAdSpend": 11164.92,
+                                "delivered": "2024-07-12T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-12T12:55:38.466Z",
+                                        "adText": "Verschaffe dir einen Wettbewerbsvorteil und lerne von Tausenden Verbrauchern und\nEinzelhändlern.",
+                                        "adVisibleUrl": "SHOPIFY.COM/DE/ENTERPRISE/",
+                                        "adCTAText": "Handlungsrelevante Einblicke in den Commerce.",
+                                        "adCTASubText": "",
+                                        "adHref": "https://shopify.com/de/enterprise/state-of-commerce-report-2024?utm_source=meta&utm_medium=cpm&utm_campaign=2024-emea-state-of-commerce-dach&utm_content=NONBAU_PLUS_SOCIAL_META_EMEA_DACH_DE_CONSIDERATION_EBOOK_2024-emea-state-of-commerce-dach_PROSP_INTERESTS_JOB-TITLES_DIS_UNLOCK-CERTAINTY",
+                                        "adDownloadedImage": "meta/ad-images/cm4lboan631cf01nvou33oiuq-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm2qhd0no07hj03l0o12j8bmu",
+                        "facebookAdId": "1008390371000209",
+                        "totalReach": 302765,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm2qhd0no07hk03l0bge59xds",
+                                "isActive": null,
+                                "euTotalReach": 302765,
+                                "totalAdSpend": 9082.949999999999,
+                                "delivered": "2024-07-07T22:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-11-23T06:43:11.138Z",
+                                        "adText": "Give your first store a second try. Dive back in and build your business with Shopify.",
+                                        "adVisibleUrl": "SHOPIFY.COM",
+                                        "adCTAText": "Dive back in and build your business with Shopify.",
+                                        "adCTASubText": "Don't miss out on building your dream business. Restart Today!",
+                                        "adHref": "https://www.shopify.com/complete-store",
+                                        "adDownloadedImage": "meta/ad-images/cm2qhd0no07hk03l0bge59xds-preview.jpg",
+                                        "adDownloadedVideo": "meta/ad-videos/cm2qhd0no07hk03l0bge59xds.mp4"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm2qhbll103yw03mo8eq564hb",
+                        "facebookAdId": "1064226988531480",
+                        "totalReach": 273325,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4lboyvl31zb01nvvs9pl1mz",
+                                "isActive": true,
+                                "euTotalReach": 325418,
+                                "totalAdSpend": 9762.54,
+                                "delivered": "2024-10-17T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-12T12:56:09.873Z",
+                                        "adText": "Behalte die Kontrolle über das Image deiner Marke und starte in wenigen Minuten\ndeinen eigenen Onlineshop auf Shopify.",
+                                        "adVisibleUrl": "",
+                                        "adCTAText": "Startklar zum Verkaufen?",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/de/free-trial?utm_source=meta&utm_medium=cpc&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&fbadid={{ad.id}}&utm_term={{placement}}",
+                                        "adDownloadedImage": "meta/ad-images/cm4lboyvl31zc01nv3qznrxk1-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm4cxnjsfftav01ljzn1vcrbd",
+                        "facebookAdId": "902535328585833",
+                        "totalReach": 196097,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4mh1un03cjj01nv112r194e",
+                                "isActive": false,
+                                "euTotalReach": 196097,
+                                "totalAdSpend": 5882.91,
+                                "delivered": "2024-07-09T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-13T08:13:55.164Z",
+                                        "adText": "Vendez plus, développez plus et faites-en plus. Le tout au même endroit.",
+                                        "adVisibleUrl": "",
+                                        "adCTAText": "Essayez Shopify gratuitement.",
+                                        "adCTASubText": "Démarrez un essai gratuit.",
+                                        "adHref": "",
+                                        "adDownloadedImage": "meta/ad-images/cm4mh1un03cjk01nvzr5rduao-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm4mh1vd23cpo01nv02fbv8b7",
+                        "facebookAdId": "1112191746746275",
+                        "totalReach": 154072,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4mh1vd23cpp01nvpxfxd4e2",
+                                "isActive": false,
+                                "euTotalReach": 154072,
+                                "totalAdSpend": 4622.16,
+                                "delivered": "2024-07-02T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-13T08:13:56.102Z",
+                                        "adText": "E-Commerce hat in der Geschäftswelt das Sagen. Vertraue Experten, die nur den\nWeg nach oben kennen! Wachse mit Shopify Plus®.",
+                                        "adVisibleUrl": "",
+                                        "adCTAText": "E-Commerce hat überholt",
+                                        "adCTASubText": "Verkaufe mit Shopify Plus®",
+                                        "adHref": "",
+                                        "adDownloadedImage": "meta/ad-images/cm4mh1vd23cpq01nv1r7hh3kf-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm4grapoi0js401nvhktaypoo",
+                        "facebookAdId": "1159678788561726",
+                        "totalReach": 151954,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4mh1vpr3crd01nv3eg96slc",
+                                "isActive": false,
+                                "euTotalReach": 151954,
+                                "totalAdSpend": 4558.62,
+                                "delivered": "2024-06-06T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-13T08:13:56.559Z",
+                                        "adText": "Millisekunden könnten dich Millionen kosten. Hol dir den ultimativen Leitfaden\nfür eine schnelle Website von Shopify Plus.",
+                                        "adVisibleUrl": "WWW.SHOPIFY.COM/DE/PLUS",
+                                        "adCTAText": "Schnellere Website dank Shopify Plus",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/de/plus/guides/ultimativer-leitfaden-fuer-eine-schnelle-website?utm_source=meta&utm_medium=cpm&utm_campaign=2023-06-emea-adrefresh&utm_content=BAU_PLUS_SOCIAL_META_EMEA_DACH_DE_CONSIDERATION_EBOOK_2023-06-emea-adrefresh_CONSOLIDATED_SITE-VISITORS_ALL_DIS_site-speed_06adrefresh_black_EMEA_DE_CONSIDERATION_PROSP_RMKT",
+                                        "adDownloadedImage": "meta/ad-images/cm4mh1vpr3cre01nvtyx4ewlb-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm4grapxo0jsy01nvg35ap3ea",
+                        "facebookAdId": "963454342119158",
+                        "totalReach": 137161,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4mh1vvs3cs701nvpxgu891t",
+                                "isActive": false,
+                                "euTotalReach": 137161,
+                                "totalAdSpend": 4114.83,
+                                "delivered": "2024-05-30T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-13T08:13:56.776Z",
+                                        "adText": "Entdecke Shopify und profitiere von über 100 Mio. Käufer:innen in Shop Pay – der\nNr. 1 für schnellen Check-out.",
+                                        "adVisibleUrl": "SHOPIFY.COM/DE/PLUS",
+                                        "adCTAText": "Verkäufe sichern mit Shop Pay",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/de/plus/kontakt?utm_source=meta&utm_medium=cpm&utm_campaign=2023-06-emea-adrefresh&utm_content=BAU_PLUS_SOCIAL_META_EMEA_DACH_DE_LEAD-GEN_CONTACT-US_2023-06-emea-adrefresh_CONSOLIDATED_LAL_CONSOLIDATED_DIS_topconverting_x",
+                                        "adDownloadedImage": "meta/ad-images/cm4mh1vvs3cs801nvye0op9ql-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm4cxnkzrftzs01ljqbs35p0r",
+                        "facebookAdId": "7686772811392060",
+                        "totalReach": 127127,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4mh1ut23cma01nv8e7z1ywx",
+                                "isActive": false,
+                                "euTotalReach": 127127,
+                                "totalAdSpend": 3813.81,
+                                "delivered": "2024-07-09T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-13T08:13:55.382Z",
+                                        "adText": "Vendez plus, développez plus et faites-en plus. Le tout au même endroit.",
+                                        "adVisibleUrl": "",
+                                        "adCTAText": "Essayez Shopify gratuitement.",
+                                        "adCTASubText": "Démarrez un essai gratuit.",
+                                        "adHref": "https://www.shopify.com/fr/free-trial/editions/summer2024?utm_source=meta&utm_medium=cpc&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&fbadid={{ad.id}}&utm_term={{placement}}",
+                                        "adDownloadedImage": "meta/ad-images/cm4mh1ut23cmb01nvvt813zbg-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm4joxtiy2h8h01nvp36bocqe",
+                        "facebookAdId": "981187540078836",
+                        "totalReach": 108176,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4joxtiy2h8i01nv0j2edtb8",
+                                "isActive": false,
+                                "euTotalReach": 108176,
+                                "totalAdSpend": 3245.28,
+                                "delivered": "2024-05-24T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-11T09:31:25.498Z",
+                                        "adText": "Millisekunden könnten dich Millionen kosten. Hol dir den ultimativen Leitfaden\nfür eine schnelle Website von Shopify Plus.",
+                                        "adVisibleUrl": "WWW.SHOPIFY.COM/DE/PLUS",
+                                        "adCTAText": "Schnellere Website dank Shopify Plus",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/de/plus/guides/ultimativer-leitfaden-fuer-eine-schnelle-website?utm_source=meta&utm_medium=cpm&utm_campaign=2023-06-emea-adrefresh&utm_content=BAU_PLUS_SOCIAL_META_EMEA_DACH_DE_CONSIDERATION_EBOOK_2023-06-emea-adrefresh_CONSOLIDATED_INTERESTS_ECOMM_DIS_site-speed-blacK_2023-06-emea-adrefresh",
+                                        "adDownloadedImage": "meta/ad-images/cm4joxtiy2h8j01nvnuc39vd3-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm4cxnbtmfrn901ljnyd7q6g8",
+                        "facebookAdId": "540917074967199",
+                        "totalReach": 96894,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4mh1u8c3cgy01nvdfq7ggds",
+                                "isActive": false,
+                                "euTotalReach": 96894,
+                                "totalAdSpend": 2906.82,
+                                "delivered": "2024-09-16T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-13T08:13:54.636Z",
+                                        "adText": "Entdecke Shopify und profitiere von über 100 Mio. Käufer:innen in Shop Pay – der\nNr. 1 für schnellen Check-out.",
+                                        "adVisibleUrl": "SHOPIFY.COM/DE/PLUS",
+                                        "adCTAText": "Verkäufe sichern mit Shop Pay",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/de/plus/kontakt?utm_source=meta&utm_medium=cpm&utm_campaign=2023-06-emea-adrefresh&utm_content=BAU_PLUS_SOCIAL_META_EMEA_DACH_DE_LEAD-GEN_CONTACT-US_2023-06-emea-adrefresh_CONSOLIDATED_SITE-VISITORS_ALL_DIS_topconverting_x",
+                                        "adDownloadedImage": "meta/ad-images/cm4mh1u8c3cgz01nvry1uiypc-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm3t6ktrj043603jmfn1l1mcr",
+                        "facebookAdId": "1126050505711476",
+                        "totalReach": 88932,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4s2hssv00u801nvrtdzcxzl",
+                                "isActive": true,
+                                "euTotalReach": 236982,
+                                "totalAdSpend": 7109.46,
+                                "delivered": "2024-11-13T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-17T06:13:02.095Z",
+                                        "adText": "Reduziere abgebrochene Warenkörbe um bis zu 28 % mit Shop Pay Installments.\nExklusiv in Shopify Plus verfügbar.",
+                                        "adVisibleUrl": "",
+                                        "adCTAText": "Nimm Kontakt mit einem/einer Expert:in auf",
+                                        "adCTASubText": " ",
+                                        "adHref": "http://fb.me/",
+                                        "adDownloadedImage": "meta/ad-images/cm4s2hssv00u901nvodnbm7e3-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm49tl8dl01yt03me6u9ea3hf",
+                        "facebookAdId": "902904538548854",
+                        "totalReach": 84898,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4lboaav31b001nvku1vxtou",
+                                "isActive": false,
+                                "euTotalReach": 84898,
+                                "totalAdSpend": 2546.94,
+                                "delivered": "2024-07-26T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-12T12:55:38.023Z",
+                                        "adText": "Im Schnitt 15 % mehr Conversion bei Shopify als die Konkurrenz laut neuer Daten\neiner Studie einer der Top 3 Beratungsfirmen",
+                                        "adVisibleUrl": "SHOPIFY.COM/DE/PLUS",
+                                        "adCTAText": "Warum der Shopify Checkout die Nr. 1 ist",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/de/plus/kontakt?utm_source=meta&utm_medium=cpm&utm_campaign=2023-05-checkout-blog_emea&utm_content=BAU_PLUS_SOCIAL_META_EMEA_DACH_DE_LEAD-GEN_CONTACT-US_x_CONSOLIDATED_INTERESTS_B2B_DIS_A/BTEST_nocheckoutperformsbetter-2023-05-checkout-blog-light",
+                                        "adDownloadedImage": "meta/ad-images/cm4lboaav31b101nvpnfsritv-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm4grapc10jqq01nvmwtjaaoh",
+                        "facebookAdId": "266085753197777",
+                        "totalReach": 84608,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4mh1vaq3cpf01nvfvc0h8di",
+                                "isActive": false,
+                                "euTotalReach": 84608,
+                                "totalAdSpend": 2538.24,
+                                "delivered": "2024-07-02T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-13T08:13:56.018Z",
+                                        "adText": "Von Deutschland über Europa bis in die USA. Seit der Migration wächst T1TAN und\nes ist kein Ende in Sicht. Wachse wie T1TAN.",
+                                        "adVisibleUrl": "",
+                                        "adCTAText": "T1TAN x Shopify Plus®",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/de/plus?utm_source=meta&utm_medium=cpm&utm_campaign=2022-emea-dach-awareness&utm_content=BAU_PLUS_SOCIAL_META_EMEA_DACH_DE_AWARENESS_LPV_x_PROSP_INTERESTS_FOOD_DIS_DE-Awareness-T1tan-FB-Image_x",
+                                        "adDownloadedImage": "meta/ad-images/cm4mh1vaq3cpg01nvqcetcwwl-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm49tl8zm01zn03mejarqw88v",
+                        "facebookAdId": "508531918330885",
+                        "totalReach": 81963,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4lboair31bu01nvj4tpx7mh",
+                                "isActive": false,
+                                "euTotalReach": 81963,
+                                "totalAdSpend": 2458.89,
+                                "delivered": "2024-07-29T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-12T12:55:38.307Z",
+                                        "adText": "✅ Niedrigere Absprungraten\n✅ Höhere Conversion-Raten\n✅ Schnellste Website-Geschwindigkeiten der Commerce-Branche�\nErfahre, wie Shopify dir helfen kann, Kunden ⚡schnell durch den Funnel zu\nführen.",
+                                        "adVisibleUrl": "",
+                                        "adCTAText": "Sprich mit unserem Shopify-Team über deine Ziele für dein Business ",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/de/compare/sitespeed?utm_source=meta&utm_medium=cpm&utm_campaign=2024-06-site-speed-de&utm_content=emea-de-feed-rmkt#contact-sales",
+                                        "adDownloadedImage": "meta/ad-images/cm4lboair31bv01nvymrq1ujj-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm49tl7m101t703ky4tgjf0cu",
+                        "facebookAdId": "1426731821321436",
+                        "totalReach": 76316,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4joxs302h1601nvnwlcgf7c",
+                                "isActive": false,
+                                "euTotalReach": 76316,
+                                "totalAdSpend": 2289.48,
+                                "delivered": "2024-07-29T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-11T09:31:23.628Z",
+                                        "adText": "📝 Wir zeigen dir, wie deine Website-Geschwindigkeit im Vergleich zu anderen\nähnlichen Shopify-Shops abschneidet. Ist dir die Konkurrenz voraus?",
+                                        "adVisibleUrl": "",
+                                        "adCTAText": "Kostenlose Wettbewerbsanalyse der Website-Geschwindigkeit erhalten",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/de/compare/sitespeed?utm_source=meta&utm_medium=cpm&utm_campaign=2024-06-site-speed-de&utm_content=emea-de-lead-gen-prosp",
+                                        "adDownloadedImage": "meta/ad-images/cm4joxs302h1701nvfi837yxe-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm4cxnk1dftgw01lj2qmtq7g8",
+                        "facebookAdId": "1022650095916304",
+                        "totalReach": 73487,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4mh1up83ckg01nvra1l2keo",
+                                "isActive": false,
+                                "euTotalReach": 73487,
+                                "totalAdSpend": 2204.61,
+                                "delivered": "2024-07-09T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-13T08:13:55.244Z",
+                                        "adText": "Vendez plus, développez plus et faites-en plus. Le tout au même endroit.",
+                                        "adVisibleUrl": "",
+                                        "adCTAText": "Essayez Shopify gratuitement.",
+                                        "adCTASubText": "Démarrez un essai gratuit.",
+                                        "adHref": "https://www.shopify.com/fr/free-trial/editions/summer2024?utm_source=meta&utm_medium=cpc&utm_campaign={{campaign.id}}&utm_content={{adset.id}}&fbadid={{ad.id}}&utm_term={{placement}}",
+                                        "adDownloadedImage": "meta/ad-images/cm4mh1up83ckh01nvrmua361o-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm49tl80y01tr03ky5mdfjikp",
+                        "facebookAdId": "1414307909236207",
+                        "totalReach": 73221,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4lboa8731aq01nv1ug7omx9",
+                                "isActive": false,
+                                "euTotalReach": 73221,
+                                "totalAdSpend": 2196.63,
+                                "delivered": "2024-07-26T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-12T12:55:37.927Z",
+                                        "adText": "Im Schnitt 15 % mehr Conversion bei Shopify als die Konkurrenz laut neuer Daten\neiner Studie einer der Top 3 Beratungsfirmen",
+                                        "adVisibleUrl": "SHOPIFY.COM/DE/PLUS",
+                                        "adCTAText": "Warum der Shopify Checkout die Nr. 1 ist",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/de/plus/kontakt?utm_source=meta&utm_medium=cpm&utm_campaign=2023-05-checkout-blog_emea&utm_content=BAU_PLUS_SOCIAL_META_EMEA_DACH_DE_LEAD-GEN_CONTACT-US_x_CONSOLIDATED_INTERESTS_B2B_DIS_A/BTEST_15better_2023-05-checkout-blog_light_new",
+                                        "adDownloadedImage": "meta/ad-images/cm4lboa8731ar01nvopceuawu-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm3t8y5f00yj503kz6oeh3at7",
+                        "facebookAdId": "1283110282824459",
+                        "totalReach": 72886,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4lboyp231xb01nvm2ag7ik6",
+                                "isActive": true,
+                                "euTotalReach": 80163,
+                                "totalAdSpend": 2404.89,
+                                "delivered": "2024-10-28T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-12T12:56:09.638Z",
+                                        "adText": "Bring mobile selling to every inch of your sales floor with Tap to Pay and\nShopify Point of Sale.",
+                                        "adVisibleUrl": "",
+                                        "adCTAText": "Break free from the counter",
+                                        "adCTASubText": "Lade einfach die Shopify POS-App herunter und melde dich an und schon kannst du jederzeit und überall kontaktlose Zahlungen akzeptieren – direkt mit deinem Android-Smartphone.",
+                                        "adHref": "https://www.shopify.com/de/pos/tap-to-pay-android",
+                                        "adDownloadedImage": "meta/ad-images/cm4lboyp231xc01nv7porzp7n-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm49tl7ev01sx03kyr25sgae0",
+                        "facebookAdId": "7924460227607893",
+                        "totalReach": 68825,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4lboa2p31a601nveldzx1rr",
+                                "isActive": false,
+                                "euTotalReach": 68825,
+                                "totalAdSpend": 2064.75,
+                                "delivered": "2024-07-29T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-12T12:55:37.729Z",
+                                        "adText": "Millisek. könnten dich Mio. kosten. Shopify-Shops sind 1,8 x schneller. Erfahre,\nwie deine Website im Sitespeed-Test abschneidet.",
+                                        "adVisibleUrl": "",
+                                        "adCTAText": "Erfahre, wie deine Website bei unserem Sitespeed-Test abschneidet",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/de/compare/sitespeed?utm_source=meta&utm_medium=cpm&utm_campaign=2024-06-site-speed-de&utm_content=emea-de-lead-gen-prosp",
+                                        "adDownloadedImage": "meta/ad-images/cm4lboa2p31a701nvfvbd5wsk-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm4cxnnvafv6p01ljat5bnz5n",
+                        "facebookAdId": "1155597659003859",
+                        "totalReach": 65986,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4mh1uuw3cn701nvuctz6ar2",
+                                "isActive": false,
+                                "euTotalReach": 65986,
+                                "totalAdSpend": 1979.58,
+                                "delivered": "2024-07-10T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-13T08:13:55.448Z",
+                                        "adText": "Erstelle eine B2B Storefront mit einem Standard-Theme oder nutze mit der\nCustomer Account API die Headless-Variante. Entdecke B2B & über 150 weitere\nFunktionen.",
+                                        "adVisibleUrl": "",
+                                        "adCTAText": "Lerne B2B jetzt kennen",
+                                        "adCTASubText": "",
+                                        "adHref": "http://shopify.com/de/editions/summer2024?utm_source=meta&utm_medium=cpm&utm_campaign=summer24edition-plusent-amplify-de&utm_content=NONBAU_PLUS_SOCIAL_META_EMEA_DACH_DE_AWARENESS_LPV_summer24edition-plusent-amplify-de_CONSOLIDATED_INTERESTS-JOB-INDUSTRY_x_DIS_summer24edition-plusent-amplify-de_B2B",
+                                        "adDownloadedImage": "meta/ad-images/cm4mh1uuw3cn801nv6szge9f0-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm2qhcwkk09mq03l7x5sujpn9",
+                        "facebookAdId": "1204939757214244",
+                        "totalReach": 61490,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm2qhcwkk09mr03l7bsgj9j4g",
+                                "isActive": null,
+                                "euTotalReach": 61490,
+                                "totalAdSpend": 1844.7,
+                                "delivered": "2024-07-11T22:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-11-23T06:43:11.138Z",
+                                        "adText": "Nutze die Daten von Tausenden von Verbrauchern und Einzelhändlern, um umsetzbare Erkenntnisse und Verkaufschancen zu gewinnen.",
+                                        "adVisibleUrl": "SHOPIFY.COM/DE/ENTERPRISE/",
+                                        "adCTAText": "So geht Kundenloyalität.",
+                                        "adCTASubText": "",
+                                        "adHref": "https://shopify.com/de/enterprise/state-of-commerce-report-2024?utm_source=meta&utm_medium=cpm&utm_campaign=2024-emea-state-of-commerce-dach&utm_content=NONBAU_PLUS_SOCIAL_META_EMEA_DACH_DE_CONSIDERATION_EBOOK_2024-emea-state-of-commerce-dach_PROSP_INTERESTS_JOB-TITLES_VID_CUSTOMER-LOYALTY",
+                                        "adDownloadedImage": "meta/ad-images/cm2qhcwkk09mr03l7bsgj9j4g-preview.jpg",
+                                        "adDownloadedVideo": "meta/ad-videos/cm2qhcwkk09mr03l7bsgj9j4g.mp4"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm4cxno5rfvik01ljrwscumxp",
+                        "facebookAdId": "1964334850684651",
+                        "totalReach": 59154,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4mh1uwn3cnh01nvnm0oti4t",
+                                "isActive": false,
+                                "euTotalReach": 59154,
+                                "totalAdSpend": 1774.62,
+                                "delivered": "2024-07-10T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-13T08:13:55.511Z",
+                                        "adText": "Die Shopify Summer Edition 2024: Entdecke über 150 Produktupdates für noch mehr\nLeistung und ein vernetztes Kundenerlebnis.",
+                                        "adVisibleUrl": "",
+                                        "adCTAText": "Shopify Summer Edition 2024",
+                                        "adCTASubText": "",
+                                        "adHref": "http://shopify.com/de/editions/summer2024?utm_source=meta&utm_medium=cpm&utm_campaign=summer24edition-plusent-amplify-de&utm_content=NONBAU_PLUS_SOCIAL_META_EMEA_DACH_DE_AWARENESS_LPV_summer24edition-plusent-amplify-de_CONSOLIDATED_INTERESTS-JOB-INDUSTRY_x_DIS_summer24edition-plusent-amplify-de_Generic",
+                                        "adDownloadedImage": "meta/ad-images/cm4mh1uwn3cni01nvbchyy9rh-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm49tl7to01th03kynecbonq7",
+                        "facebookAdId": "8237163783064075",
+                        "totalReach": 58762,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4lboa5w31ag01nvwsnmqi32",
+                                "isActive": false,
+                                "euTotalReach": 58762,
+                                "totalAdSpend": 1762.86,
+                                "delivered": "2024-07-26T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-12T12:55:37.844Z",
+                                        "adText": "Im Schnitt 15 % mehr Conversion bei Shopify als die Konkurrenz laut neuer Daten\neiner Studie einer der Top 3 Beratungsfirmen",
+                                        "adVisibleUrl": "SHOPIFY.COM/DE/PLUS",
+                                        "adCTAText": "Warum der Shopify Checkout die Nr. 1 ist",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/de/plus/kontakt?utm_source=meta&utm_medium=cpm&utm_campaign=2023-05-checkout-blog_emea&utm_content=BAU_PLUS_SOCIAL_META_EMEA_DACH_DE_LEAD-GEN_CONTACT-US_x_CONSOLIDATED_INTERESTS_B2B_DIS_A/BTEST_plus-36better-2023-05-checkout-blog-light-EMEA-DE-LEAD-GEN-PROSP-RMKT-BAU-CONSOLIDATED_x",
+                                        "adDownloadedImage": "meta/ad-images/cm4lboa5w31ah01nvylc186th-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm4cxnoepfvwc01ljrmv7wq8z",
+                        "facebookAdId": "1067921164664758",
+                        "totalReach": 56770,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4mh1uyo3cnr01nv465ikcfu",
+                                "isActive": false,
+                                "euTotalReach": 56770,
+                                "totalAdSpend": 1703.1,
+                                "delivered": "2024-07-10T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-13T08:13:55.584Z",
+                                        "adText": "Verwalte mit Markets deine gesamte länderübergreifende, B2B- und\nEinzelhandelsexpansion an einem Ort. Entdecke Markets & über 150 weitere\nFunktionen.",
+                                        "adVisibleUrl": "",
+                                        "adCTAText": "Mit Markets nahtlos skalieren",
+                                        "adCTASubText": "",
+                                        "adHref": "http://shopify.com/de/editions/summer2024?utm_source=meta&utm_medium=cpm&utm_campaign=summer24edition-plusent-amplify-de&utm_content=NONBAU_PLUS_SOCIAL_META_EMEA_DACH_DE_AWARENESS_LPV_summer24edition-plusent-amplify-de_CONSOLIDATED_INTERESTS-JOB-INDUSTRY_x_DIS_summer24edition-plusent-amplify-de_Markets",
+                                        "adDownloadedImage": "meta/ad-images/cm4mh1uyo3cns01nvnejq8xte-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm4grapjh0jrk01nvou4p1623",
+                        "facebookAdId": "430686636423497",
+                        "totalReach": 56497,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4mh1vl83cqt01nvnzeaaidb",
+                                "isActive": false,
+                                "euTotalReach": 56497,
+                                "totalAdSpend": 1694.91,
+                                "delivered": "2024-06-06T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-13T08:13:56.396Z",
+                                        "adText": "Brich Verkaufsrekorde, nicht deine Website. Die Flash-Verkauf-Checkliste gibt\ndir mehr Kontrolle über Spitzenzeiten.",
+                                        "adVisibleUrl": "WWW.SHOPIFY.COM/DE/PLUS",
+                                        "adCTAText": "Peak Sales: Flash-Verkauf-Checkliste",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/de/plus/guides/flash-sale-checkliste?utm_source=meta&utm_medium=cpm&utm_campaign=2023-06-emea-adrefresh&utm_content=BAU_PLUS_SOCIAL_META_EMEA_DACH_DE_CONSIDERATION_EBOOK_2023-06-emea-adrefresh_CONSOLIDATED_SITE-VISITORS_ALL_DIS_flash-sale-06adrefresh-blacK_2023-06-emea-adrefresh",
+                                        "adDownloadedImage": "meta/ad-images/cm4mh1vl83cqu01nv3pnnmpd8-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm49tl8s701zd03mehxcqwzy4",
+                        "facebookAdId": "1076992457325027",
+                        "totalReach": 52656,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4lboagb31bk01nvotre57gy",
+                                "isActive": false,
+                                "euTotalReach": 52656,
+                                "totalAdSpend": 1579.68,
+                                "delivered": "2024-07-29T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-12T12:55:38.219Z",
+                                        "adText": "✅ Niedrigere Absprungraten\n✅ Höhere Conversion-Raten\n✅ Schnellste Website-Geschwindigkeiten der Commerce-Branche�\nErfahre, wie Shopify dir helfen kann, Kunden ⚡schnell durch den Funnel zu\nführen.",
+                                        "adVisibleUrl": "",
+                                        "adCTAText": "Sprich mit unserem Shopify-Team über deine Ziele für dein Business ",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/de/compare/sitespeed?utm_source=meta&utm_medium=cpm&utm_campaign=2024-06-site-speed-de&utm_content=emea-de-feed-rmkt#contact-sales",
+                                        "adDownloadedImage": "meta/ad-images/cm4lboagb31bl01nvw6ll7v9a-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm4cxneoifsfb01ljhv557dkm",
+                        "facebookAdId": "1671593400272237",
+                        "totalReach": 52383,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4mh1uek3chs01nvtq32o2of",
+                                "isActive": false,
+                                "euTotalReach": 52383,
+                                "totalAdSpend": 1571.49,
+                                "delivered": "2024-08-14T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-13T08:13:54.860Z",
+                                        "adText": "Die Shopify Summer Edition 2024: Entdecke über 150 Produktupdates für noch mehr\nLeistung und ein vernetztes Kundenerlebnis.",
+                                        "adVisibleUrl": "",
+                                        "adCTAText": "Shopify Summer Edition 2024",
+                                        "adCTASubText": "",
+                                        "adHref": "http://shopify.com/de/editions/webinar/summer2024?utm_source=meta&utm_medium=cpm&utm_campaign=summer24edition-plusent-webinar-de&utm_content=NONBAU_PLUS_SOCIAL_META_EMEA_DACH_DE_CONSIDERATION_on-demand_summer24edition-plusent-webinar-de_CONSOLIDATED_JOB-INTEREST_x_x_summer24edition-plusent-webinar-de_x",
+                                        "adDownloadedImage": "meta/ad-images/cm4mh1uek3cht01nv2e582tik-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm4i9drd429yn01nveo724ume",
+                        "facebookAdId": "857626256194902",
+                        "totalReach": 46091,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4i9drd429yo01nvqdubh4fm",
+                                "isActive": false,
+                                "euTotalReach": 46091,
+                                "totalAdSpend": 1382.73,
+                                "delivered": "2024-06-06T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-10T09:28:09.160Z",
+                                        "adText": "Brich Verkaufsrekorde, nicht deine Website. Die Flash-Verkauf-Checkliste gibt\ndir mehr Kontrolle über Spitzenzeiten.",
+                                        "adVisibleUrl": "SHOPIFY.COM/DE/PLUS",
+                                        "adCTAText": "Peak Sales: Flash-Verkauf-Checkliste",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/de/plus/guides/flash-sale-checkliste?utm_source=meta&utm_medium=cpm&utm_campaign=2023-06-emea-adrefresh&utm_content=BAU_PLUS_SOCIAL_META_EMEA_DACH_DE_CONSIDERATION_EBOOK_2023-06-emea-adrefresh_CONSOLIDATED_SITE-VISITORS_ALL_DIS_flash-sale-06adrefresh-white_x",
+                                        "adDownloadedImage": "meta/ad-images/cm4i9drd429yp01nvkvit4p71-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm49tl8la01z303mevtwc2qyr",
+                        "facebookAdId": "864798789033995",
+                        "totalReach": 44752,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4lboadl31ba01nvyexr0vwl",
+                                "isActive": false,
+                                "euTotalReach": 44752,
+                                "totalAdSpend": 1342.56,
+                                "delivered": "2024-07-29T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-12T12:55:38.121Z",
+                                        "adText": "✅ Niedrigere Absprungraten\n✅ Höhere Conversion-Raten\n✅ Schnellste Website-Geschwindigkeiten der Commerce-Branche�\nErfahre, wie Shopify dir helfen kann, Kunden ⚡schnell durch den Funnel zu\nführen.",
+                                        "adVisibleUrl": "",
+                                        "adCTAText": "Sprich mit unserem Shopify-Team über deine Ziele für dein Business ",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/de/compare/sitespeed?utm_source=meta&utm_medium=cpm&utm_campaign=2024-06-site-speed-de&utm_content=emea-de-feed-rmkt#contact-sales",
+                                        "adDownloadedImage": "meta/ad-images/cm4lboadl31bb01nvde2trcw5-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm4grapuq0jso01nvta6k4q6y",
+                        "facebookAdId": "996692358570892",
+                        "totalReach": 42847,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4mh1vu63crx01nvguyn1v2a",
+                                "isActive": false,
+                                "euTotalReach": 42847,
+                                "totalAdSpend": 1285.41,
+                                "delivered": "2024-05-30T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-13T08:13:56.718Z",
+                                        "adText": "Entdecke Shopify und profitiere von über 100 Mio. Käufer:innen in Shop Pay – der\nNr. 1 für schnellen Check-out.",
+                                        "adVisibleUrl": "SHOPIFY.COM/DE/PLUS",
+                                        "adCTAText": "Verkäufe sichern mit Shop Pay",
+                                        "adCTASubText": "",
+                                        "adHref": "https://www.shopify.com/de/plus/kontakt?utm_source=meta&utm_medium=cpm&utm_campaign=2023-06-emea-adrefresh&utm_content=BAU_PLUS_SOCIAL_META_EMEA_DACH_DE_LEAD-GEN_CONTACT-US_2023-06-emea-adrefresh_CONSOLIDATED_INTERESTS_CONSOLIDATED_DIS_topconverting_x",
+                                        "adDownloadedImage": "meta/ad-images/cm4mh1vu63cry01nv2nnfqctx-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cm2qhcyro096e03l4ny4ubjtj",
+                        "facebookAdId": "1200084451417965",
+                        "totalReach": 40822,
+                        "advertiser": {
+                            "id": "cm2pvh6me002703meuv6uhijb",
+                            "facebookPageName": "Shopify",
+                            "facebookCategory": "Software",
+                            "downloadedProfileImage": "meta/advertiser-profile-images/cm2pvh6me002703meuv6uhijb.jpg",
+                            "advertiserCategory": {
+                                "germanTranslation": "Software"
+                            }
+                        },
+                        "dataPoints": [
+                            {
+                                "id": "cm4lboap731cq01nvwoubswih",
+                                "isActive": false,
+                                "euTotalReach": 40822,
+                                "totalAdSpend": 1224.66,
+                                "delivered": "2024-07-12T00:00:00.000Z",
+                                "preview": [
+                                    {
+                                        "createdAt": "2024-12-12T12:55:38.539Z",
+                                        "adText": "Treibe das Wachstums deines Unternehmens voran- nutze datenbasierte\nHandlungsempfehlungen aus dem State of Commerce.",
+                                        "adVisibleUrl": "SHOPIFY.COM/DE/ENTERPRISE/",
+                                        "adCTAText": "Verschaffe dir einen Wettbewerbsvorteil.",
+                                        "adCTASubText": "",
+                                        "adHref": "https://shopify.com/de/enterprise/state-of-commerce-report-2024?utm_source=meta&utm_medium=cpm&utm_campaign=2024-emea-state-of-commerce-dach&utm_content=NONBAU_PLUS_SOCIAL_META_EMEA_DACH_DE_CONSIDERATION_EBOOK_2024-emea-state-of-commerce-dach_PROSP_INTERESTS_JOB-TITLES_DIS_65PERCENT-DE-CONSUMERS",
+                                        "adDownloadedImage": "meta/ad-images/cm4lboap731cr01nvnhcqykn6-preview.jpg",
+                                        "adDownloadedVideo": null
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "meta": {
+                    "values": {
+                        "0.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "0.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "1.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "1.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "2.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "2.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "3.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "3.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "4.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "4.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "5.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "5.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "6.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "6.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "7.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "7.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "8.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "8.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "9.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "9.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "10.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "10.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "11.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "11.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "12.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "12.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "13.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "13.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "14.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "14.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "15.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "15.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "16.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "16.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "17.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "17.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "18.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "18.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "19.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "19.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "20.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "20.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "21.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "21.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "22.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "22.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "23.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "23.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "24.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "24.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "25.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "25.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "26.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "26.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "27.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "27.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "28.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "28.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "29.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "29.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "30.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "30.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "31.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "31.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "32.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "32.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "33.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "33.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "34.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "34.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "35.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "35.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "36.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "36.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "37.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "37.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "38.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "38.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "39.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "39.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "40.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "40.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "41.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "41.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "42.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "42.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "43.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "43.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "44.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "44.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "45.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "45.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "46.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "46.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "47.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "47.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "48.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "48.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "49.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "49.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "50.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "50.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "51.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "51.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "52.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "52.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "53.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "53.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "54.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "54.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "55.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "55.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ],
+                        "56.dataPoints.0.delivered": [
+                            "Date"
+                        ],
+                        "56.dataPoints.0.preview.0.createdAt": [
+                            "Date"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]

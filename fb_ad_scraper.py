@@ -42,13 +42,28 @@ class FacebookAd:
     page_name: str
     title: Optional[str] = None
     body: Optional[str] = None
-    snapshot_url: Optional[str] = None
-    creation_time: Optional[str] = None
+    caption: Optional[str] = None
+    cta_text: Optional[str] = None
+    cta_type: Optional[str] = None
+    link_url: Optional[str] = None
+    image_url: Optional[str] = None
+    platforms: List[str] = None
+    start_date: Optional[str] = None
+    end_date: Optional[str] = None
+    delivery_start_date: Optional[str] = None
+    delivery_end_date: Optional[str] = None
+    countries: List[str] = None
+    impressions: Optional[Dict] = None
+    snapshot: Dict = None
     fetch_time: str = None
 
     def __post_init__(self):
         if self.fetch_time is None:
             self.fetch_time = datetime.now().isoformat()
+        if self.platforms is None:
+            self.platforms = []
+        if self.countries is None:
+            self.countries = []
 
 class FacebookScraper:
     """Scraper for Facebook Ad Library"""
@@ -239,21 +254,173 @@ class FacebookScraper:
                 return []
 
             ads = []
-            edges = data.get('data', {}).get('ads_library_search', {}).get('edges', [])
+            ad_archive_ids = set()
+            
+            # Get all edges from search results
+            edges = data.get('data', {}).get('ad_library_main', {}).get('search_results_connection', {}).get('edges', [])
+            
             for edge in edges:
                 node = edge.get('node', {})
-                ad = FacebookAd(
-                    id=node.get('id'),
-                    page_id=page_id,
-                    page_name=node.get('page_name'),
-                    title=node.get('title'),
-                    body=node.get('body'),
-                    snapshot_url=node.get('snapshot_url'),
-                    creation_time=node.get('creation_time')
-                )
-                ads.append(ad)
+                collated_results = node.get('collated_results', [])
+                
+                for result in collated_results:
+                    ad_archive_id = result.get('ad_archive_id')
+                    if ad_archive_id:
+                        ad_archive_ids.add(ad_archive_id)
+                        
+                        # Create ad object with all available fields
+                        ad = {
+                            'ad_archive_id': ad_archive_id,
+                            'page_id': result.get('page_id'),
+                            'page_name': result.get('page_name'),
+                            'ad_creation_time': result.get('ad_creation_time'),
+                            'ad_creative_bodies': result.get('ad_creative_bodies'),
+                            'ad_creative_link_captions': result.get('ad_creative_link_captions'),
+                            'ad_creative_link_descriptions': result.get('ad_creative_link_descriptions'),
+                            'ad_creative_link_titles': result.get('ad_creative_link_titles'),
+                            'ad_delivery_start_time': result.get('ad_delivery_start_time'),
+                            'ad_delivery_stop_time': result.get('ad_delivery_stop_time'),
+                            'ad_snapshot_url': result.get('ad_snapshot_url'),
+                            'currency': result.get('currency'),
+                            'demographic_distribution': result.get('demographic_distribution'),
+                            'estimated_audience_size': result.get('estimated_audience_size'),
+                            'impressions': result.get('impressions'),
+                            'languages': result.get('languages'),
+                            'publisher_platforms': result.get('publisher_platforms'),
+                            'reach_estimate': result.get('reach_estimate'),
+                            'region_distribution': result.get('region_distribution'),
+                            'spend': result.get('spend'),
+                            'target_locations': result.get('target_locations'),
+                            'target_ages': result.get('target_ages'),
+                            'target_genders': result.get('target_genders'),
+                            'target_interests': result.get('target_interests'),
+                            'potential_reach': result.get('potential_reach'),
+                            'status': result.get('status'),
+                            'snapshot': result.get('snapshot', {})
+                        }
+                        ads.append(ad)
 
-            logging.info(f"Found {len(ads)} ads for page ID: {page_id}")
+            logging.info(f"Found {len(ad_archive_ids)} unique ads (ad_archive_ids) for page ID: {page_id}")
+            
+            # Print detailed ad information
+            if ads:
+                print("\nDetailed Ad Information:")
+                for i, ad in enumerate(ads, 1):
+                    print("\n" + "=" * 100)
+                    print(f"Ad {i} (Archive ID: {ad['ad_archive_id']})")
+                    print("=" * 100)
+                    
+                    # Basic Information
+                    print("\nBasic Information:")
+                    print(f"Page Name: {ad['page_name']}")
+                    print(f"Page ID: {ad['page_id']}")
+                    print(f"Status: {ad['status']}")
+                    print(f"Ad Creation Time: {ad['ad_creation_time']}")
+                    print(f"Ad Delivery Start: {ad['ad_delivery_start_time']}")
+                    print(f"Ad Delivery Stop: {ad['ad_delivery_stop_time']}")
+                    
+                    # Creative Content from Snapshot
+                    snapshot = ad['snapshot']
+                    if snapshot:
+                        print("\nCreative Content:")
+                        if snapshot.get('body', {}).get('text'):
+                            print(f"Body Text: {snapshot['body']['text']}")
+                        
+                        # Display image URLs from snapshot
+                        images = snapshot.get('images', [])
+                        if images:
+                            print("\nAd Images:")
+                            for idx, image in enumerate(images, 1):
+                                print(f"\nImage {idx}:")
+                                if image.get('url'):
+                                    print(f"URL: {image['url']}")
+                                if image.get('original_image_url'):
+                                    print(f"Original URL: {image['original_image_url']}")
+                                if image.get('resized_image_url'):
+                                    print(f"Resized URL: {image['resized_image_url']}")
+                        
+                        # Display video URLs from snapshot
+                        videos = snapshot.get('videos', [])
+                        if videos:
+                            print("\nAd Videos:")
+                            for idx, video in enumerate(videos, 1):
+                                print(f"\nVideo {idx}:")
+                                if video.get('video_url'):
+                                    print(f"Video URL: {video['video_url']}")
+                                if video.get('video_preview_image_url'):
+                                    print(f"Preview Image URL: {video['video_preview_image_url']}")
+                                if video.get('thumbnail_url'):
+                                    print(f"Thumbnail URL: {video['thumbnail_url']}")
+                        
+                        cards = snapshot.get('cards', [])
+                        if cards:
+                            print("\nCards:")
+                            for idx, card in enumerate(cards, 1):
+                                print(f"\nCard {idx}:")
+                                print(f"Body: {card.get('body')}")
+                                print(f"Title: {card.get('title')}")
+                                print(f"Caption: {card.get('caption')}")
+                                print(f"CTA Text: {card.get('cta_text')}")
+                                print(f"Link URL: {card.get('link_url')}")
+                                
+                                # Display card images
+                                if card.get('image_url'):
+                                    print(f"Card Image URL: {card['image_url']}")
+                                if card.get('original_image_url'):
+                                    print(f"Card Original Image URL: {card['original_image_url']}")
+                                if card.get('resized_image_url'):
+                                    print(f"Card Resized Image URL: {card['resized_image_url']}")
+                                
+                                # Display card videos
+                                if card.get('video_url'):
+                                    print(f"Card Video URL: {card['video_url']}")
+                                if card.get('video_preview_url'):
+                                    print(f"Card Video Preview URL: {card['video_preview_url']}")
+                    
+                    # Additional media from ad creative fields
+                    if ad.get('ad_creative_link_captions'):
+                        print("\nAd Creative Link Captions:")
+                        for caption in ad['ad_creative_link_captions']:
+                            print(f"- {caption}")
+                            
+                    if ad.get('ad_creative_link_titles'):
+                        print("\nAd Creative Link Titles:")
+                        for title in ad['ad_creative_link_titles']:
+                            print(f"- {title}")
+                    
+                    # Targeting Information
+                    print("\nTargeting:")
+                    print(f"Locations: {ad['target_locations']}")
+                    print(f"Ages: {ad['target_ages']}")
+                    print(f"Genders: {ad['target_genders']}")
+                    print(f"Interests: {ad['target_interests']}")
+                    print(f"Potential Reach: {ad['potential_reach']}")
+                    
+                    # Distribution & Performance
+                    print("\nDistribution & Performance:")
+                    print(f"Publisher Platforms: {ad['publisher_platforms']}")
+                    print(f"Languages: {ad['languages']}")
+                    print(f"Currency: {ad['currency']}")
+                    print(f"Spend: {ad['spend']}")
+                    print(f"Impressions: {ad['impressions']}")
+                    print(f"Estimated Audience Size: {ad['estimated_audience_size']}")
+                    print(f"Reach Estimate: {ad['reach_estimate']}")
+                    
+                    # Demographics & Regions
+                    if ad['demographic_distribution']:
+                        print("\nDemographic Distribution:")
+                        print(json.dumps(ad['demographic_distribution'], indent=2))
+                    
+                    if ad['region_distribution']:
+                        print("\nRegion Distribution:")
+                        print(json.dumps(ad['region_distribution'], indent=2))
+                    
+                    # Links
+                    print("\nLinks:")
+                    print(f"Ad Snapshot URL: {ad['ad_snapshot_url']}")
+                    
+                    print("-" * 100)
+            
             return ads
 
         except Exception as e:

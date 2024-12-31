@@ -1,0 +1,25 @@
+2024-12-31 17:20:26,609 - INFO - Successfully retrieved cookies from Chrome path: ~/Library/Application Support/Google/Chrome/Profile 2/Cookies
+2024-12-31 17:20:31,678 - INFO - Successfully extracted fb_dtsg token
+2024-12-31 17:20:31,679 - INFO - Successfully extracted LSD token
+2024-12-31 17:20:31,826 - INFO - Saved debug info to data/debug/session_init_20241231_172031_20241231_172031.json
+2024-12-31 17:20:31,826 - INFO - Session initialized successfully with authentication
+2024-12-31 17:20:34,550 - INFO - Saved raw response to data/raw/page_ads_165991287137890_page_0_20241231_172034.txt
+2024-12-31 17:20:34,560 - INFO - Saved debug info to data/debug/response_debug_165991287137890_page_0_20241231_172034.json
+2024-12-31 17:20:34,561 - WARNING - Unexpected ads_data structure: {}
+2024-12-31 17:20:34,561 - WARNING - No ads were collected
+2024-12-31 17:20:34,561 - INFO - Successfully scraped 0 ads for page ID: 165991287137890
+2024-12-31 17:31:59,286 - ERROR - Error searching pages: 404 Client Error: Not Found for url: https://www.facebook.com/ads/library/async/search_pages/?q=BMW&session_id=1735662719_5798&count=10&active_status=all&ad_type=all&countries%5B0%5D=ALL&view_all_page_id=&media_type=all&search_type=page_name
+2024-12-31 17:36:22,038 - INFO - Saved raw response to data/page_search_BMW_20241231_173622.txt
+2024-12-31 17:36:22,038 - ERROR - Failed to parse page search response
+2024-12-31 17:37:53,148 - INFO - Saved raw response to data/page_search_BMW_20241231_173753.txt
+2024-12-31 17:37:53,148 - INFO - Found 0 pages for query: BMW
+2024-12-31 17:40:16,506 - INFO - Saved raw response to data/page_search_BMW_20241231_174016.txt
+2024-12-31 17:40:16,506 - INFO - Found 0 pages for query: BMW
+2024-12-31 17:40:27,699 - INFO - Saved raw response to data/page_search_BMW_20241231_174027.txt
+2024-12-31 17:40:27,699 - INFO - Found 0 pages for query: BMW
+2024-12-31 17:42:19,399 - INFO - Saved raw response to data/page_search_BMW_20241231_174219.txt
+2024-12-31 17:42:19,399 - INFO - Found 15 pages for query: BMW
+2024-12-31 17:44:03,298 - INFO - Saved raw response to data/page_ads_309506851302_20241231_174403.txt
+2024-12-31 17:44:03,299 - INFO - Found 0 ads for page ID: 309506851302
+2024-12-31 17:44:41,546 - INFO - Saved raw response to data/page_ads_309506851302_20241231_174441.txt
+2024-12-31 17:44:41,547 - INFO - Found 0 ads for page ID: 309506851302

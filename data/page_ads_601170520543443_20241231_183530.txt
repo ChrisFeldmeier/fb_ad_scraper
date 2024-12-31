@@ -1,0 +1,1541 @@
+{
+   "data":{
+      "ad_library_main":{
+         "search_results_connection":{
+            "edges":[
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"918322013599230",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":null,
+                           "collation_id":null,
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735632000,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"601170520543443",
+                           "page_is_deleted":false,
+                           "page_name":"Snocks Coffee",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"NEW: BREAKFAST SANDWICH \ud83e\udd6a\n\n2 Freiland Spiegeleier | gegrilltes Wei\u00dfbrot | hausgemachte Baked Beans | Wildkr\u00e4utersalat"
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"snockscoffee.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Snocks Coffee",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":null,
+                              "link_url":"https://snockscoffee.com/",
+                              "page_categories":[
+                                 "Caf\u00e9"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"601170520543443",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":685,
+                              "page_name":"Snocks Coffee",
+                              "page_profile_picture_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t39.35426-6/470613652_1507262636625656_2366783680986630107_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G0Qx25gGd0YQ7kNvgEeawZu&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYDGCtYYcD3sO8hHzZQiE7A2iR5R5Ysbj7oPBAHrFgv1RA&oe=6779FAC2",
+                              "page_profile_uri":"https://www.facebook.com/snockscoffee/",
+                              "root_reshared_post":null,
+                              "title":null,
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t42.1790-2/470158389_918322053599226_1248925316673549635_n.?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VdwNhHydG3gQ7kNvgFcu6z3&_nc_zt=28&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYDrIAT7znpyVBIKCAEROoMS2ZcxqPoW_f0u6ogXElcbhA&oe=6779EA28",
+                                    "video_preview_image_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/470587142_1607911956763344_3370025225097242429_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CIF1jjMgCUcQ7kNvgGcu4Ii&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYAgNtzd9tdp-A1RtW5_th-Q8QFlcj3HoeLE-vosSelprQ&oe=6779F372",
+                                    "video_sd_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t42.1790-2/470063466_1543527929660017_5557815436416843851_n.mp4?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PhMb-vnq-u8Q7kNvgFkoc3_&_nc_zt=28&_nc_ht=scontent-fra5-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYCnKrC3aZYRGylJ3yQJmlPC0Pfhu9DuGr8FLEqWDd81TQ&oe=6779F681",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735545600,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"1091113775830830",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":null,
+                           "collation_id":null,
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735632000,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"601170520543443",
+                           "page_is_deleted":false,
+                           "page_name":"Snocks Coffee",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"POV: Dein Happy Place \ud83e\udd5e\u2615\u2728"
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"snockscoffee.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Snocks Coffee",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":null,
+                              "link_url":"https://snockscoffee.com/",
+                              "page_categories":[
+                                 "Caf\u00e9"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"601170520543443",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":685,
+                              "page_name":"Snocks Coffee",
+                              "page_profile_picture_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t39.35426-6/470177310_1537520276919437_2899796342169781327_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eJrASD8-aS8Q7kNvgFgLvgR&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYDKDZR_49pChUhzjpygE42m_21jhwlX5gC0xfY7Izr0vA&oe=6779FEBC",
+                              "page_profile_uri":"https://www.facebook.com/snockscoffee/",
+                              "root_reshared_post":null,
+                              "title":null,
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t42.1790-2/470586021_1091113832497491_4258673814144204806_n.?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RdCQ9xCQT1kQ7kNvgEsxfVq&_nc_zt=28&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYCCd_TYL4I812sp6yXjJUbVfUk3DIIIPYrzkHizxy8O9w&oe=6779FA24",
+                                    "video_preview_image_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t39.35426-6/470671350_490058470207597_7592337479491508381_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Huy3jZ7zSP8Q7kNvgGOTl1B&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYCTkQfJ-1NWZTh-AAJwYYlBhOXYsVqg0sZ1kiVe1XdBdQ&oe=6779F203",
+                                    "video_sd_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t42.1790-2/470779176_3844565685756446_2428043727098830046_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kb2x_oKHR9AQ7kNvgHQIS_-&_nc_zt=28&_nc_ht=scontent-fra5-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYAgkFmebdp62WgU2qKRE4PaRtZBj_qW2N0LnHnT8Qr0EQ&oe=677A044A",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735545600,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"1628644081388235",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":null,
+                           "collation_id":null,
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735632000,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"601170520543443",
+                           "page_is_deleted":false,
+                           "page_name":"Snocks Coffee",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"G\u00f6nn dir eine Auszeit, nimm dir einen Moment und lass dir eine gute Tasse Kaffee schmecken \ud83d\ude0c"
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"snockscoffee.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Snocks Coffee",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":null,
+                              "link_url":"https://snockscoffee.com/",
+                              "page_categories":[
+                                 "Caf\u00e9"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"601170520543443",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":685,
+                              "page_name":"Snocks Coffee",
+                              "page_profile_picture_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/470223110_928298249478446_3690645763332974507_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=q7AJRZApw-MQ7kNvgHQA93U&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYBDITEXknr65vvYXy8bcpxXOjEVNuF_JTmtqq99qal_NA&oe=677A1170",
+                              "page_profile_uri":"https://www.facebook.com/snockscoffee/",
+                              "root_reshared_post":null,
+                              "title":null,
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t42.1790-2/470815528_1628644104721566_4850171310725479365_n.?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lqqGi16AJpEQ7kNvgHot4_x&_nc_zt=28&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYAl9UqfM-0PFTkkkjMfEB4k-X2HelENk-eyWnj-WssXCw&oe=677A17F3",
+                                    "video_preview_image_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t39.35426-6/470554358_623207660039924_1531360649051476456_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vlTtnsZgQYwQ7kNvgETsLJ9&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYAUW3rYQ6gyKygH_pwcL3LCgygvQmGz1w9wNctSZ9ObuA&oe=677A02F7",
+                                    "video_sd_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t42.1790-2/470643936_1844594929679267_900584180630289752_n.mp4?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XauAPvqhdEsQ7kNvgHjtqH0&_nc_zt=28&_nc_ht=scontent-fra3-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYB213g3IbuNBY8o7wWbcION9ZUBHcGMu-H5ethqgqyjoA&oe=677A0AC0",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735545600,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"3808463549420063",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":null,
+                           "collation_id":null,
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735632000,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"601170520543443",
+                           "page_is_deleted":false,
+                           "page_name":"Snocks Coffee",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"Die wichtigste Mahlzeit des Tages \u2615\ufe0f\ud83d\udc40\nMakiere die erste Person die dir einf\u00e4llt \ud83d\ude0f"
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"snockscoffee.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Snocks Coffee",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":null,
+                              "link_url":"https://snockscoffee.com/",
+                              "page_categories":[
+                                 "Caf\u00e9"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"601170520543443",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":685,
+                              "page_name":"Snocks Coffee",
+                              "page_profile_picture_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t39.35426-6/470199835_895733582635842_6546285682524193364_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_3HNUFC2BjwQ7kNvgHSNRgI&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYDv-LJtcWTRulf9G4dbQ4TUMPuuBPR_PP08nwmFTOx-ag&oe=6779E1F1",
+                              "page_profile_uri":"https://www.facebook.com/snockscoffee/",
+                              "root_reshared_post":null,
+                              "title":null,
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t42.1790-2/470161814_3808463592753392_343592835314917596_n.?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VBHi3Y5b0WEQ7kNvgE4Wwwj&_nc_zt=28&_nc_ht=scontent-fra5-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYDZO6APl1at9TT2l0GlB8if1brtd3lOT4ImbhZd-M3cwA&oe=677A191D",
+                                    "video_preview_image_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/470186457_3135079683298102_825654738104919189_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sp_xsk2KTcgQ7kNvgG9Q8dS&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYDneOAlnlfuHY5uLS9tZdGRAKd1ecNxEZQwbzOzA6MOnQ&oe=6779E3DE",
+                                    "video_sd_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t42.1790-2/470330880_810476131205595_6954696804463186847_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bCWVBxMKK4AQ7kNvgHp6V_G&_nc_zt=28&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYCalhAcbglSJuvKDf_QxCH4X12_0XUmYwFyvIA4Ijp04g&oe=6779F387",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735545600,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"553822860897202",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":null,
+                           "collation_id":null,
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735632000,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"601170520543443",
+                           "page_is_deleted":false,
+                           "page_name":"Snocks Coffee",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"Die wichtigste Mahlzeit des Tages \u2615\ufe0f\ud83d\udc40\nMakiere die erste Person die dir einf\u00e4llt \ud83d\ude0f"
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"snockscoffee.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Snocks Coffee",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":null,
+                              "link_url":"https://snockscoffee.com/",
+                              "page_categories":[
+                                 "Caf\u00e9"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"601170520543443",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":685,
+                              "page_name":"Snocks Coffee",
+                              "page_profile_picture_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/470164769_1801403353930663_2820020120304398538_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JXc1L-knt5YQ7kNvgHKu8Xq&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYAtYnGkEfayR_oXnlAvm4s1Nr2m20gr42b_he12bu_p8Q&oe=6779FC63",
+                              "page_profile_uri":"https://www.facebook.com/snockscoffee/",
+                              "root_reshared_post":null,
+                              "title":null,
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t42.1790-2/470085362_553822917563863_1017489766487691809_n.?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Gndxhe37NsoQ7kNvgGhFstG&_nc_zt=28&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYCaN20OQVnJTHsriJeKyx6ih05s4kNbfm_wbtsnrdOOrw&oe=6779E2CA",
+                                    "video_preview_image_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/470180846_1235705194389874_48964234453882308_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IEDarMIDAe8Q7kNvgGcNFX8&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYAUPq0YfIqJ0vetNgxtj1Vk7p8OGgBgnE0wSyJklEOB8Q&oe=6779F212",
+                                    "video_sd_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t42.1790-2/470330880_810476131205595_6954696804463186847_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bCWVBxMKK4AQ7kNvgHp6V_G&_nc_zt=28&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYCalhAcbglSJuvKDf_QxCH4X12_0XUmYwFyvIA4Ijp04g&oe=6779F387",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1734422400,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"1107886164127787",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":null,
+                           "collation_id":null,
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735632000,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"601170520543443",
+                           "page_is_deleted":false,
+                           "page_name":"Snocks Coffee",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"G\u00f6nn dir eine Auszeit, nimm dir einen Moment und lass dir eine gute Tasse Kaffee schmecken \ud83d\ude0c"
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"snockscoffee.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Snocks Coffee",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":null,
+                              "link_url":"https://snockscoffee.com/",
+                              "page_categories":[
+                                 "Caf\u00e9"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"601170520543443",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":685,
+                              "page_name":"Snocks Coffee",
+                              "page_profile_picture_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t39.35426-6/470465225_501468585635847_8640971482578965378_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PZBPAfxPlfgQ7kNvgHWbJ8E&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYCipB5qd0iWJHN3_1vYJhvmvF0NlkOfjVSJNZ6KPLux8Q&oe=677A0515",
+                              "page_profile_uri":"https://www.facebook.com/snockscoffee/",
+                              "root_reshared_post":null,
+                              "title":null,
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t42.1790-2/470169566_1107886250794445_1752612361654166972_n.?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0GPEZldEDX4Q7kNvgFK03Xr&_nc_zt=28&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYC8CXxbS0HdMh49vFkJPWoYHIEPePmv2cdftr2qiSYRWA&oe=6779F4FA",
+                                    "video_preview_image_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/470219642_461755603635525_3762288844752115947_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n_23RIAlHLkQ7kNvgEa4cWA&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYDhkkiBwV_NeywI6XAe-0HuDvCFCUHAmcoltQqabXbSIA&oe=6779E1E3",
+                                    "video_sd_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t42.1790-2/470643936_1844594929679267_900584180630289752_n.mp4?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XauAPvqhdEsQ7kNvgHjtqH0&_nc_zt=28&_nc_ht=scontent-fra3-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYB213g3IbuNBY8o7wWbcION9ZUBHcGMu-H5ethqgqyjoA&oe=677A0AC0",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1734422400,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"1250501466216949",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":null,
+                           "collation_id":null,
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735632000,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"601170520543443",
+                           "page_is_deleted":false,
+                           "page_name":"Snocks Coffee",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"POV: Dein Happy Place \ud83e\udd5e\u2615\u2728"
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"snockscoffee.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Snocks Coffee",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":null,
+                              "link_url":"https://snockscoffee.com/",
+                              "page_categories":[
+                                 "Caf\u00e9"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"601170520543443",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":685,
+                              "page_name":"Snocks Coffee",
+                              "page_profile_picture_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/470796844_3445026015793743_321167850843136175_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NHlIoFR9RXEQ7kNvgFSmkhR&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYBIDPDc3IUe20EFgSaes5b55unGExu5b809XZPuJE9C2w&oe=677A00D4",
+                              "page_profile_uri":"https://www.facebook.com/snockscoffee/",
+                              "root_reshared_post":null,
+                              "title":null,
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t42.1790-2/470677496_1099693528047278_5173680092927356355_n.?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pPKN63STO3kQ7kNvgHUBca5&_nc_zt=28&_nc_ht=scontent-fra5-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYD70eBJj7XDO0iCiZ-HI4dU9NB_lteAcIn_0cOvbSw4IA&oe=6779F685",
+                                    "video_preview_image_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t39.35426-6/470576688_432615506593621_6420330307472597987_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O0IPYFzb11sQ7kNvgGab_5C&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYCCdFwXqGOAp0ahcU868gLXETmCOBN2ylhRMnPMX1sGJw&oe=677A080A",
+                                    "video_sd_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t42.1790-2/470779176_3844565685756446_2428043727098830046_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kb2x_oKHR9AQ7kNvgHQIS_-&_nc_zt=28&_nc_ht=scontent-fra5-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYAgkFmebdp62WgU2qKRE4PaRtZBj_qW2N0LnHnT8Qr0EQ&oe=677A044A",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1734422400,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"1278809236782432",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":null,
+                           "collation_id":null,
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735632000,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"601170520543443",
+                           "page_is_deleted":false,
+                           "page_name":"Snocks Coffee",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"Die wichtigste Mahlzeit des Tages \u2615\ufe0f\ud83d\udc40\nMakiere die erste Person die dir einf\u00e4llt \ud83d\ude0f"
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"snockscoffee.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Snocks Coffee",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":null,
+                              "link_url":"https://snockscoffee.com/",
+                              "page_categories":[
+                                 "Caf\u00e9"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"601170520543443",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":685,
+                              "page_name":"Snocks Coffee",
+                              "page_profile_picture_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/470170411_1248537216205693_6425967511930933590_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bN5sY0OjbkgQ7kNvgFearjp&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYCcfTVpXU3SZPghkJEB9MatZhD7E5RGkks_YlGTZgTn0g&oe=6779E340",
+                              "page_profile_uri":"https://www.facebook.com/snockscoffee/",
+                              "root_reshared_post":null,
+                              "title":null,
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t42.1790-2/470121148_1624527164837441_1884161842856050420_n.?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SsHTy-fECg4Q7kNvgErelD8&_nc_zt=28&_nc_ht=scontent-fra5-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYB5QqGi0rsy8fBfo2pfuMwAvKRAmkV0iVx7w7wjMBWIfg&oe=677A1200",
+                                    "video_preview_image_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t39.35426-6/470216541_1102921427700847_4580250227925408136_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Tx3JZZwhMT8Q7kNvgEcckI9&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYACrRrcafltoCHa95hO685SVNgnjcQ29IcHXRwAMoEgcQ&oe=677A0B82",
+                                    "video_sd_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t42.1790-2/470330880_810476131205595_6954696804463186847_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bCWVBxMKK4AQ7kNvgHp6V_G&_nc_zt=28&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYCalhAcbglSJuvKDf_QxCH4X12_0XUmYwFyvIA4Ijp04g&oe=6779F387",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1734422400,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"1278947653155966",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":null,
+                           "collation_id":null,
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735632000,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"601170520543443",
+                           "page_is_deleted":false,
+                           "page_name":"Snocks Coffee",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"NEW: BREAKFAST SANDWICH \ud83e\udd6a\n\n2 Freiland Spiegeleier | gegrilltes Wei\u00dfbrot | hausgemachte Baked Beans | Wildkr\u00e4utersalat"
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"snockscoffee.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Snocks Coffee",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":null,
+                              "link_url":"https://snockscoffee.com/",
+                              "page_categories":[
+                                 "Caf\u00e9"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"601170520543443",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":685,
+                              "page_name":"Snocks Coffee",
+                              "page_profile_picture_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t39.35426-6/470667187_1801078517327942_2848785958102911408_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PlcQfqbXHtAQ7kNvgGPwdTS&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYD2JbsDjNqx4E6MvN6keI-b6zannwtnWCzDOYWcAlGkYQ&oe=6779F34F",
+                              "page_profile_uri":"https://www.facebook.com/snockscoffee/",
+                              "root_reshared_post":null,
+                              "title":null,
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t42.1790-2/470093042_1093841248686729_5800596581665904943_n.?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CyUz87g_77gQ7kNvgFzu8Bo&_nc_zt=28&_nc_ht=scontent-fra5-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYAcqBZnsQcZPvKfUf4CWRddbhGK4WjHW7mExViAE0FgYg&oe=6779E9F7",
+                                    "video_preview_image_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/470558433_1803064760534273_268419565398247790_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n8cODoOQ984Q7kNvgEwMD6o&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYCXhI7bDuYj86_WflmUSAqLQdu1Tk3qpSQ8JQjUrG89Dg&oe=677A0CB8",
+                                    "video_sd_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t42.1790-2/470063466_1543527929660017_5557815436416843851_n.mp4?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PhMb-vnq-u8Q7kNvgFkoc3_&_nc_zt=28&_nc_ht=scontent-fra5-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYCnKrC3aZYRGylJ3yQJmlPC0Pfhu9DuGr8FLEqWDd81TQ&oe=6779F681",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1734422400,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"1303758273981762",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":null,
+                           "collation_id":null,
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735632000,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"601170520543443",
+                           "page_is_deleted":false,
+                           "page_name":"Snocks Coffee",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"NEW: BREAKFAST SANDWICH \ud83e\udd6a\n\n2 Freiland Spiegeleier | gegrilltes Wei\u00dfbrot | hausgemachte Baked Beans | Wildkr\u00e4utersalat"
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"snockscoffee.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Snocks Coffee",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":null,
+                              "link_url":"https://snockscoffee.com/",
+                              "page_categories":[
+                                 "Caf\u00e9"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"601170520543443",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":685,
+                              "page_name":"Snocks Coffee",
+                              "page_profile_picture_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/470197859_956872249639666_2570616544488710683_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_8Snmfo9LFwQ7kNvgGVPFxa&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYAN-9CXffO7RDXWLWzbKWWwhGN0d1sy4J57HzTCZYc8fA&oe=6779EC81",
+                              "page_profile_uri":"https://www.facebook.com/snockscoffee/",
+                              "root_reshared_post":null,
+                              "title":null,
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t42.1790-2/470309717_1303758323981757_2088518965685635810_n.?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nCaw8ZJE15MQ7kNvgHkUiMn&_nc_zt=28&_nc_ht=scontent-fra3-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYCnAusQ0cS1WDjDf8prNlR5rPF0vYhEV2epMsO-ihsxMQ&oe=677A057D",
+                                    "video_preview_image_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t39.35426-6/470227598_1750452219087110_7815967361346753952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ck3u1JCYNAIQ7kNvgFE-cB2&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYBaggqJi-eW-ZqRxtaADr9mV67MYapl72U7uELaTr4XxA&oe=6779FA33",
+                                    "video_sd_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t42.1790-2/470063466_1543527929660017_5557815436416843851_n.mp4?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PhMb-vnq-u8Q7kNvgFkoc3_&_nc_zt=28&_nc_ht=scontent-fra5-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYCnKrC3aZYRGylJ3yQJmlPC0Pfhu9DuGr8FLEqWDd81TQ&oe=6779F681",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1734422400,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"1609304346648807",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":null,
+                           "collation_id":null,
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735632000,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"601170520543443",
+                           "page_is_deleted":false,
+                           "page_name":"Snocks Coffee",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"G\u00f6nn dir eine Auszeit, nimm dir einen Moment und lass dir eine gute Tasse Kaffee schmecken \ud83d\ude0c"
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"snockscoffee.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Snocks Coffee",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":null,
+                              "link_url":"https://snockscoffee.com/",
+                              "page_categories":[
+                                 "Caf\u00e9"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"601170520543443",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":685,
+                              "page_name":"Snocks Coffee",
+                              "page_profile_picture_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t39.35426-6/470209876_902130612081128_5170357447896182756_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KNJtmIZZO7YQ7kNvgFTRsxk&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYCjhcSZ7r64ZmPGyGWUOfUHGm_wHXWXo7hK2eqiLow4PA&oe=6779FD37",
+                              "page_profile_uri":"https://www.facebook.com/snockscoffee/",
+                              "root_reshared_post":null,
+                              "title":null,
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t42.1790-2/470265702_1251547822765171_4183106618405357960_n.?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hzExRoWqRgIQ7kNvgG9CTyy&_nc_zt=28&_nc_ht=scontent-fra3-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYCQYHdMl_4jWzXBA6UQ7ijZZtysCnJiNuQSE2luS-_PAw&oe=6779EF2E",
+                                    "video_preview_image_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t39.35426-6/470685997_966599888850645_2022881968844212908_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bEv0hTRDJwQQ7kNvgEbB7n9&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYD4EVTEnuWFWobvPhZMxrsGOeZj-KPmbnRrmIA8jo5pQg&oe=6779EFDD",
+                                    "video_sd_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t42.1790-2/470643936_1844594929679267_900584180630289752_n.mp4?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XauAPvqhdEsQ7kNvgHjtqH0&_nc_zt=28&_nc_ht=scontent-fra3-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYB213g3IbuNBY8o7wWbcION9ZUBHcGMu-H5ethqgqyjoA&oe=677A0AC0",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1734422400,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"3555929884700354",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":null,
+                           "collation_id":null,
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735632000,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"601170520543443",
+                           "page_is_deleted":false,
+                           "page_name":"Snocks Coffee",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"POV: Dein Happy Place \ud83e\udd5e\u2615\u2728"
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"snockscoffee.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Snocks Coffee",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":null,
+                              "link_url":"https://snockscoffee.com/",
+                              "page_categories":[
+                                 "Caf\u00e9"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"601170520543443",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":685,
+                              "page_name":"Snocks Coffee",
+                              "page_profile_picture_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/470184340_3805977619625236_5413163179324228882_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VWfveD-Q46UQ7kNvgGLwlIG&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYD6ZMwrF4PmgtBu6eqURK9ZaabwhqkH7YP-y45vAH7xwg&oe=6779F22C",
+                              "page_profile_uri":"https://www.facebook.com/snockscoffee/",
+                              "root_reshared_post":null,
+                              "title":null,
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t42.1790-2/470147699_3555929914700351_8094502943504309411_n.?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uSOMje_MvDYQ7kNvgEQ6gZu&_nc_zt=28&_nc_ht=scontent-fra3-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYD75p8TAeikqeUMcp2mRvpMUszapdcRCEx50UM2IHywlQ&oe=677A10D4",
+                                    "video_preview_image_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t39.35426-6/470217698_597809379389632_3399196383762886867_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xve-ONWarR8Q7kNvgGwHNz8&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYCiK-HFuN7_S0P1VMyjbVYDlJ6KFcRoc9MquKgg8HNzJw&oe=677A023F",
+                                    "video_sd_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t42.1790-2/470779176_3844565685756446_2428043727098830046_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kb2x_oKHR9AQ7kNvgHQIS_-&_nc_zt=28&_nc_ht=scontent-fra5-2.xx&_nc_gid=A8tuU9C_nKw0fYXNA_jerc6&oh=00_AYAgkFmebdp62WgU2qKRE4PaRtZBj_qW2N0LnHnT8Qr0EQ&oe=677A044A",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1734422400,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               }
+            ],
+            "page_info":{
+               "end_cursor":"",
+               "has_next_page":false
+            }
+         }
+      }
+   },
+   "extensions":{
+      "is_final":true
+   }
+}

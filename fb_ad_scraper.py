@@ -401,6 +401,64 @@ class FacebookScraper:
             logging.error(f"Error getting page ads: {str(e)}")
             return []
 
+    def get_ad_details(self, ad_archive_id: str, page_id: str) -> Optional[Dict]:
+        """Get detailed information for a specific ad"""
+        url = "https://www.facebook.com/api/graphql/"
+        
+        variables = {
+            "adArchiveID": ad_archive_id,
+            "pageID": page_id,
+            "country": "DE",
+            "sessionID": str(uuid.uuid4()),
+            "source": None,
+            "isAdNonPolitical": True,
+            "isAdNotAAAEligible": False,
+            "__relay_internal__pv__AdLibraryFinservGraphQLGKrelayprovider": True
+        }
+        
+        # Get base parameters and add request specific ones
+        data = self._get_request_params()
+        data.update({
+            'fb_api_caller_class': 'RelayModern',
+            'fb_api_req_friendly_name': 'AdLibraryAdDetailsV2Query',
+            'variables': json.dumps(variables),
+            'server_timestamps': 'true',
+            'doc_id': '9407590475934210'  # doc_id for ad details query
+        })
+
+        try:
+            response = self.session.post(url, data=data)
+            response.raise_for_status()
+            
+            # Save raw response
+            self._save_raw_response(response.text, f"ad_detail_{ad_archive_id}")
+            
+            # Parse response
+            data = self._parse_response(response.text)
+            if not data or 'data' not in data:
+                logging.error("Failed to parse ad detail response")
+                return None
+
+            # Extract ad details from response
+            ad_details = data.get('data', {}).get('ad', {})
+            
+            if ad_details:
+                print("\nDetailed Ad Information:")
+                print("=" * 100)
+                print(f"Ad Archive ID: {ad_archive_id}")
+                print("=" * 100)
+                
+                # Print all available information
+                print(json.dumps(ad_details, indent=2))
+                
+                return ad_details
+            
+            return None
+
+        except Exception as e:
+            logging.error(f"Error getting ad details: {str(e)}")
+            return None
+
     def _generate_session_id(self) -> str:
         """Generate a session ID"""
         return f"{int(time.time())}_{random.randint(1000, 9999)}"
@@ -520,10 +578,11 @@ class FacebookScraper:
 
 def main():
     parser = argparse.ArgumentParser(description='Facebook Ad Library Scraper')
-    parser.add_argument('--mode', type=str, required=True, choices=['search', 'ads'],
-                      help='Scraping mode: search (find pages) or ads (get ads by page ID)')
+    parser.add_argument('--mode', type=str, required=True, choices=['search', 'ads', 'detail'],
+                      help='Scraping mode: search (find pages), ads (get ads by page ID), or detail (get detailed ad info)')
     parser.add_argument('--query', type=str, help='Search query for page search mode')
     parser.add_argument('--page-id', type=str, help='Page ID for ads mode')
+    parser.add_argument('--ad-archive-id', type=str, help='Ad Archive ID for detail mode')
     parser.add_argument('--data-dir', type=str, default='data', help='Directory for storing data')
     
     args = parser.parse_args()
@@ -551,6 +610,15 @@ def main():
             ads = scraper.get_page_ads(args.page_id)
             if ads:
                 print(f"\nFound {len(ads)} ads for page ID: {args.page_id}")
+                
+        elif args.mode == 'detail':
+            if not args.ad_archive_id:
+                parser.error("--ad-archive-id is required for detail mode")
+            if not args.page_id:
+                parser.error("--page-id is required for detail mode")
+            ad_details = scraper.get_ad_details(args.ad_archive_id, args.page_id)
+            if not ad_details:
+                print(f"No details found for ad {args.ad_archive_id}")
                 
     except KeyboardInterrupt:
         logging.info("Scraper stopped by user")

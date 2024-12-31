@@ -96,3 +96,88 @@
 2024-12-31 18:26:13,244 - INFO - Found spin_b: trunk
 2024-12-31 18:26:13,879 - INFO - Saved raw response to data/page_ads_109806077081081_20241231_182613.txt
 2024-12-31 18:26:13,881 - INFO - Found 30 unique ads (ad_archive_ids) for page ID: 109806077081081
+2024-12-31 18:32:30,474 - INFO - Found fb_dtsg token: NAcPTXYvW_lWA1QxMGucz10ef3Sr-1IRHQ5KR9kfN0i-id_odHpmuGw:16:1699733852
+2024-12-31 18:32:30,475 - INFO - Found client revision: 1019106461
+2024-12-31 18:32:30,475 - INFO - Found LSD token: ECXGLNXycu-hScSyx1cd3F
+2024-12-31 18:32:30,475 - INFO - Found haste session: 20088.HYP:comet_plat_default_pkg.2.1.0.2.1
+2024-12-31 18:32:30,476 - INFO - Found spin_r: 1019106461
+2024-12-31 18:32:30,476 - INFO - Found spin_b: trunk
+2024-12-31 18:32:32,974 - INFO - Saved raw response to data/page_search_„Snocks“_20241231_183232.txt
+2024-12-31 18:32:32,974 - INFO - Found 13 pages for query: „Snocks“
+2024-12-31 18:32:58,253 - INFO - Found fb_dtsg token: NAcNvvJUy7Bp2l5HZWXSy4nIX4-9LQxIFfS03FnZCCZ-WYPgDOijY8A:16:1699733852
+2024-12-31 18:32:58,254 - INFO - Found client revision: 1019106461
+2024-12-31 18:32:58,254 - INFO - Found LSD token: 2iI26jH7TLBndHIUyvJntm
+2024-12-31 18:32:58,254 - INFO - Found haste session: 20088.HYP:comet_plat_default_pkg.2.1.0.2.1
+2024-12-31 18:32:58,255 - INFO - Found spin_r: 1019106461
+2024-12-31 18:32:58,255 - INFO - Found spin_b: trunk
+2024-12-31 18:32:58,510 - INFO - Saved raw response to data/page_ads_10980607708108_20241231_183258.txt
+2024-12-31 18:32:58,510 - INFO - Found 0 unique ads (ad_archive_ids) for page ID: 10980607708108
+2024-12-31 18:33:27,506 - INFO - Found fb_dtsg token: NAcNkjKxlwrIpJxAnUVhghIPFKfppHO4cLqaclTGczuLyk0lu6_cvFg:16:1699733852
+2024-12-31 18:33:27,507 - INFO - Found client revision: 1019106461
+2024-12-31 18:33:27,507 - INFO - Found LSD token: 2ffjnUytYdCpj1IFgTscFT
+2024-12-31 18:33:27,507 - INFO - Found haste session: 20088.HYP:comet_plat_default_pkg.2.1.0.2.1
+2024-12-31 18:33:27,508 - INFO - Found spin_r: 1019106461
+2024-12-31 18:33:27,508 - INFO - Found spin_b: trunk
+2024-12-31 18:33:28,635 - INFO - Saved raw response to data/page_search_Snocks_20241231_183328.txt
+2024-12-31 18:33:28,635 - INFO - Found 13 pages for query: Snocks
+2024-12-31 18:33:41,961 - INFO - Found fb_dtsg token: NAcPJ5S2Qu9BrbmWQz0eVmFiiBIAXbgIRvKmCdppV3H8VmK46Bsipfw:16:1699733852
+2024-12-31 18:33:41,961 - INFO - Found client revision: 1019106461
+2024-12-31 18:33:41,962 - INFO - Found LSD token: QFBX5WjGvV0Xnz6OR07tpB
+2024-12-31 18:33:41,962 - INFO - Found haste session: 20088.HYP:comet_plat_default_pkg.2.1.0.2.1
+2024-12-31 18:33:41,963 - INFO - Found spin_r: 1019106461
+2024-12-31 18:33:41,963 - INFO - Found spin_b: trunk
+2024-12-31 18:33:42,652 - INFO - Saved raw response to data/page_ads_109806077081081_20241231_183342.txt
+2024-12-31 18:33:42,654 - INFO - Found 30 unique ads (ad_archive_ids) for page ID: 109806077081081
+2024-12-31 18:34:11,508 - INFO - Found fb_dtsg token: NAcN8fyjZaWDda_SmlGbwDCwIBQ1M2ok9gGcgr8yJUzmGVzK8K51NGA:16:1699733852
+2024-12-31 18:34:11,508 - INFO - Found client revision: 1019106461
+2024-12-31 18:34:11,509 - INFO - Found LSD token: af05V4RqbyqdnNA-j378-A
+2024-12-31 18:34:11,509 - INFO - Found haste session: 20088.HYP:comet_plat_default_pkg.2.1.0.2.1
+2024-12-31 18:34:11,510 - INFO - Found spin_r: 1019106461
+2024-12-31 18:34:11,510 - INFO - Found spin_b: trunk
+2024-12-31 18:34:12,055 - INFO - Saved raw response to data/page_search_Snocks_20241231_183412.txt
+2024-12-31 18:34:12,056 - INFO - Found 13 pages for query: Snocks
+2024-12-31 18:34:43,888 - INFO - Found fb_dtsg token: NAcPzaGGFCPnRC7Tb6l4FXE6u6i_tKU1qP6brnvdIjyZVA5DvYdSGrQ:16:1699733852
+2024-12-31 18:34:43,889 - INFO - Found client revision: 1019106461
+2024-12-31 18:34:43,889 - INFO - Found LSD token: otVl-IDQCFENwk-r8y7acW
+2024-12-31 18:34:43,890 - INFO - Found haste session: 20088.HYP:comet_plat_default_pkg.2.1.0.2.1
+2024-12-31 18:34:43,890 - INFO - Found spin_r: 1019106461
+2024-12-31 18:34:43,890 - INFO - Found spin_b: trunk
+2024-12-31 18:34:44,489 - INFO - Saved raw response to data/page_ads_109806077081081_20241231_183444.txt
+2024-12-31 18:34:44,492 - INFO - Found 30 unique ads (ad_archive_ids) for page ID: 109806077081081
+2024-12-31 18:34:56,854 - INFO - Found fb_dtsg token: NAcPa7-DaCL95nzdRJFbN8PJkaoxnD_GDh1X0INcFlx7546Y-EYE89A:16:1699733852
+2024-12-31 18:34:56,854 - INFO - Found client revision: 1019106461
+2024-12-31 18:34:56,855 - INFO - Found LSD token: IU6xZM_4mLdu5BQw6WHRbV
+2024-12-31 18:34:56,855 - INFO - Found haste session: 20088.HYP:comet_plat_default_pkg.2.1.0.2.1
+2024-12-31 18:34:56,856 - INFO - Found spin_r: 1019106461
+2024-12-31 18:34:56,856 - INFO - Found spin_b: trunk
+2024-12-31 18:34:57,375 - INFO - Saved raw response to data/page_ads_311993875321520_20241231_183457.txt
+2024-12-31 18:34:57,376 - INFO - Found 0 unique ads (ad_archive_ids) for page ID: 311993875321520
+2024-12-31 18:35:29,889 - INFO - Found fb_dtsg token: NAcN6EvNFFarWts2S_1HiV9zgWYMQ-f_g5Z__QCsSSYiNBZ6BAQy0mg:16:1699733852
+2024-12-31 18:35:29,889 - INFO - Found client revision: 1019106461
+2024-12-31 18:35:29,890 - INFO - Found LSD token: Qa7A75Xj-BroAGZ0p4bNEy
+2024-12-31 18:35:29,890 - INFO - Found haste session: 20088.HYP:comet_plat_default_pkg.2.1.0.2.1
+2024-12-31 18:35:29,890 - INFO - Found spin_r: 1019106461
+2024-12-31 18:35:29,891 - INFO - Found spin_b: trunk
+2024-12-31 18:35:30,688 - INFO - Saved raw response to data/page_ads_601170520543443_20241231_183530.txt
+2024-12-31 18:35:30,689 - INFO - Found 12 unique ads (ad_archive_ids) for page ID: 601170520543443
+2024-12-31 18:41:14,106 - INFO - Found fb_dtsg token: NAcOGmTqRKHAAvl27z93pWzwsd_2e6fO-e1lRm2mVzZ9TbIDStqNUyw:16:1699733852
+2024-12-31 18:41:14,107 - INFO - Found client revision: 1019106461
+2024-12-31 18:41:14,107 - INFO - Found LSD token: DZbVY3w73P9BjZLZgUvVuW
+2024-12-31 18:41:14,108 - INFO - Found haste session: 20088.HYP:comet_plat_default_pkg.2.1.0.2.1
+2024-12-31 18:41:14,108 - INFO - Found spin_r: 1019106461
+2024-12-31 18:41:14,108 - INFO - Found spin_b: trunk
+2024-12-31 18:41:14,411 - INFO - Saved raw response to data/ad_detail_753423113226133_20241231_184114.txt
+2024-12-31 18:42:40,968 - INFO - Found fb_dtsg token: NAcPOIdB0tcn-Y37saIqd_ReBix26WzLdu7SctMNokfrfH88vHh8DWg:16:1699733852
+2024-12-31 18:42:40,969 - INFO - Found client revision: 1019106461
+2024-12-31 18:42:40,969 - INFO - Found LSD token: 9OO-POUYneAucUxQjP6Ilb
+2024-12-31 18:42:40,970 - INFO - Found haste session: 20088.HYP:comet_plat_default_pkg.2.1.0.2.1
+2024-12-31 18:42:40,971 - INFO - Found spin_r: 1019106461
+2024-12-31 18:42:40,971 - INFO - Found spin_b: trunk
+2024-12-31 18:42:41,234 - INFO - Saved raw response to data/ad_detail_399630302992768_20241231_184241.txt
+2024-12-31 18:43:37,376 - INFO - Found fb_dtsg token: NAcPnX6T1bWrNSirc0yKJikhlw_f_aVmuyZ2by93_EUrGX_OXVkV9Mw:16:1699733852
+2024-12-31 18:43:37,377 - INFO - Found client revision: 1019106461
+2024-12-31 18:43:37,377 - INFO - Found LSD token: A1zQ5CCMm7F3p0RwYnQdOf
+2024-12-31 18:43:37,378 - INFO - Found haste session: 20088.HYP:comet_plat_default_pkg.2.1.0.2.1
+2024-12-31 18:43:37,378 - INFO - Found spin_r: 1019106461
+2024-12-31 18:43:37,378 - INFO - Found spin_b: trunk
+2024-12-31 18:43:37,739 - INFO - Saved raw response to data/ad_detail_399630302992768_20241231_184337.txt

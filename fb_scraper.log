@@ -297,3 +297,59 @@
 2025-01-01 18:16:04,412 - INFO - Saved raw response to data/page_ads_109806077081081_20250101_181604.txt
 2025-01-01 18:16:04,415 - INFO - Found 30 unique ads (ad_archive_ids) for page ID: 109806077081081
 2025-01-01 18:16:04,424 - ERROR - Error getting ad details: 'start_date'
+2025-01-01 18:18:20,993 - INFO - Found fb_dtsg token: NAcMDF1u3IE3P4-Yxp2eUtq2e4St6XLmsKzL6HtPyC0igsozuou6ksg:16:1699733852
+2025-01-01 18:18:20,994 - INFO - Found client revision: 1019110720
+2025-01-01 18:18:20,994 - INFO - Found LSD token: wYaBgN-a6xijv77KO0sSU5
+2025-01-01 18:18:20,995 - INFO - Found haste session: 20089.HYP:comet_plat_default_pkg.2.1.0.2.1
+2025-01-01 18:18:20,995 - INFO - Found spin_r: 1019110720
+2025-01-01 18:18:20,996 - INFO - Found spin_b: trunk
+2025-01-01 18:18:21,233 - INFO - Saved raw response to data/ad_detail_123456789_20250101_181821.txt
+2025-01-01 18:18:21,899 - INFO - Saved raw response to data/page_ads_109806077081081_20250101_181821.txt
+2025-01-01 18:18:21,902 - ERROR - Error getting page ads: 'NoneType' object has no attribute 'get'
+2025-01-01 18:18:21,902 - ERROR - Error getting ad details: 'start_date'
+2025-01-01 18:21:20,738 - INFO - Found fb_dtsg token: NAcPjb4QNXEODjGrQvs8wYRfM3aJ9gg6SI5wNaS4tq7VyPEBuPsLc4g:16:1699733852
+2025-01-01 18:21:20,738 - INFO - Found client revision: 1019110720
+2025-01-01 18:21:20,738 - INFO - Found LSD token: cLONwxALEBwkB6qGlhfb_J
+2025-01-01 18:21:20,739 - INFO - Found haste session: 20089.HYP:comet_plat_default_pkg.2.1.0.2.1
+2025-01-01 18:21:20,739 - INFO - Found spin_r: 1019110720
+2025-01-01 18:21:20,739 - INFO - Found spin_b: trunk
+2025-01-01 18:21:21,008 - INFO - Saved raw response to data/ad_detail_123456789_20250101_182121.txt
+2025-01-01 18:21:22,140 - INFO - Saved raw response to data/page_ads_109806077081081_20250101_182122.txt
+2025-01-01 18:21:22,142 - INFO - Found 30 unique ads (ad_archive_ids) for page ID: 109806077081081
+2025-01-01 18:21:22,150 - ERROR - Error getting ad details: 'start_date'
+2025-01-01 18:27:27,261 - INFO - Found fb_dtsg token: NAcPoqDshYs2izcrCyi4DmIfOPDrM50eWXqQm2oBjmG7yj9MNBKH4Rg:16:1699733852
+2025-01-01 18:27:27,261 - INFO - Found client revision: 1019110720
+2025-01-01 18:27:27,262 - INFO - Found LSD token: 5jn5APF2IjUSjf7TJfUwZP
+2025-01-01 18:27:27,262 - INFO - Found haste session: 20089.HYP:comet_plat_default_pkg.2.1.0.2.1
+2025-01-01 18:27:27,262 - INFO - Found spin_r: 1019110720
+2025-01-01 18:27:27,263 - INFO - Found spin_b: trunk
+2025-01-01 18:27:27,518 - INFO - Saved raw response to data/ad_detail_907904044856186_20250101_182727.txt
+2025-01-01 18:27:27,518 - ERROR - Error getting ad details: list index out of range
+2025-01-01 18:28:36,381 - INFO - Found fb_dtsg token: NAcOAFcPNqS6nqDGaAm2XCTC_fRTpP8AVQOZ6TRxmoqfk_bOTAPHScg:16:1699733852
+2025-01-01 18:28:36,381 - INFO - Found client revision: 1019110720
+2025-01-01 18:28:36,382 - INFO - Found LSD token: D0xAkaih8_FX79l_glnyqz
+2025-01-01 18:28:36,382 - INFO - Found haste session: 20089.HYP:comet_plat_default_pkg.2.1.0.2.1
+2025-01-01 18:28:36,383 - INFO - Found spin_r: 1019110720
+2025-01-01 18:28:36,383 - INFO - Found spin_b: trunk
+2025-01-01 18:28:36,790 - INFO - Saved raw response to data/ad_detail_907904044856186_20250101_182836.txt
+2025-01-01 18:28:37,629 - INFO - Saved raw response to data/page_ads_110653097137723_20250101_182837.txt
+2025-01-01 18:28:37,630 - INFO - Found 16 unique ads (ad_archive_ids) for page ID: 110653097137723
+2025-01-01 18:32:28,925 - INFO - Found fb_dtsg token: NAcPRE4eY37QOp_eQwzIbVPdW0qt9LC5sCl9V1n1uUEJPgNEzj8m9xQ:16:1699733852
+2025-01-01 18:32:28,925 - INFO - Found client revision: 1019110720
+2025-01-01 18:32:28,926 - INFO - Found LSD token: cr1gM5WCZGXGqGBC56xmhV
+2025-01-01 18:32:28,926 - INFO - Found haste session: 20089.HYP:comet_plat_default_pkg.2.1.0.2.1
+2025-01-01 18:32:28,927 - INFO - Found spin_r: 1019110720
+2025-01-01 18:32:28,927 - INFO - Found spin_b: trunk
+2025-01-01 18:32:29,190 - INFO - Saved raw response to data/ad_detail_907904044856186_20250101_183229.txt
+2025-01-01 18:32:29,984 - INFO - Saved raw response to data/page_ads_110653097137723_20250101_183229.txt
+2025-01-01 18:32:29,985 - INFO - Found 16 unique ads (ad_archive_ids) for page ID: 110653097137723
+2025-01-01 18:33:44,866 - INFO - Found fb_dtsg token: NAcNe7XDukYmKBfR2HTTJ-am4AG9mYfXpCLBLV9rXjwjoz1nkS0Mxpg:16:1699733852
+2025-01-01 18:33:44,866 - INFO - Found client revision: 1019110720
+2025-01-01 18:33:44,867 - INFO - Found LSD token: c-o46toDaSbwfbmU1-aJmZ
+2025-01-01 18:33:44,867 - INFO - Found haste session: 20089.HYP:comet_plat_default_pkg.2.1.0.2.1
+2025-01-01 18:33:44,867 - INFO - Found spin_r: 1019110720
+2025-01-01 18:33:44,868 - INFO - Found spin_b: trunk
+2025-01-01 18:33:45,103 - INFO - Saved raw response to data/ad_detail_569506902719378_20250101_183345.txt
+2025-01-01 18:33:45,906 - INFO - Saved raw response to data/page_ads_109806077081081_20250101_183345.txt
+2025-01-01 18:33:45,909 - INFO - Found 30 unique ads (ad_archive_ids) for page ID: 109806077081081
+2025-01-01 18:33:45,916 - ERROR - Error getting ad details: unsupported format string passed to NoneType.__format__

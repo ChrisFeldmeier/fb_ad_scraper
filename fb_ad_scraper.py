@@ -384,7 +384,7 @@ class FacebookScraper:
         variables = {
             "adArchiveID": ad_archive_id,
             "pageID": page_id,
-            "country": "DE",
+            "country": "ALL",  # Changed from DE to ALL to get full targeting info
             "sessionID": str(uuid.uuid4()),
             "source": None,
             "isAdNonPolitical": True,
@@ -421,6 +421,7 @@ class FacebookScraper:
             page = advertiser.get('page', {})
             page_info = advertiser.get('ad_library_page_info', {}).get('page_info', {})
             page_spend = advertiser.get('ad_library_page_info', {}).get('page_spend', {})
+            aaa_info = ad_details.get('aaa_info', {})
             
             # Format the ad details
             formatted_details = {
@@ -429,8 +430,23 @@ class FacebookScraper:
                     'page_id': page_id,
                     'snapshot': None,  # Will be populated when we get the ad snapshot
                     'status': None,  # Will be populated when we get the ad status
-                    'spend': page_spend.get('lifetime_by_disclaimer', [{}])[0].get('spend'),
-                    'is_political': page_spend.get('is_political_page')
+                    'spend': (page_spend.get('lifetime_by_disclaimer', [{}])[0].get('spend') 
+                            if page_spend.get('lifetime_by_disclaimer') else None),
+                    'is_political': page_spend.get('is_political_page'),
+                    'targeting': {
+                        'locations': [loc.get('name') for loc in aaa_info.get('location_audience', []) if not loc.get('excluded')],
+                        'excluded_locations': [loc.get('name') for loc in aaa_info.get('location_audience', []) if loc.get('excluded')],
+                        'gender': aaa_info.get('gender_audience'),
+                        'age_range': {
+                            'min': aaa_info.get('age_audience', {}).get('min'),
+                            'max': aaa_info.get('age_audience', {}).get('max')
+                        },
+                        'eu_total_reach': aaa_info.get('eu_total_reach'),
+                        'demographic_breakdown': aaa_info.get('age_country_gender_reach_breakdown', [])
+                    },
+                    'payer_beneficiary': aaa_info.get('payer_beneficiary_data', []),
+                    'is_taken_down': aaa_info.get('is_ad_taken_down', False),
+                    'has_violations': aaa_info.get('has_violating_payer_beneficiary', False)
                 },
                 'page': {
                     'name': page_info.get('page_name'),
@@ -470,6 +486,33 @@ class FacebookScraper:
                 print(f"Status: {formatted_details['ad']['status']}")
                 if formatted_details['ad']['start_date']:
                     print(f"Runtime: {formatted_details['ad']['start_date']} to {formatted_details['ad']['end_date']}")
+                
+                # Targeting Information
+                targeting = formatted_details['ad']['targeting']
+                print("\nTargeting Information:")
+                if targeting['locations']:
+                    print(f"Target Locations: {', '.join(targeting['locations'])}")
+                if targeting['excluded_locations']:
+                    print(f"Excluded Locations: {', '.join(targeting['excluded_locations'])}")
+                if targeting['gender']:
+                    print(f"Gender: {targeting['gender']}")
+                if targeting['age_range'].get('min') and targeting['age_range'].get('max'):
+                    print(f"Age Range: {targeting['age_range']['min']}-{targeting['age_range']['max']}")
+                if targeting['eu_total_reach']:
+                    print(f"Total EU Reach: {targeting['eu_total_reach']:,}")
+                
+                # Demographic Breakdown
+                if targeting['demographic_breakdown']:
+                    print("\nDemographic Breakdown:")
+                    for country_data in targeting['demographic_breakdown']:
+                        country = country_data.get('country')
+                        print(f"\n{country}:")
+                        for breakdown in country_data.get('age_gender_breakdowns', []):
+                            age_range = breakdown.get('age_range')
+                            male = breakdown.get('male', 0)
+                            female = breakdown.get('female', 0)
+                            unknown = breakdown.get('unknown', 0)
+                            print(f"  {age_range}: Male: {male:,}, Female: {female:,}, Other: {unknown or 0:,}")
                 
                 # Creative Content from Snapshot
                 snapshot = formatted_details['ad'].get('snapshot', {})
@@ -517,7 +560,17 @@ class FacebookScraper:
                     print(f"Impressions: {formatted_details['ad']['impressions']}")
                 if formatted_details['ad']['spend']:
                     print(f"Total Spend: {formatted_details['ad']['currency']}{formatted_details['ad']['spend']}")
-                print(f"Political Ad: {'Yes' if formatted_details['ad']['is_political'] else 'No'}")
+                
+                # Additional Information
+                if formatted_details['ad']['payer_beneficiary']:
+                    print("\nPayment Information:")
+                    for payment in formatted_details['ad']['payer_beneficiary']:
+                        print(f"Payer: {payment.get('payer')}, Beneficiary: {payment.get('beneficiary')}")
+                
+                if formatted_details['ad']['is_taken_down']:
+                    print("\nWarning: This ad has been taken down")
+                if formatted_details['ad']['has_violations']:
+                    print("Warning: This ad has payment/beneficiary violations")
                 
                 # Page Context
                 print("\nPublisher Information:")
@@ -665,8 +718,8 @@ class FacebookScraper:
 
 def main():
     parser = argparse.ArgumentParser(description='Facebook Ad Library Scraper')
-    parser.add_argument('--mode', type=str, required=True, choices=['search', 'ads', 'detail'],
-                      help='Scraping mode: search (find pages), ads (get ads by page ID), or detail (get detailed ad info)')
+    parser.add_argument('--mode', type=str, required=True, choices=['search', 'ads', 'adsdetail'],
+                      help='Scraping mode: search (find pages), ads (get ads by page ID), or adsdetail (get detailed ad info)')
     parser.add_argument('--query', type=str, help='Search query for page search mode')
     parser.add_argument('--page-id', type=str, help='Page ID for ads mode')
     parser.add_argument('--ad-archive-id', type=str, help='Ad Archive ID for detail mode')
@@ -698,11 +751,11 @@ def main():
             if ads:
                 print(f"\nFound {len(ads)} ads for page ID: {args.page_id}")
                 
-        elif args.mode == 'detail':
+        elif args.mode == 'adsdetail':
             if not args.ad_archive_id:
-                parser.error("--ad-archive-id is required for detail mode")
+                parser.error("--ad-archive-id is required for adsdetail mode")
             if not args.page_id:
-                parser.error("--page-id is required for detail mode")
+                parser.error("--page-id is required for adsdetail mode")
             ad_details = scraper.get_ad_details(args.ad_archive_id, args.page_id)
             if not ad_details:
                 print(f"No details found for ad {args.ad_archive_id}")

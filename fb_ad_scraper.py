@@ -245,7 +245,7 @@ class FacebookScraper:
                     if not ad_archive_id:
                         continue
                         
-                    ad_archive_ids.add(ad_archive_id)
+                        ad_archive_ids.add(ad_archive_id)
                     
                     # Get snapshot data safely
                     snapshot = result.get('snapshot', {}) or {}
@@ -258,16 +258,16 @@ class FacebookScraper:
                     elif isinstance(body, str):
                         body_text = body
                         
-                    # Create ad object with all available fields
-                    ad = {
-                        'ad_archive_id': ad_archive_id,
-                        'page_id': result.get('page_id'),
-                        'page_name': result.get('page_name'),
+                        # Create ad object with all available fields
+                        ad = {
+                            'ad_archive_id': ad_archive_id,
+                            'page_id': result.get('page_id'),
+                            'page_name': result.get('page_name'),
                         'status': result.get('is_active'),
                         'ad_creation_time': result.get('start_date'),
                         'ad_delivery_start_time': result.get('start_date'),
                         'ad_delivery_stop_time': result.get('end_date'),
-                        'currency': result.get('currency'),
+                            'currency': result.get('currency'),
                         'snapshot': snapshot,
                         'publisher_platforms': result.get('publisher_platform', []),
                         'languages': [],  # Not available in current response
@@ -282,8 +282,8 @@ class FacebookScraper:
                         'region_distribution': None,  # Not available in current response
                         'estimated_audience_size': None,  # Not available in current response
                         'ad_snapshot_url': None  # Not available in current response
-                    }
-                    ads.append(ad)
+                        }
+                        ads.append(ad)
 
             logging.info(f"Found {len(ad_archive_ids)} unique ads (ad_archive_ids) for page ID: {page_id}")
             
@@ -381,10 +381,27 @@ class FacebookScraper:
         """Get detailed information for a specific ad and its page"""
         url = "https://www.facebook.com/api/graphql/"
         
+        # Validate parameters
+        if not ad_archive_id or not page_id:
+            logging.error("Both ad_archive_id and page_id are required")
+            return None
+            
+        # Validate parameter format
+        if not str(ad_archive_id).isdigit() or not str(page_id).isdigit():
+            logging.error(f"Invalid parameter format. Both ad_archive_id and page_id should be numeric. Got ad_archive_id={ad_archive_id}, page_id={page_id}")
+            return None
+
+        # Check if parameters might be swapped
+        if len(str(ad_archive_id)) < len(str(page_id)):
+            logging.warning("Parameters might be swapped. Usually ad_archive_id is longer than page_id.")
+            # Swap parameters
+            ad_archive_id, page_id = page_id, ad_archive_id
+            logging.info(f"Swapped parameters. Using ad_archive_id={ad_archive_id}, page_id={page_id}")
+            
         variables = {
             "adArchiveID": ad_archive_id,
             "pageID": page_id,
-            "country": "ALL",  # Changed from DE to ALL to get full targeting info
+            "country": "ALL",
             "sessionID": str(uuid.uuid4()),
             "source": None,
             "isAdNonPolitical": True,
@@ -411,32 +428,47 @@ class FacebookScraper:
             
             # Parse response
             data = self._parse_response(response.text)
-            if not data or 'data' not in data:
-                logging.error("Failed to parse ad detail response")
+            if not data:
+                logging.error(f"Failed to parse response for ad_archive_id: {ad_archive_id}")
                 return None
 
-            # Extract ad details from response
-            ad_details = data.get('data', {}).get('ad_library_main', {}).get('ad_details', {})
+            if 'data' not in data:
+                logging.error(f"No 'data' field in response for ad_archive_id: {ad_archive_id}")
+                return None
+
+            main_data = data.get('data', {}).get('ad_library_main', {})
+            if not main_data:
+                logging.error(f"No 'ad_library_main' data for ad_archive_id: {ad_archive_id}")
+                return None
+
+            ad_details = main_data.get('ad_details', {})
+            if not ad_details:
+                logging.error(f"No 'ad_details' found for ad_archive_id: {ad_archive_id}")
+                return None
+
             advertiser = ad_details.get('advertiser', {})
-            page = advertiser.get('page', {})
-            page_info = advertiser.get('ad_library_page_info', {}).get('page_info', {})
-            page_spend = advertiser.get('ad_library_page_info', {}).get('page_spend', {})
-            aaa_info = ad_details.get('aaa_info', {})
+            if not advertiser:
+                logging.error(f"No 'advertiser' information found for ad_archive_id: {ad_archive_id}")
+                return None
+
+            page = advertiser.get('page', {}) or {}
+            page_info = (advertiser.get('ad_library_page_info', {}) or {}).get('page_info', {}) or {}
+            page_spend = (advertiser.get('ad_library_page_info', {}) or {}).get('page_spend', {}) or {}
+            aaa_info = ad_details.get('aaa_info', {}) or {}
             
-            # Format the ad details
+            # Format the ad details with safe defaults
             formatted_details = {
                 'ad': {
                     'archive_id': ad_archive_id,
                     'page_id': page_id,
-                    'snapshot': None,  # Will be populated when we get the ad snapshot
-                    'status': None,  # Will be populated when we get the ad status
-                    'spend': (page_spend.get('lifetime_by_disclaimer', [{}])[0].get('spend') 
-                            if page_spend.get('lifetime_by_disclaimer') else None),
-                    'is_political': page_spend.get('is_political_page'),
+                    'snapshot': None,
+                    'status': None,
+                    'spend': None,
+                    'is_political': page_spend.get('is_political_page', False),
                     'targeting': {
-                        'locations': [loc.get('name') for loc in aaa_info.get('location_audience', []) if not loc.get('excluded')],
-                        'excluded_locations': [loc.get('name') for loc in aaa_info.get('location_audience', []) if loc.get('excluded')],
-                        'gender': aaa_info.get('gender_audience'),
+                        'locations': [loc.get('name', '') for loc in aaa_info.get('location_audience', []) if loc and not loc.get('excluded')] if aaa_info.get('location_audience') else [],
+                        'excluded_locations': [loc.get('name', '') for loc in aaa_info.get('location_audience', []) if loc and loc.get('excluded')] if aaa_info.get('location_audience') else [],
+                        'gender': aaa_info.get('gender_audience', 'Unknown'),
                         'age_range': {
                             'min': aaa_info.get('age_audience', {}).get('min'),
                             'max': aaa_info.get('age_audience', {}).get('max')
@@ -449,155 +481,143 @@ class FacebookScraper:
                     'has_violations': aaa_info.get('has_violating_payer_beneficiary', False)
                 },
                 'page': {
-                    'name': page_info.get('page_name'),
-                    'category': page_info.get('page_category'),
-                    'about': page.get('about', {}).get('text'),
-                    'verification': page_info.get('page_verification'),
+                    'name': page_info.get('page_name', 'Unknown'),
+                    'category': page_info.get('page_category', 'Unknown'),
+                    'about': (page.get('about', {}) or {}).get('text'),
+                    'verification': page_info.get('page_verification', 'Unknown'),
                     'profile_url': page_info.get('page_profile_uri'),
-                    'likes': page_info.get('likes')
+                    'likes': page_info.get('likes', 0)
                 },
                 'instagram': {
                     'username': page_info.get('ig_username'),
-                    'followers': page_info.get('ig_followers'),
-                    'verified': page_info.get('ig_verification')
+                    'followers': page_info.get('ig_followers', 0),
+                    'verified': page_info.get('ig_verification', False)
                 }
             }
-            
+
+            # Try to get lifetime spend if available
+            lifetime_disclaimers = page_spend.get('lifetime_by_disclaimer', [])
+            if lifetime_disclaimers and isinstance(lifetime_disclaimers, list) and len(lifetime_disclaimers) > 0:
+                formatted_details['ad']['spend'] = lifetime_disclaimers[0].get('spend')
+
             # Get the ad snapshot using get_page_ads
-            ads = self.get_page_ads(page_id)
-            if ads:
-                for ad in ads:
-                    if ad.get('ad_archive_id') == ad_archive_id:
-                        formatted_details['ad'].update({
-                            'snapshot': ad.get('snapshot'),
-                            'status': ad.get('status'),
-                            'start_date': ad.get('ad_creation_time'),
-                            'end_date': ad.get('ad_delivery_stop_time'),
-                            'platforms': ad.get('publisher_platforms'),
-                            'impressions': ad.get('impressions'),
-                            'currency': ad.get('currency')
-                        })
-                        break
-            
+            try:
+                ads = self.get_page_ads(page_id)
+                if ads:
+                    for ad in ads:
+                        if ad and ad.get('ad_archive_id') == ad_archive_id:
+                            formatted_details['ad'].update({
+                                'snapshot': ad.get('snapshot'),
+                                'status': ad.get('status'),
+                                'start_date': ad.get('ad_creation_time'),
+                                'end_date': ad.get('ad_delivery_stop_time'),
+                                'platforms': ad.get('publisher_platforms', []),
+                                'impressions': ad.get('impressions'),
+                                'currency': ad.get('currency')
+                            })
+                            break
+            except Exception as e:
+                logging.warning(f"Error getting ad snapshot: {str(e)}")
+
             # Print formatted output
             if formatted_details['ad']:
-                print("\nAd Details:")
-                print(f"Archive ID: {formatted_details['ad']['archive_id']}")
-                print(f"Status: {formatted_details['ad']['status']}")
-                if formatted_details['ad']['start_date']:
-                    print(f"Runtime: {formatted_details['ad']['start_date']} to {formatted_details['ad']['end_date']}")
-                
-                # Targeting Information
-                targeting = formatted_details['ad']['targeting']
-                print("\nTargeting Information:")
-                if targeting['locations']:
-                    print(f"Target Locations: {', '.join(targeting['locations'])}")
-                if targeting['excluded_locations']:
-                    print(f"Excluded Locations: {', '.join(targeting['excluded_locations'])}")
-                if targeting['gender']:
-                    print(f"Gender: {targeting['gender']}")
-                if targeting['age_range'].get('min') and targeting['age_range'].get('max'):
-                    print(f"Age Range: {targeting['age_range']['min']}-{targeting['age_range']['max']}")
-                if targeting['eu_total_reach']:
-                    print(f"Total EU Reach: {targeting['eu_total_reach']:,}")
-                
-                # Demographic Breakdown
-                if targeting['demographic_breakdown']:
-                    print("\nDemographic Breakdown:")
-                    for country_data in targeting['demographic_breakdown']:
-                        country = country_data.get('country')
-                        print(f"\n{country}:")
-                        for breakdown in country_data.get('age_gender_breakdowns', []):
-                            age_range = breakdown.get('age_range')
-                            male = breakdown.get('male', 0)
-                            female = breakdown.get('female', 0)
-                            unknown = breakdown.get('unknown', 0)
-                            print(f"  {age_range}: Male: {male:,}, Female: {female:,}, Other: {unknown or 0:,}")
-                
-                # Creative Content from Snapshot
-                snapshot = formatted_details['ad'].get('snapshot', {})
-                if snapshot:
-                    print("\nCreative Content:")
-                    body = snapshot.get('body', {})
-                    if isinstance(body, dict) and body.get('text'):
-                        print(f"Body Text: {body['text']}")
-                    elif isinstance(body, str):
-                        print(f"Body Text: {body}")
-                    
-                    # Display image URLs from snapshot
-                    images = snapshot.get('images', [])
-                    if images:
-                        print("\nAd Images:")
-                        for idx, image in enumerate(images, 1):
-                            if not isinstance(image, dict):
-                                continue
-                            print(f"\nImage {idx}:")
-                            if image.get('original_image_url'):
-                                print(f"Original URL: {image['original_image_url']}")
-                            if image.get('resized_image_url'):
-                                print(f"Resized URL: {image['resized_image_url']}")
-                    
-                    # Display video URLs from snapshot
-                    videos = snapshot.get('videos', [])
-                    if videos:
-                        print("\nAd Videos:")
-                        for idx, video in enumerate(videos, 1):
-                            if not isinstance(video, dict):
-                                continue
-                            print(f"\nVideo {idx}:")
-                            if video.get('video_hd_url'):
-                                print(f"HD URL: {video['video_hd_url']}")
-                            if video.get('video_sd_url'):
-                                print(f"SD URL: {video['video_sd_url']}")
-                            if video.get('video_preview_image_url'):
-                                print(f"Preview Image URL: {video['video_preview_image_url']}")
-                
-                # Performance Metrics
-                print("\nPerformance Metrics:")
-                if formatted_details['ad']['platforms']:
-                    print(f"Platforms: {', '.join(formatted_details['ad']['platforms'])}")
-                if formatted_details['ad']['impressions']:
-                    print(f"Impressions: {formatted_details['ad']['impressions']}")
-                if formatted_details['ad']['spend']:
-                    print(f"Total Spend: {formatted_details['ad']['currency']}{formatted_details['ad']['spend']}")
-                
-                # Additional Information
-                if formatted_details['ad']['payer_beneficiary']:
-                    print("\nPayment Information:")
-                    for payment in formatted_details['ad']['payer_beneficiary']:
-                        print(f"Payer: {payment.get('payer')}, Beneficiary: {payment.get('beneficiary')}")
-                
-                if formatted_details['ad']['is_taken_down']:
-                    print("\nWarning: This ad has been taken down")
-                if formatted_details['ad']['has_violations']:
-                    print("Warning: This ad has payment/beneficiary violations")
-                
-                # Page Context
-                print("\nPublisher Information:")
-                page = formatted_details['page']
-                print(f"Page: {page['name']} ({page['category']})")
-                print(f"About: {page['about']}")
-                print(f"Verification: {page['verification']}")
-                print(f"Facebook Likes: {page['likes']:,}")
-                
-                instagram = formatted_details['instagram']
-                if instagram['username']:
-                    print(f"\nInstagram: @{instagram['username']}")
-                    print(f"Followers: {instagram['followers']:,}")
-                    print(f"Verified: {'Yes' if instagram['verified'] else 'No'}")
+                self._print_ad_details(formatted_details)
                 
                 # Log any errors but don't fail
                 if 'errors' in data:
-                    for error in data['errors']:
-                        logging.warning(f"API Error in path {error.get('path')}: {error.get('message')}")
+                    for error in data.get('errors', []):
+                        if error:
+                            logging.warning(f"API Error in path {error.get('path')}: {error.get('message')}")
                 
                 return formatted_details
             
+            logging.error(f"No formatted details available for ad_archive_id: {ad_archive_id}")
             return None
 
         except Exception as e:
             logging.error(f"Error getting ad details: {str(e)}")
             return None
+
+    def _print_ad_details(self, formatted_details: Dict):
+        """Helper method to print ad details"""
+        try:
+            print("\nAd Details:")
+            print(f"Archive ID: {formatted_details['ad']['archive_id']}")
+            
+            if formatted_details['ad'].get('status'):
+                print(f"Status: {formatted_details['ad']['status']}")
+            
+            if formatted_details['ad'].get('start_date'):
+                print(f"Runtime: {formatted_details['ad']['start_date']} to {formatted_details['ad'].get('end_date', 'ongoing')}")
+            
+            # Targeting Information
+            targeting = formatted_details['ad']['targeting']
+            if any(targeting.values()):
+                print("\nTargeting Information:")
+                if targeting.get('locations'):
+                    print(f"Target Locations: {', '.join(targeting['locations'])}")
+                if targeting.get('excluded_locations'):
+                    print(f"Excluded Locations: {', '.join(targeting['excluded_locations'])}")
+                if targeting.get('gender'):
+                    print(f"Gender: {targeting['gender']}")
+                if targeting['age_range'].get('min') and targeting['age_range'].get('max'):
+                    print(f"Age Range: {targeting['age_range']['min']}-{targeting['age_range']['max']}")
+                if targeting.get('eu_total_reach'):
+                    print(f"Total EU Reach: {targeting['eu_total_reach']:,}")
+            
+            # Demographic Breakdown
+            if targeting.get('demographic_breakdown'):
+                print("\nDemographic Breakdown:")
+                for country_data in targeting['demographic_breakdown']:
+                    if not country_data:
+                        continue
+                    country = country_data.get('country')
+                    if not country:
+                        continue
+                    print(f"\n{country}:")
+                    for breakdown in country_data.get('age_gender_breakdowns', []):
+                        if not breakdown:
+                            continue
+                        age_range = breakdown.get('age_range')
+                        if not age_range:
+                            continue
+                        male = breakdown.get('male', 0)
+                        female = breakdown.get('female', 0)
+                        unknown = breakdown.get('unknown', 0)
+                        print(f"  {age_range}: Male: {male:,}, Female: {female:,}, Other: {unknown or 0:,}")
+            
+            # Performance Metrics
+            print("\nPerformance Metrics:")
+            if formatted_details['ad'].get('platforms'):
+                print(f"Platforms: {', '.join(formatted_details['ad']['platforms'])}")
+            if formatted_details['ad'].get('impressions'):
+                print(f"Impressions: {formatted_details['ad']['impressions']}")
+            if formatted_details['ad'].get('spend'):
+                currency = formatted_details['ad'].get('currency', '€')
+                print(f"Total Spend: {currency}{formatted_details['ad']['spend']:,}")
+            
+            # Page Information
+            print("\nPublisher Information:")
+            page = formatted_details['page']
+            if page.get('name'):
+                print(f"Page: {page['name']} ({page.get('category', 'Unknown')})")
+            if page.get('about'):
+                print(f"About: {page['about']}")
+            if page.get('verification'):
+                print(f"Verification: {page['verification']}")
+            if page.get('likes'):
+                print(f"Facebook Likes: {page['likes']:,}")
+            
+            # Instagram Information
+            instagram = formatted_details['instagram']
+            if instagram.get('username'):
+                print(f"\nInstagram: @{instagram['username']}")
+                if instagram.get('followers'):
+                    print(f"Followers: {instagram['followers']:,}")
+                print(f"Verified: {'Yes' if instagram.get('verified') else 'No'}")
+        
+        except Exception as e:
+            logging.error(f"Error printing ad details: {str(e)}")
 
     def _generate_session_id(self) -> str:
         """Generate a session ID"""

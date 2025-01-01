@@ -238,41 +238,52 @@ class FacebookScraper:
                 collated_results = node.get('collated_results', [])
                 
                 for result in collated_results:
-                    ad_archive_id = result.get('ad_archive_id')
-                    if ad_archive_id:
-                        ad_archive_ids.add(ad_archive_id)
+                    if not result:
+                        continue
                         
-                        # Create ad object with all available fields
-                        ad = {
-                            'ad_archive_id': ad_archive_id,
-                            'page_id': result.get('page_id'),
-                            'page_name': result.get('page_name'),
-                            'ad_creation_time': result.get('ad_creation_time'),
-                            'ad_creative_bodies': result.get('ad_creative_bodies'),
-                            'ad_creative_link_captions': result.get('ad_creative_link_captions'),
-                            'ad_creative_link_descriptions': result.get('ad_creative_link_descriptions'),
-                            'ad_creative_link_titles': result.get('ad_creative_link_titles'),
-                            'ad_delivery_start_time': result.get('ad_delivery_start_time'),
-                            'ad_delivery_stop_time': result.get('ad_delivery_stop_time'),
-                            'ad_snapshot_url': result.get('ad_snapshot_url'),
-                            'currency': result.get('currency'),
-                            'demographic_distribution': result.get('demographic_distribution'),
-                            'estimated_audience_size': result.get('estimated_audience_size'),
-                            'impressions': result.get('impressions'),
-                            'languages': result.get('languages'),
-                            'publisher_platforms': result.get('publisher_platforms'),
-                            'reach_estimate': result.get('reach_estimate'),
-                            'region_distribution': result.get('region_distribution'),
-                            'spend': result.get('spend'),
-                            'target_locations': result.get('target_locations'),
-                            'target_ages': result.get('target_ages'),
-                            'target_genders': result.get('target_genders'),
-                            'target_interests': result.get('target_interests'),
-                            'potential_reach': result.get('potential_reach'),
-                            'status': result.get('status'),
-                            'snapshot': result.get('snapshot', {})
-                        }
-                        ads.append(ad)
+                    ad_archive_id = result.get('ad_archive_id')
+                    if not ad_archive_id:
+                        continue
+                        
+                    ad_archive_ids.add(ad_archive_id)
+                    
+                    # Get snapshot data safely
+                    snapshot = result.get('snapshot', {}) or {}
+                    
+                    # Extract body text safely
+                    body_text = None
+                    body = snapshot.get('body', {})
+                    if isinstance(body, dict):
+                        body_text = body.get('text')
+                    elif isinstance(body, str):
+                        body_text = body
+                        
+                    # Create ad object with all available fields
+                    ad = {
+                        'ad_archive_id': ad_archive_id,
+                        'page_id': result.get('page_id'),
+                        'page_name': result.get('page_name'),
+                        'status': result.get('is_active'),
+                        'ad_creation_time': result.get('start_date'),
+                        'ad_delivery_start_time': result.get('start_date'),
+                        'ad_delivery_stop_time': result.get('end_date'),
+                        'currency': result.get('currency'),
+                        'snapshot': snapshot,
+                        'publisher_platforms': result.get('publisher_platform', []),
+                        'languages': [],  # Not available in current response
+                        'spend': None,  # Not available in current response
+                        'impressions': result.get('impressions_with_index'),
+                        'target_locations': [],  # Not available in current response
+                        'target_ages': [],  # Not available in current response
+                        'target_genders': [],  # Not available in current response
+                        'target_interests': [],  # Not available in current response
+                        'potential_reach': result.get('reach_estimate'),
+                        'demographic_distribution': None,  # Not available in current response
+                        'region_distribution': None,  # Not available in current response
+                        'estimated_audience_size': None,  # Not available in current response
+                        'ad_snapshot_url': None  # Not available in current response
+                    }
+                    ads.append(ad)
 
             logging.info(f"Found {len(ad_archive_ids)} unique ads (ad_archive_ids) for page ID: {page_id}")
             
@@ -297,17 +308,20 @@ class FacebookScraper:
                     snapshot = ad['snapshot']
                     if snapshot:
                         print("\nCreative Content:")
-                        if snapshot.get('body', {}).get('text'):
-                            print(f"Body Text: {snapshot['body']['text']}")
+                        body = snapshot.get('body', {})
+                        if isinstance(body, dict) and body.get('text'):
+                            print(f"Body Text: {body['text']}")
+                        elif isinstance(body, str):
+                            print(f"Body Text: {body}")
                         
                         # Display image URLs from snapshot
                         images = snapshot.get('images', [])
                         if images:
                             print("\nAd Images:")
                             for idx, image in enumerate(images, 1):
+                                if not isinstance(image, dict):
+                                    continue
                                 print(f"\nImage {idx}:")
-                                if image.get('url'):
-                                    print(f"URL: {image['url']}")
                                 if image.get('original_image_url'):
                                     print(f"Original URL: {image['original_image_url']}")
                                 if image.get('resized_image_url'):
@@ -318,80 +332,42 @@ class FacebookScraper:
                         if videos:
                             print("\nAd Videos:")
                             for idx, video in enumerate(videos, 1):
+                                if not isinstance(video, dict):
+                                    continue
                                 print(f"\nVideo {idx}:")
-                                if video.get('video_url'):
-                                    print(f"Video URL: {video['video_url']}")
+                                if video.get('video_hd_url'):
+                                    print(f"HD URL: {video['video_hd_url']}")
+                                if video.get('video_sd_url'):
+                                    print(f"SD URL: {video['video_sd_url']}")
                                 if video.get('video_preview_image_url'):
                                     print(f"Preview Image URL: {video['video_preview_image_url']}")
-                                if video.get('thumbnail_url'):
-                                    print(f"Thumbnail URL: {video['thumbnail_url']}")
                         
+                        # Display cards from snapshot
                         cards = snapshot.get('cards', [])
                         if cards:
                             print("\nCards:")
                             for idx, card in enumerate(cards, 1):
+                                if not isinstance(card, dict):
+                                    continue
                                 print(f"\nCard {idx}:")
-                                print(f"Body: {card.get('body')}")
-                                print(f"Title: {card.get('title')}")
-                                print(f"Caption: {card.get('caption')}")
-                                print(f"CTA Text: {card.get('cta_text')}")
-                                print(f"Link URL: {card.get('link_url')}")
-                                
-                                # Display card images
-                                if card.get('image_url'):
-                                    print(f"Card Image URL: {card['image_url']}")
-                                if card.get('original_image_url'):
-                                    print(f"Card Original Image URL: {card['original_image_url']}")
-                                if card.get('resized_image_url'):
-                                    print(f"Card Resized Image URL: {card['resized_image_url']}")
-                                
-                                # Display card videos
-                                if card.get('video_url'):
-                                    print(f"Card Video URL: {card['video_url']}")
-                                if card.get('video_preview_url'):
-                                    print(f"Card Video Preview URL: {card['video_preview_url']}")
-                    
-                    # Additional media from ad creative fields
-                    if ad.get('ad_creative_link_captions'):
-                        print("\nAd Creative Link Captions:")
-                        for caption in ad['ad_creative_link_captions']:
-                            print(f"- {caption}")
-                            
-                    if ad.get('ad_creative_link_titles'):
-                        print("\nAd Creative Link Titles:")
-                        for title in ad['ad_creative_link_titles']:
-                            print(f"- {title}")
-                    
-                    # Targeting Information
-                    print("\nTargeting:")
-                    print(f"Locations: {ad['target_locations']}")
-                    print(f"Ages: {ad['target_ages']}")
-                    print(f"Genders: {ad['target_genders']}")
-                    print(f"Interests: {ad['target_interests']}")
-                    print(f"Potential Reach: {ad['potential_reach']}")
+                                if card.get('body'):
+                                    print(f"Body: {card['body']}")
+                                if card.get('title'):
+                                    print(f"Title: {card['title']}")
+                                if card.get('caption'):
+                                    print(f"Caption: {card['caption']}")
+                                if card.get('cta_text'):
+                                    print(f"CTA Text: {card['cta_text']}")
+                                if card.get('link_url'):
+                                    print(f"Link URL: {card['link_url']}")
                     
                     # Distribution & Performance
                     print("\nDistribution & Performance:")
                     print(f"Publisher Platforms: {ad['publisher_platforms']}")
-                    print(f"Languages: {ad['languages']}")
                     print(f"Currency: {ad['currency']}")
                     print(f"Spend: {ad['spend']}")
                     print(f"Impressions: {ad['impressions']}")
-                    print(f"Estimated Audience Size: {ad['estimated_audience_size']}")
-                    print(f"Reach Estimate: {ad['reach_estimate']}")
-                    
-                    # Demographics & Regions
-                    if ad['demographic_distribution']:
-                        print("\nDemographic Distribution:")
-                        print(json.dumps(ad['demographic_distribution'], indent=2))
-                    
-                    if ad['region_distribution']:
-                        print("\nRegion Distribution:")
-                        print(json.dumps(ad['region_distribution'], indent=2))
-                    
-                    # Links
-                    print("\nLinks:")
-                    print(f"Ad Snapshot URL: {ad['ad_snapshot_url']}")
+                    print(f"Potential Reach: {ad['potential_reach']}")
                     
                     print("-" * 100)
             

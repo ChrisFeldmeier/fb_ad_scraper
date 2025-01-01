@@ -230,3 +230,42 @@
 2025-01-01 17:52:02,757 - INFO - Saved raw response to data/page_ads_110653097137723_20250101_175202.txt
 2025-01-01 17:52:02,758 - INFO - Found 16 unique ads (ad_archive_ids) for page ID: 110653097137723
 2025-01-01 17:52:02,758 - ERROR - Error getting page ads: 'NoneType' object has no attribute 'get'
+2025-01-01 17:55:34,330 - INFO - Found fb_dtsg token: NAcNRdn47GAOQRhffsboCujF5SJYzVjfJCsyCmTvKk0leIEZJ3RqIqQ:16:1699733852
+2025-01-01 17:55:34,330 - INFO - Found client revision: 1019110511
+2025-01-01 17:55:34,331 - INFO - Found LSD token: N7L-UEAocpEgTHJ3WJ8Ov2
+2025-01-01 17:55:34,331 - INFO - Found haste session: 20089.HYP:comet_plat_default_pkg.2.1.0.2.1
+2025-01-01 17:55:34,331 - INFO - Found spin_r: 1019110511
+2025-01-01 17:55:34,332 - INFO - Found spin_b: trunk
+2025-01-01 17:55:35,224 - INFO - Saved raw response to data/page_ads_110653097137723_20250101_175535.txt
+2025-01-01 17:55:35,225 - INFO - Found 16 unique ads (ad_archive_ids) for page ID: 110653097137723
+2025-01-01 17:56:07,682 - INFO - Found fb_dtsg token: NAcPHGsTqjfZZB00NWgTK9_lcBclolhQuEU7zUlWhsatK99JilE47rA:16:1699733852
+2025-01-01 17:56:07,682 - INFO - Found client revision: 1019110511
+2025-01-01 17:56:07,682 - INFO - Found LSD token: I4VnIOn1cbzC0Q4TStiw4z
+2025-01-01 17:56:07,683 - INFO - Found haste session: 20089.HYP:comet_plat_default_pkg.2.1.0.2.1
+2025-01-01 17:56:07,683 - INFO - Found spin_r: 1019110511
+2025-01-01 17:56:07,683 - INFO - Found spin_b: trunk
+2025-01-01 17:56:08,802 - INFO - Saved raw response to data/page_search_Julia Frisch_20250101_175608.txt
+2025-01-01 17:56:08,802 - INFO - Found 4 pages for query: Julia Frisch
+2025-01-01 17:56:35,116 - INFO - Found fb_dtsg token: NAcNv93E-ScRJ91xm3L3MpBv85ySq4-zLOr_zr80pa5i-T4cj335oNA:16:1699733852
+2025-01-01 17:56:35,117 - INFO - Found client revision: 1019110511
+2025-01-01 17:56:35,117 - INFO - Found LSD token: xVNer1L7wMZ5ldCupZdMYw
+2025-01-01 17:56:35,117 - INFO - Found haste session: 20089.HYP:comet_plat_default_pkg.2.1.0.2.1
+2025-01-01 17:56:35,118 - INFO - Found spin_r: 1019110511
+2025-01-01 17:56:35,118 - INFO - Found spin_b: trunk
+2025-01-01 17:56:36,464 - INFO - Saved raw response to data/page_search_Snocks_20250101_175636.txt
+2025-01-01 17:56:36,464 - INFO - Found 13 pages for query: Snocks
+2025-01-01 17:56:53,643 - INFO - Found fb_dtsg token: NAcPe_DFze6UZdgSYRUbbR4q-cxCWoVGZigHJnMcygqCteWUKYMVeCw:16:1699733852
+2025-01-01 17:56:53,643 - INFO - Found client revision: 1019110511
+2025-01-01 17:56:53,644 - INFO - Found LSD token: viYDKDAdjA2xGEGrt1vLSi
+2025-01-01 17:56:53,644 - INFO - Found haste session: 20089.HYP:comet_plat_default_pkg.2.1.0.2.1
+2025-01-01 17:56:53,645 - INFO - Found spin_r: 1019110511
+2025-01-01 17:56:53,645 - INFO - Found spin_b: trunk
+2025-01-01 17:56:56,746 - INFO - Saved raw response to data/page_ads_109806077081081_20250101_175656.txt
+2025-01-01 17:56:56,749 - INFO - Found 30 unique ads (ad_archive_ids) for page ID: 109806077081081
+2025-01-01 18:01:21,038 - INFO - Found fb_dtsg token: NAcOtz-gPOVWw7GhNbMcYIoFNNxGLqGM6DTVb8BQKlQfIN_Kk8eNNmg:16:1699733852
+2025-01-01 18:01:21,039 - INFO - Found client revision: 1019110511
+2025-01-01 18:01:21,039 - INFO - Found LSD token: kZFIHrLFTLAO0QKs3ubTOZ
+2025-01-01 18:01:21,039 - INFO - Found haste session: 20089.HYP:comet_plat_default_pkg.2.1.0.2.1
+2025-01-01 18:01:21,040 - INFO - Found spin_r: 1019110511
+2025-01-01 18:01:21,040 - INFO - Found spin_b: trunk
+2025-01-01 18:01:21,779 - INFO - Saved raw response to data/ad_detail_123456789_20250101_180121.txt

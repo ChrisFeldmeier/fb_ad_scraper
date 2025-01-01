@@ -181,3 +181,52 @@
 2024-12-31 18:43:37,378 - INFO - Found spin_r: 1019106461
 2024-12-31 18:43:37,378 - INFO - Found spin_b: trunk
 2024-12-31 18:43:37,739 - INFO - Saved raw response to data/ad_detail_399630302992768_20241231_184337.txt
+2024-12-31 18:57:01,962 - INFO - Found fb_dtsg token: NAcOmuW0TjeZgF3iECmsh584AN91YyU_tJYcgGPCN2673TEIuQEB0Gw:16:1699733852
+2024-12-31 18:57:01,963 - INFO - Found client revision: 1019106461
+2024-12-31 18:57:01,963 - INFO - Found LSD token: h2ZR7dsAT0S2GbLKzOBDqA
+2024-12-31 18:57:01,964 - INFO - Found haste session: 20088.HYP:comet_plat_default_pkg.2.1.0.2.1
+2024-12-31 18:57:01,964 - INFO - Found spin_r: 1019106461
+2024-12-31 18:57:01,964 - INFO - Found spin_b: trunk
+2024-12-31 18:57:03,535 - INFO - Saved raw response to data/page_search_Snocks_20241231_185703.txt
+2024-12-31 18:57:03,535 - INFO - Found 13 pages for query: Snocks
+2024-12-31 18:57:46,318 - INFO - Found fb_dtsg token: NAcMxDWTw72d3GDVTiCT_sVHMu3buxc71kiVUa26ps12dJelWaYyHEw:16:1699733852
+2024-12-31 18:57:46,319 - INFO - Found client revision: 1019106461
+2024-12-31 18:57:46,319 - INFO - Found LSD token: 38Njk2qPkcmI0GOrb3h_5o
+2024-12-31 18:57:46,320 - INFO - Found haste session: 20088.HYP:comet_plat_default_pkg.2.1.0.2.1
+2024-12-31 18:57:46,320 - INFO - Found spin_r: 1019106461
+2024-12-31 18:57:46,321 - INFO - Found spin_b: trunk
+2024-12-31 18:57:46,894 - INFO - Saved raw response to data/page_ads_109806077081081_20241231_185746.txt
+2024-12-31 18:57:46,896 - INFO - Found 30 unique ads (ad_archive_ids) for page ID: 109806077081081
+2025-01-01 17:48:25,790 - INFO - Found fb_dtsg token: NAcPqPWVwEGnAL4OAcx_cZZh7ZI_h2i-rbfCzsPbBzkzGAu8qg7_mXQ:16:1699733852
+2025-01-01 17:48:25,791 - INFO - Found client revision: 1019110511
+2025-01-01 17:48:25,791 - INFO - Found LSD token: rNri9fAql9LjNTE97XI_Ed
+2025-01-01 17:48:25,792 - INFO - Found haste session: 20089.HYP:comet_plat_default_pkg.2.1.0.2.1
+2025-01-01 17:48:25,792 - INFO - Found spin_r: 1019110511
+2025-01-01 17:48:25,793 - INFO - Found spin_b: trunk
+2025-01-01 17:48:27,106 - INFO - Saved raw response to data/page_ads_109806077081081_20250101_174827.txt
+2025-01-01 17:48:27,109 - INFO - Found 30 unique ads (ad_archive_ids) for page ID: 109806077081081
+2025-01-01 17:51:05,771 - INFO - Found fb_dtsg token: NAcOe3mlF0LdQAzz-BhmgKUK-NapPT7tuNJnzkPtH7RVjoTbWcQSpMA:16:1699733852
+2025-01-01 17:51:05,772 - INFO - Found client revision: 1019110511
+2025-01-01 17:51:05,772 - INFO - Found LSD token: TN1faOirrboU7Uh_uVvoHR
+2025-01-01 17:51:05,772 - INFO - Found haste session: 20089.HYP:comet_plat_default_pkg.2.1.0.2.1
+2025-01-01 17:51:05,773 - INFO - Found spin_r: 1019110511
+2025-01-01 17:51:05,773 - INFO - Found spin_b: trunk
+2025-01-01 17:51:07,317 - INFO - Saved raw response to data/page_search_Julia Fritsch_20250101_175107.txt
+2025-01-01 17:51:07,317 - INFO - Found 7 pages for query: Julia Fritsch
+2025-01-01 17:51:40,414 - INFO - Found fb_dtsg token: NAcO7QM56WI2sNOdzOweOwxDqEkyhIz3QlCxRWklngZSUEI5LwIC5ZQ:16:1699733852
+2025-01-01 17:51:40,415 - INFO - Found client revision: 1019110511
+2025-01-01 17:51:40,415 - INFO - Found LSD token: lFt5TaAaIkpurnXhXISq6K
+2025-01-01 17:51:40,415 - INFO - Found haste session: 20089.HYP:comet_plat_default_pkg.2.1.0.2.1
+2025-01-01 17:51:40,416 - INFO - Found spin_r: 1019110511
+2025-01-01 17:51:40,416 - INFO - Found spin_b: trunk
+2025-01-01 17:51:40,767 - INFO - Saved raw response to data/page_search_Julia Frisch_20250101_175140.txt
+2025-01-01 17:51:40,768 - INFO - Found 4 pages for query: Julia Frisch
+2025-01-01 17:52:01,838 - INFO - Found fb_dtsg token: NAcO0XOnVRYPYj3QsX5X1gmKINAut4_56QCoj25XXtTeCzhPGmmtoXA:16:1699733852
+2025-01-01 17:52:01,838 - INFO - Found client revision: 1019110511
+2025-01-01 17:52:01,839 - INFO - Found LSD token: ofePSaMACqk15OxXgqrvkc
+2025-01-01 17:52:01,839 - INFO - Found haste session: 20089.HYP:comet_plat_default_pkg.2.1.0.2.1
+2025-01-01 17:52:01,839 - INFO - Found spin_r: 1019110511
+2025-01-01 17:52:01,840 - INFO - Found spin_b: trunk
+2025-01-01 17:52:02,757 - INFO - Saved raw response to data/page_ads_110653097137723_20250101_175202.txt
+2025-01-01 17:52:02,758 - INFO - Found 16 unique ads (ad_archive_ids) for page ID: 110653097137723
+2025-01-01 17:52:02,758 - ERROR - Error getting page ads: 'NoneType' object has no attribute 'get'

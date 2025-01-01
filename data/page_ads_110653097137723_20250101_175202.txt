@@ -1,0 +1,2205 @@
+{
+   "data":{
+      "ad_library_main":{
+         "search_results_connection":{
+            "edges":[
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"907904044856186",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":2,
+                           "collation_id":"570540975768179",
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735718400,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"110653097137723",
+                           "page_is_deleted":false,
+                           "page_name":"Julia_Frisch_Official",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":null,
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"fb.me",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Julia_Frisch_Official",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":"70\u0025 der Partner gehen in ihrer Beziehung fremd...\n\nMuss das wirklich sein?\n\nWie kann es sein, dass aus 3x am Tag 3x im Monat wird?\n\nWenn du das hier liest, stehst du wahrscheinlich an einem Wendepunkt \u2013 festhalten oder loslassen?\n\n\"Es war doch so sch\u00f6n am Anfang\", h\u00f6re ich oft von Teilnehmern, die schon seit mehreren Jahren in einer Partnerschaft sind.\n\nWo ist all die Liebe hin? Die Z\u00e4rtlichkeit und die wunderbaren Momente der Intimit\u00e4t, die dein Herz damals schneller schlagen lie\u00dfen?\n\nGenau darum geht es in meinem kostenfreien Webinar 'The Perfect Match'.\n\nMein Name ist Julia und ich helfe Partnern in ungl\u00fccklichen Beziehungen, die Liebe wiederzufinden. Die Liebe, die...\n\n... dich damals stundenlang grundlos l\u00e4cheln lie\u00df, wenn du eine s\u00fc\u00dfe Nachricht von deinem Partner bekommen hast.\n\n... deine Freunde und Familie fragen lie\u00df: \"Welche Medizin nimmst du, dass du so gl\u00fccklich bist?\"\n\n... so stark war, dass keine schlechte Nachricht dich von Wolke 7 holen konnte.\n\nWenn du auch noch Liebe sp\u00fcrst und herausfinden willst, wo sie geblieben ist, dann solltest du unbedingt an meinem gratis Webinar teilnehmen.\n\nKlicke einfach auf den Link und wir sehen uns gleich auf der n\u00e4chsten Seite wieder.",
+                              "link_url":"http://fb.me/",
+                              "page_categories":[
+                                 "Business"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"110653097137723",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":343,
+                              "page_name":"Julia_Frisch_Official",
+                              "page_profile_picture_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t39.35426-6/471398931_891125586343964_4821119248512119115_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pAOP9djIwjcQ7kNvgFsAls5&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYDIJ55v2pXksiwJhqwFQfU3-2VPdgBRwn30TD76KurOag&oe=677B48B9",
+                              "page_profile_uri":"https://www.facebook.com/JuliaFrischCoach/",
+                              "root_reshared_post":null,
+                              "title":"[Live Mentoring] Entfache die Schmetterlinge im Bauch \u27a1\ufe0f",
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t42.1790-2/471557773_599829776304783_7102668078686116327_n.?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qAIf0QJ9vWgQ7kNvgEFeA_z&_nc_zt=28&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYAzggbA885pieifv99XWwvSidkdbtvwTGgOiBeRxzJ5pQ&oe=677B4A5C",
+                                    "video_preview_image_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t39.35426-6/472122212_906565634998455_1921584792892278436_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KHME4P8YjJ8Q7kNvgH_sDyC&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYAwCK6OtkVX4jwHGBLcE5RU9Yyg1rlX_IVMFxPbAEj8Vg&oe=677B3F07",
+                                    "video_sd_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t42.1790-2/447895895_334754812790876_340396015646352390_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qUAk4eHj0pgQ7kNvgGF6G18&_nc_zt=28&_nc_ht=scontent-fra5-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYDhPBpvxVzbHKZ5uX1OLhU4MvATOR_zDMTh90tr8-b_dA&oe=677B5AF2",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 "https://juliafrisch.com/tpm-bestaetigung/",
+                                 "https://juliafrisch.com/datenschutzerklaerung/",
+                                 "https://juliafrisch.com/tpm-bestaetigung/"
+                              ],
+                              "extra_texts":[
+                                 {
+                                    "text":"Gratis Live Mentoring f\u00fcr eine erf\u00fcllte Partnerschaft"
+                                 },
+                                 {
+                                    "text":"Entfache die Liebe in Deiner Beziehung neu und f\u00fchle Dich gl\u00fccklicher als jemals zuvor!\n\nSei beim 2-t\u00e4gigen Live-Event \u201eThe Perfect Match\u201c dabei und f\u00fchle wieder Schmetterlinge im Bauch.\n\nDatum: 11. & 12. Januar 2025\nUhrzeit: 10 Uhr\n\n\u2193 Jetzt gratis anmelden \u2193\n\nBonus: Sofortzugang zu 3 wertvollen Videos nach der Anmeldung!"
+                                 },
+                                 {
+                                    "text":"Deine Kontaktinformationen:"
+                                 },
+                                 {
+                                    "text":"First name"
+                                 },
+                                 {
+                                    "text":"Email"
+                                 },
+                                 {
+                                    "text":"Phone number"
+                                 },
+                                 {
+                                    "text":"Nutzungsbedingungen f\u00fcr Julia_Frisch_Official"
+                                 },
+                                 {
+                                    "text":"Datenschutzrichtlinie von Julia_Frisch_Official ansehen"
+                                 },
+                                 {
+                                    "text":"Geschafft!"
+                                 },
+                                 {
+                                    "text":"Dein Platz f\u00fcr unser Online-Event \u201eThe Perfect Match\u201c am 11. & 12. Januar ist reserviert! \n\nDu erh\u00e4ltst gleich eine E-Mail mit weiteren Infos. Schaue unbedingt auch in Deinem Spam-Ordner nach. Wir freuen uns auf Dich!"
+                                 }
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735632000,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        },
+                        {
+                           "ad_archive_id":"599829742971453",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":null,
+                           "collation_id":"570540975768179",
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735718400,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"110653097137723",
+                           "page_is_deleted":false,
+                           "page_name":"Julia_Frisch_Official",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":null,
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"fb.me",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Julia_Frisch_Official",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":"70\u0025 der Partner gehen in ihrer Beziehung fremd...\n\nMuss das wirklich sein?\n\nWie kann es sein, dass aus 3x am Tag 3x im Monat wird?\n\nWenn du das hier liest, stehst du wahrscheinlich an einem Wendepunkt \u2013 festhalten oder loslassen?\n\n\"Es war doch so sch\u00f6n am Anfang\", h\u00f6re ich oft von Teilnehmern, die schon seit mehreren Jahren in einer Partnerschaft sind.\n\nWo ist all die Liebe hin? Die Z\u00e4rtlichkeit und die wunderbaren Momente der Intimit\u00e4t, die dein Herz damals schneller schlagen lie\u00dfen?\n\nGenau darum geht es in meinem kostenfreien Webinar 'The Perfect Match'.\n\nMein Name ist Julia und ich helfe Partnern in ungl\u00fccklichen Beziehungen, die Liebe wiederzufinden. Die Liebe, die...\n\n... dich damals stundenlang grundlos l\u00e4cheln lie\u00df, wenn du eine s\u00fc\u00dfe Nachricht von deinem Partner bekommen hast.\n\n... deine Freunde und Familie fragen lie\u00df: \"Welche Medizin nimmst du, dass du so gl\u00fccklich bist?\"\n\n... so stark war, dass keine schlechte Nachricht dich von Wolke 7 holen konnte.\n\nWenn du auch noch Liebe sp\u00fcrst und herausfinden willst, wo sie geblieben ist, dann solltest du unbedingt an meinem gratis Webinar teilnehmen.\n\nKlicke einfach auf den Link und wir sehen uns gleich auf der n\u00e4chsten Seite wieder.",
+                              "link_url":"http://fb.me/",
+                              "page_categories":[
+                                 "Business"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"110653097137723",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":343,
+                              "page_name":"Julia_Frisch_Official",
+                              "page_profile_picture_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t39.35426-6/471398931_891125586343964_4821119248512119115_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pAOP9djIwjcQ7kNvgFsAls5&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYDIJ55v2pXksiwJhqwFQfU3-2VPdgBRwn30TD76KurOag&oe=677B48B9",
+                              "page_profile_uri":"https://www.facebook.com/JuliaFrischCoach/",
+                              "root_reshared_post":null,
+                              "title":"[Live Mentoring] Entfache die Schmetterlinge im Bauch \u27a1\ufe0f",
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t42.1790-2/471557773_599829776304783_7102668078686116327_n.?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qAIf0QJ9vWgQ7kNvgEFeA_z&_nc_zt=28&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYAzggbA885pieifv99XWwvSidkdbtvwTGgOiBeRxzJ5pQ&oe=677B4A5C",
+                                    "video_preview_image_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t39.35426-6/472122212_906565634998455_1921584792892278436_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KHME4P8YjJ8Q7kNvgH_sDyC&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYAwCK6OtkVX4jwHGBLcE5RU9Yyg1rlX_IVMFxPbAEj8Vg&oe=677B3F07",
+                                    "video_sd_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t42.1790-2/447895895_334754812790876_340396015646352390_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qUAk4eHj0pgQ7kNvgGF6G18&_nc_zt=28&_nc_ht=scontent-fra5-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYDhPBpvxVzbHKZ5uX1OLhU4MvATOR_zDMTh90tr8-b_dA&oe=677B5AF2",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 "https://juliafrisch.com/tpm-bestaetigung/",
+                                 "https://juliafrisch.com/datenschutzerklaerung/",
+                                 "https://juliafrisch.com/tpm-bestaetigung/"
+                              ],
+                              "extra_texts":[
+                                 {
+                                    "text":"Gratis Live Mentoring f\u00fcr eine erf\u00fcllte Partnerschaft"
+                                 },
+                                 {
+                                    "text":"Entfache die Liebe in Deiner Beziehung neu und f\u00fchle Dich gl\u00fccklicher als jemals zuvor!\n\nSei beim 2-t\u00e4gigen Live-Event \u201eThe Perfect Match\u201c dabei und f\u00fchle wieder Schmetterlinge im Bauch.\n\nDatum: 11. & 12. Januar 2025\nUhrzeit: 10 Uhr\n\n\u2193 Jetzt gratis anmelden \u2193\n\nBonus: Sofortzugang zu 3 wertvollen Videos nach der Anmeldung!"
+                                 },
+                                 {
+                                    "text":"Deine Kontaktinformationen:"
+                                 },
+                                 {
+                                    "text":"First name"
+                                 },
+                                 {
+                                    "text":"Email"
+                                 },
+                                 {
+                                    "text":"Phone number"
+                                 },
+                                 {
+                                    "text":"Nutzungsbedingungen f\u00fcr Julia_Frisch_Official"
+                                 },
+                                 {
+                                    "text":"Datenschutzrichtlinie von Julia_Frisch_Official ansehen"
+                                 },
+                                 {
+                                    "text":"Geschafft!"
+                                 },
+                                 {
+                                    "text":"Dein Platz f\u00fcr unser Online-Event \u201eThe Perfect Match\u201c am 11. & 12. Januar ist reserviert! \n\nDu erh\u00e4ltst gleich eine E-Mail mit weiteren Infos. Schaue unbedingt auch in Deinem Spam-Ordner nach. Wir freuen uns auf Dich!"
+                                 }
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735632000,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"1897486607325305",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":1,
+                           "collation_id":"1402436744047590",
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735632000,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"110653097137723",
+                           "page_is_deleted":false,
+                           "page_name":"Julia_Frisch_Official",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"70\u0025 der Partner gehen in ihrer Beziehung fremd...\n\nMuss das wirklich sein?\n\nWie kann es sein, dass aus 3x am Tag 3x im Monat wird?\n\nWenn du das hier liest, stehst du wahrscheinlich an einem Wendepunkt \u2013 festhalten oder loslassen?\n\n\"Es war doch so sch\u00f6n am Anfang\", h\u00f6re ich oft von Teilnehmern, die schon seit mehreren Jahren in einer Partnerschaft sind.\n\nWo ist all die Liebe hin? Die Z\u00e4rtlichkeit und die wunderbaren Momente der Intimit\u00e4t, die dein Herz damals schneller schlagen lie\u00dfen?\n\nGenau darum geht es in meinem kostenfreien Webinar 'The Perfect Match'.\n\nMein Name ist Julia und ich helfe Partnern in ungl\u00fccklichen Beziehungen, die Liebe wiederzufinden. Die Liebe, die...\n\n... dich damals stundenlang grundlos l\u00e4cheln lie\u00df, wenn du eine s\u00fc\u00dfe Nachricht von deinem Partner bekommen hast.\n\n... deine Freunde und Familie fragen lie\u00df: \"Welche Medizin nimmst du, dass du so gl\u00fccklich bist?\"\n\n... so stark war, dass keine schlechte Nachricht dich von Wolke 7 holen konnte.\n\nWenn du auch noch Liebe sp\u00fcrst und herausfinden willst, wo sie geblieben ist, dann solltest du unbedingt an meinem gratis Webinar teilnehmen.\n\nKlicke einfach auf den Link und wir sehen uns gleich auf der n\u00e4chsten Seite wieder."
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"fb.me",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Julia_Frisch_Official",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":null,
+                              "link_url":"http://fb.me/",
+                              "page_categories":[
+                                 "Business"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"110653097137723",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":343,
+                              "page_name":"Julia_Frisch_Official",
+                              "page_profile_picture_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/472150211_1245949726495482_1252843692403087786_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ycFpa9kL-OMQ7kNvgG-huuw&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYBPGWnpju5sr7IEFMlHi155mFm6MuozoqOllTtGPVrMGg&oe=677B41E7",
+                              "page_profile_uri":"https://www.facebook.com/JuliaFrischCoach/",
+                              "root_reshared_post":null,
+                              "title":"[GRATIS WEBINAR] Entfache Die Schmetterlinge Im Bauch \u27a1\ufe0f",
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t42.1790-2/471558516_1897486647325301_5200932834212570637_n.?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8FeqPysbKIcQ7kNvgFvzt5u&_nc_zt=28&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYCHQQUcHUUx5E54BA0i-ad88i9BCAtwXRUdUD0jh2gUtQ&oe=677B3214",
+                                    "video_preview_image_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t39.35426-6/472267020_3485722821735418_4763977378654302913_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FQ9dFtE7MOIQ7kNvgEqr_8L&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYDxETbuyg__4YtZJFWq84MFJ42rDcRul_8w4X_2PhimJw&oe=677B5573",
+                                    "video_sd_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t42.1790-2/456578398_1608301833091649_8808452076684001353_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R3SNr_gFzPkQ7kNvgH117Lo&_nc_zt=28&_nc_ht=scontent-fra5-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYBObpSMEyEt3d_SFuyE4ZXYfK9Ykfc58yRulDePfckXSQ&oe=677B3D6D",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 "https://juliafrisch.com/tpm-bestaetigung/",
+                                 "https://juliafrisch.com/datenschutzerklaerung/",
+                                 "https://juliafrisch.com/tpm-bestaetigung/"
+                              ],
+                              "extra_texts":[
+                                 {
+                                    "text":"Gratis Live Mentoring f\u00fcr eine erf\u00fcllte Partnerschaft"
+                                 },
+                                 {
+                                    "text":"Entfache die Liebe in Deiner Beziehung neu und f\u00fchle Dich gl\u00fccklicher als jemals zuvor!\n\nSei beim 2-t\u00e4gigen Live-Event \u201eThe Perfect Match\u201c dabei und f\u00fchle wieder Schmetterlinge im Bauch.\n\nDatum: 11. & 12. Januar 2025\nUhrzeit: 10 Uhr\n\n\u2193 Jetzt gratis anmelden \u2193\n\nBonus: Sofortzugang zu 3 wertvollen Videos nach der Anmeldung!"
+                                 },
+                                 {
+                                    "text":"Deine Kontaktinformationen:"
+                                 },
+                                 {
+                                    "text":"First name"
+                                 },
+                                 {
+                                    "text":"Email"
+                                 },
+                                 {
+                                    "text":"Phone number"
+                                 },
+                                 {
+                                    "text":"Nutzungsbedingungen f\u00fcr Julia_Frisch_Official"
+                                 },
+                                 {
+                                    "text":"Datenschutzrichtlinie von Julia_Frisch_Official ansehen"
+                                 },
+                                 {
+                                    "text":"Geschafft!"
+                                 },
+                                 {
+                                    "text":"Dein Platz f\u00fcr unser Online-Event \u201eThe Perfect Match\u201c am 11. & 12. Januar ist reserviert! \n\nDu erh\u00e4ltst gleich eine E-Mail mit weiteren Infos. Schaue unbedingt auch in Deinem Spam-Ordner nach. Wir freuen uns auf Dich!"
+                                 }
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735632000,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"1342571707061466",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":1,
+                           "collation_id":"1144369384032739",
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735718400,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"110653097137723",
+                           "page_is_deleted":false,
+                           "page_name":"Julia_Frisch_Official",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK",
+                              "MESSENGER"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"70\u0025 der Partner gehen in ihrer Beziehung fremd...\n\nMuss das wirklich sein?\n\nWie kann es sein, dass aus 3x am Tag 3x im Monat wird?\n\nWenn du das hier liest, stehst du wahrscheinlich an einem Wendepunkt \u2013 festhalten oder loslassen?\n\n\"Es war doch so sch\u00f6n am Anfang\", h\u00f6re ich oft von Teilnehmern, die schon seit mehreren Jahren in einer Partnerschaft sind.\n\nWo ist all die Liebe hin? Die Z\u00e4rtlichkeit und die wunderbaren Momente der Intimit\u00e4t, die dein Herz damals schneller schlagen lie\u00dfen?\n\nGenau darum geht es in meinem kostenfreien Webinar 'The Perfect Match'.\n\nMein Name ist Julia und ich helfe Partnern in ungl\u00fccklichen Beziehungen, die Liebe wiederzufinden. Die Liebe, die...\n\n... dich damals stundenlang grundlos l\u00e4cheln lie\u00df, wenn du eine s\u00fc\u00dfe Nachricht von deinem Partner bekommen hast.\n\n... deine Freunde und Familie fragen lie\u00df: \"Welche Medizin nimmst du, dass du so gl\u00fccklich bist?\"\n\n... so stark war, dass keine schlechte Nachricht dich von Wolke 7 holen konnte.\n\nWenn du auch noch Liebe sp\u00fcrst und herausfinden willst, wo sie geblieben ist, dann solltest du unbedingt an meinem gratis Webinar teilnehmen.\n\nKlicke einfach auf den Link und wir sehen uns gleich auf der n\u00e4chsten Seite wieder."
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"juliafrisch.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Julia_Frisch_Official",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":"Kundenfeedback: \u2b50\u2b50\u2b50\u2b50\u2b50",
+                              "link_url":"https://juliafrisch.com/the-perfect-match?utm_source=ads",
+                              "page_categories":[
+                                 "Business"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"110653097137723",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":343,
+                              "page_name":"Julia_Frisch_Official",
+                              "page_profile_picture_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/472164284_1457069895253927_6795215145022926241_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oJ0rkXPQRMMQ7kNvgG5tFL0&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYBeXTTVbcW0M8wBxrWNoNBBeYwlZewPVa-DVfdEDukeVQ&oe=677B2B81",
+                              "page_profile_uri":"https://www.facebook.com/JuliaFrischCoach/",
+                              "root_reshared_post":null,
+                              "title":"[Live Mentoring] Entfache die Schmetterlinge im Bauch \u27a1\ufe0f",
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t42.1790-2/471420414_1342571743728129_6353977592304678999_n.?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ctPcFum8glQQ7kNvgE8O0me&_nc_zt=28&_nc_ht=scontent-fra3-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYApawaHr5RLtVTcBbe9zEqFsd7218LzuoZsDmRP6reEjQ&oe=677B4230",
+                                    "video_preview_image_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t39.35426-6/472044017_1127644972048719_8553894168736047029_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=F5lOBBUOB2gQ7kNvgFMnNZg&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYBynjYYSnxsZoThuNC8wrHoCzCyDLxchYF4EUNr_AkkXQ&oe=677B3FD2",
+                                    "video_sd_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t42.1790-2/471643950_1590802444904254_5281881426351399371_n.mp4?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cTE-1SMcH1gQ7kNvgFZuuvh&_nc_zt=28&_nc_ht=scontent-fra3-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYAl9WKtJ9jfxci3VOG5g4trcFQ-UTk8Mh5QsfIH8-AqDw&oe=677B3A9E",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735632000,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"1796918684443921",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":1,
+                           "collation_id":"950749396441374",
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735718400,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"110653097137723",
+                           "page_is_deleted":false,
+                           "page_name":"Julia_Frisch_Official",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK",
+                              "MESSENGER"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"70\u0025 der Partner gehen in ihrer Beziehung fremd...\n\nMuss das wirklich sein?\n\nWie kann es sein, dass aus 3x am Tag 3x im Monat wird?\n\nWenn du das hier liest, stehst du wahrscheinlich an einem Wendepunkt \u2013 festhalten oder loslassen?\n\n\"Es war doch so sch\u00f6n am Anfang\", h\u00f6re ich oft von Teilnehmern, die schon seit mehreren Jahren in einer Partnerschaft sind.\n\nWo ist all die Liebe hin? Die Z\u00e4rtlichkeit und die wunderbaren Momente der Intimit\u00e4t, die dein Herz damals schneller schlagen lie\u00dfen?\n\nGenau darum geht es in meinem kostenfreien Webinar 'The Perfect Match'.\n\nMein Name ist Julia und ich helfe Partnern in ungl\u00fccklichen Beziehungen, die Liebe wiederzufinden. Die Liebe, die...\n\n... dich damals stundenlang grundlos l\u00e4cheln lie\u00df, wenn du eine s\u00fc\u00dfe Nachricht von deinem Partner bekommen hast.\n\n... deine Freunde und Familie fragen lie\u00df: \"Welche Medizin nimmst du, dass du so gl\u00fccklich bist?\"\n\n... so stark war, dass keine schlechte Nachricht dich von Wolke 7 holen konnte.\n\nWenn du auch noch Liebe sp\u00fcrst und herausfinden willst, wo sie geblieben ist, dann solltest du unbedingt an meinem gratis Webinar teilnehmen.\n\nKlicke einfach auf den Link und wir sehen uns gleich auf der n\u00e4chsten Seite wieder."
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"juliafrisch.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Julia_Frisch_Official",
+                              "disclaimer_label":null,
+                              "display_format":"IMAGE",
+                              "event":null,
+                              "images":[
+                                 {
+                                    "original_image_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t39.35426-6/472091392_1784546315670370_6053868475429283576_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=t5y1cOrj8YsQ7kNvgGbFhLA&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYDGA07YlW3l_BCAcyUA7KDixFicj3zsbhNlDp2QC4XfuQ&oe=677B4B3F",
+                                    "resized_image_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t39.35426-6/471984600_1255187342375330_746639282849324806_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uUsUv-qdHVIQ7kNvgHEo-b8&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYC6LBP9qah7fFX6im1lZ8fAXbuZiO24kMkpiO5hhs001g&oe=677B4EEE",
+                                    "watermarked_resized_image_url":"",
+                                    "image_crops":[
+                                       
+                                    ]
+                                 }
+                              ],
+                              "is_reshared":false,
+                              "link_description":"Kundenfeedback: \u2b50\u2b50\u2b50\u2b50\u2b50",
+                              "link_url":"https://juliafrisch.com/the-perfect-match?utm_source=ads",
+                              "page_categories":[
+                                 "Business"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"110653097137723",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":343,
+                              "page_name":"Julia_Frisch_Official",
+                              "page_profile_picture_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t39.35426-6/472169212_1345788843072863_7550744073525590324_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kQTlHvi9TakQ7kNvgHJDOA0&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYCvySUmZx3QBYk_vaNFIQoT4gVP_Ue5r8eIT0SeBvVfQA&oe=677B3072",
+                              "page_profile_uri":"https://www.facebook.com/JuliaFrischCoach/",
+                              "root_reshared_post":null,
+                              "title":"[Live Mentoring] Entfache die Schmetterlinge im Bauch \u27a1\ufe0f",
+                              "videos":[
+                                 
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735632000,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"1129629262192987",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":1,
+                           "collation_id":"1658486778434415",
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735632000,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"110653097137723",
+                           "page_is_deleted":false,
+                           "page_name":"Julia_Frisch_Official",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK",
+                              "MESSENGER"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"70\u0025 der Partner gehen in ihrer Beziehung fremd...\n\nMuss das wirklich sein?\n\nWie kann es sein, dass aus 3x am Tag 3x im Monat wird?\n\nWenn du das hier liest, stehst du wahrscheinlich an einem Wendepunkt \u2013 festhalten oder loslassen?\n\n\"Es war doch so sch\u00f6n am Anfang\", h\u00f6re ich oft von Teilnehmern, die schon seit mehreren Jahren in einer Partnerschaft sind.\n\nWo ist all die Liebe hin? Die Z\u00e4rtlichkeit und die wunderbaren Momente der Intimit\u00e4t, die dein Herz damals schneller schlagen lie\u00dfen?\n\nGenau darum geht es in meinem kostenfreien Webinar 'The Perfect Match'.\n\nMein Name ist Julia und ich helfe Partnern in ungl\u00fccklichen Beziehungen, die Liebe wiederzufinden. Die Liebe, die...\n\n... dich damals stundenlang grundlos l\u00e4cheln lie\u00df, wenn du eine s\u00fc\u00dfe Nachricht von deinem Partner bekommen hast.\n\n... deine Freunde und Familie fragen lie\u00df: \"Welche Medizin nimmst du, dass du so gl\u00fccklich bist?\"\n\n... so stark war, dass keine schlechte Nachricht dich von Wolke 7 holen konnte.\n\nWenn du auch noch Liebe sp\u00fcrst und herausfinden willst, wo sie geblieben ist, dann solltest du unbedingt an meinem gratis Webinar teilnehmen.\n\nKlicke einfach auf den Link und wir sehen uns gleich auf der n\u00e4chsten Seite wieder."
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"juliafrisch.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Julia_Frisch_Official",
+                              "disclaimer_label":null,
+                              "display_format":"IMAGE",
+                              "event":null,
+                              "images":[
+                                 {
+                                    "original_image_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t39.35426-6/471967739_1296167411572511_4274125478601941618_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UyrISp9297IQ7kNvgGCk87k&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYDYGiHcB9p1Cd1Hngxw5AP8EUBgZv14QVwE3S0ESz6n3g&oe=677B5285",
+                                    "resized_image_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/471623068_1020342586589679_3900078812546893701_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MxU9dDhO4iMQ7kNvgHS2mIZ&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYCMULAPOsR02x91LsEvKCWe35R48lkNwQ4FE9zxASMbaQ&oe=677B30E4",
+                                    "watermarked_resized_image_url":"",
+                                    "image_crops":[
+                                       
+                                    ]
+                                 }
+                              ],
+                              "is_reshared":false,
+                              "link_description":"Kundenfeedback: \u2b50\u2b50\u2b50\u2b50\u2b50",
+                              "link_url":"https://juliafrisch.com/the-perfect-match?utm_source=ads",
+                              "page_categories":[
+                                 "Business"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"110653097137723",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":343,
+                              "page_name":"Julia_Frisch_Official",
+                              "page_profile_picture_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t39.35426-6/470531417_614693557693949_7397171290177003147_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DQO7r6Tc7zcQ7kNvgEj94GW&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYDTX3TpnqBueHYO8aJxRT8EB3DFUOVPJ0aE-Bf9UjZa1A&oe=677B5783",
+                              "page_profile_uri":"https://www.facebook.com/JuliaFrischCoach/",
+                              "root_reshared_post":null,
+                              "title":"[Live Mentoring] Entfache die Schmetterlinge im Bauch \u27a1\ufe0f",
+                              "videos":[
+                                 
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735632000,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"28937662505832919",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":1,
+                           "collation_id":"616419441043671",
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735718400,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"110653097137723",
+                           "page_is_deleted":false,
+                           "page_name":"Julia_Frisch_Official",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK",
+                              "MESSENGER"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"70\u0025 der Partner gehen in ihrer Beziehung fremd...\n\nMuss das wirklich sein?\n\nWie kann es sein, dass aus 3x am Tag 3x im Monat wird?\n\nWenn du das hier liest, stehst du wahrscheinlich an einem Wendepunkt \u2013 festhalten oder loslassen?\n\n\"Es war doch so sch\u00f6n am Anfang\", h\u00f6re ich oft von Teilnehmern, die schon seit mehreren Jahren in einer Partnerschaft sind.\n\nWo ist all die Liebe hin? Die Z\u00e4rtlichkeit und die wunderbaren Momente der Intimit\u00e4t, die dein Herz damals schneller schlagen lie\u00dfen?\n\nGenau darum geht es in meinem kostenfreien Webinar 'The Perfect Match'.\n\nMein Name ist Julia und ich helfe Partnern in ungl\u00fccklichen Beziehungen, die Liebe wiederzufinden. Die Liebe, die...\n\n... dich damals stundenlang grundlos l\u00e4cheln lie\u00df, wenn du eine s\u00fc\u00dfe Nachricht von deinem Partner bekommen hast.\n\n... deine Freunde und Familie fragen lie\u00df: \"Welche Medizin nimmst du, dass du so gl\u00fccklich bist?\"\n\n... so stark war, dass keine schlechte Nachricht dich von Wolke 7 holen konnte.\n\nWenn du auch noch Liebe sp\u00fcrst und herausfinden willst, wo sie geblieben ist, dann solltest du unbedingt an meinem gratis Webinar teilnehmen.\n\nKlicke einfach auf den Link und wir sehen uns gleich auf der n\u00e4chsten Seite wieder."
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"juliafrisch.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Julia_Frisch_Official",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":"Kundenfeedback: \u2b50\u2b50\u2b50\u2b50\u2b50",
+                              "link_url":"https://juliafrisch.com/the-perfect-match?utm_source=ads",
+                              "page_categories":[
+                                 "Business"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"110653097137723",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":343,
+                              "page_name":"Julia_Frisch_Official",
+                              "page_profile_picture_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t39.35426-6/470776149_1324040792363990_8059879789713044659_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HysFqUowuiUQ7kNvgHHOUtg&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYCKNpuYdZ7E1-zjSppbWuzmycJMS8tajN4n7WozeRSdAw&oe=677B3CD5",
+                              "page_profile_uri":"https://www.facebook.com/JuliaFrischCoach/",
+                              "root_reshared_post":null,
+                              "title":"[Live Mentoring] Entfache die Schmetterlinge im Bauch \u27a1\ufe0f",
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t42.1790-2/471551247_28937662902499546_8312521981830543869_n.?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tmIFtrSMlfwQ7kNvgFn4NS5&_nc_zt=28&_nc_ht=scontent-fra5-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYDLoLBJUzDt9DfzlGXQRrrIbxsnmbuHnUQpKihEqte8aw&oe=677B3D23",
+                                    "video_preview_image_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t39.35426-6/470537057_1165199791603212_2816910987038264732_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9gLPXZqaC0gQ7kNvgEJB58M&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYAuvad8JMQgzSDMbfQcO2aT9nNPn2tkkHYfKxauhDzLFQ&oe=677B4DC7",
+                                    "video_sd_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t42.1790-2/471546413_449519558214284_8725424021313794864_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3r4mYL1PYAAQ7kNvgG8vSdH&_nc_zt=28&_nc_ht=scontent-fra3-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYAXqsxAywCTO0A5ulMNa4a3DqQL12GrKErOI2yJTku23w&oe=677B5F69",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735632000,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"456161760873357",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":1,
+                           "collation_id":"3987994824855719",
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735718400,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"110653097137723",
+                           "page_is_deleted":false,
+                           "page_name":"Julia_Frisch_Official",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK",
+                              "MESSENGER"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"{{product.brand}}"
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"juliafrisch.com",
+                              "cards":[
+                                 {
+                                    "body":"70\u0025 der Partner gehen in ihrer Beziehung fremd...\n\nMuss das wirklich sein?\n\nWie kann es sein, dass aus 3x am Tag 3x im Monat wird?\n\nWenn du das hier liest, stehst du wahrscheinlich an einem Wendepunkt \u2013 festhalten oder loslassen?\n\n\"Es war doch so sch\u00f6n am Anfang\", h\u00f6re ich oft von Teilnehmern, die schon seit mehreren Jahren in einer Partnerschaft sind.\n\nWo ist all die Liebe hin? Die Z\u00e4rtlichkeit und die wunderbaren Momente der Intimit\u00e4t, die dein Herz damals schneller schlagen lie\u00dfen?\n\nGenau darum geht es in meinem kostenfreien Webinar 'The Perfect Match'.\n\nMein Name ist Julia und ich helfe Partnern in ungl\u00fccklichen Beziehungen, die Liebe wiederzufinden. Die Liebe, die...\n\n... dich damals stundenlang grundlos l\u00e4cheln lie\u00df, wenn du eine s\u00fc\u00dfe Nachricht von deinem Partner bekommen hast.\n\n... deine Freunde und Familie fragen lie\u00df: \"Welche Medizin nimmst du, dass du so gl\u00fccklich bist?\"\n\n... so stark war, dass keine schlechte Nachricht dich von Wolke 7 holen konnte.\n\nWenn du auch noch Liebe sp\u00fcrst und herausfinden willst, wo sie geblieben ist, dann solltest du unbedingt an meinem gratis Webinar teilnehmen.\n\nKlicke einfach auf den Link und wir sehen uns gleich auf der n\u00e4chsten Seite wieder.",
+                                    "caption":"",
+                                    "cta_text":"Learn More",
+                                    "cta_type":"LEARN_MORE",
+                                    "image_crops":[
+                                       
+                                    ],
+                                    "link_description":"Kundenfeedback: \u2b50\u2b50\u2b50\u2b50\u2b50",
+                                    "link_url":"https://juliafrisch.com/the-perfect-match?utm_source=ads",
+                                    "original_image_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t39.35426-6/472234293_1133614948347974_4959692331076620816_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=b0Vukp92d5oQ7kNvgFXMtR0&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYD3jVghjVKho9Vi2UdXoGThwcEkmeRALuzo_ObPP5gISA&oe=677B2968",
+                                    "resized_image_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t39.35426-6/472178985_901306185131260_2644621634430786266_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=klU2RgVuZasQ7kNvgHMaIav&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYBa3xA9kk4kZXIS3368-cyPco3YlNi-y_1-4KO6xMkiHg&oe=677B3090",
+                                    "watermarked_resized_image_url":"",
+                                    "title":"Rette Deine Beziehung Jetzt \u27a1\ufe0f",
+                                    "video_hd_url":null,
+                                    "video_preview_image_url":null,
+                                    "video_sd_url":null,
+                                    "watermarked_video_hd_url":null,
+                                    "watermarked_video_sd_url":null
+                                 },
+                                 {
+                                    "body":"70\u0025 der Partner gehen in ihrer Beziehung fremd...\n\nMuss das wirklich sein?\n\nWie kann es sein, dass aus 3x am Tag 3x im Monat wird?\n\nWenn du das hier liest, stehst du wahrscheinlich an einem Wendepunkt \u2013 festhalten oder loslassen?\n\n\"Es war doch so sch\u00f6n am Anfang\", h\u00f6re ich oft von Teilnehmern, die schon seit mehreren Jahren in einer Partnerschaft sind.\n\nWo ist all die Liebe hin? Die Z\u00e4rtlichkeit und die wunderbaren Momente der Intimit\u00e4t, die dein Herz damals schneller schlagen lie\u00dfen?\n\nGenau darum geht es in meinem kostenfreien Webinar 'The Perfect Match'.\n\nMein Name ist Julia und ich helfe Partnern in ungl\u00fccklichen Beziehungen, die Liebe wiederzufinden. Die Liebe, die...\n\n... dich damals stundenlang grundlos l\u00e4cheln lie\u00df, wenn du eine s\u00fc\u00dfe Nachricht von deinem Partner bekommen hast.\n\n... deine Freunde und Familie fragen lie\u00df: \"Welche Medizin nimmst du, dass du so gl\u00fccklich bist?\"\n\n... so stark war, dass keine schlechte Nachricht dich von Wolke 7 holen konnte.\n\nWenn du auch noch Liebe sp\u00fcrst und herausfinden willst, wo sie geblieben ist, dann solltest du unbedingt an meinem gratis Webinar teilnehmen.\n\nKlicke einfach auf den Link und wir sehen uns gleich auf der n\u00e4chsten Seite wieder.",
+                                    "caption":"",
+                                    "cta_text":"Learn More",
+                                    "cta_type":"LEARN_MORE",
+                                    "image_crops":[
+                                       
+                                    ],
+                                    "link_description":"Kundenfeedback: \u2b50\u2b50\u2b50\u2b50\u2b50",
+                                    "link_url":"https://juliafrisch.com/the-perfect-match?utm_source=ads",
+                                    "original_image_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t39.35426-6/471856823_604860665290993_7211633870891412668_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XDMk9cG07HgQ7kNvgFb0DZa&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYAH-W2CVHEG9k1bm8D5d0yBuUhv_kWSu5rewcVVhOdOtA&oe=677B4D7D",
+                                    "resized_image_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/471950108_1676159769975221_2445510531103452981_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NaGaP8kGjbYQ7kNvgF4vXAc&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYBm3iCjSfV2YeRfmHvkTDseH1zaMDsF4hS_2P0GHrXqlw&oe=677B5AE7",
+                                    "watermarked_resized_image_url":"",
+                                    "title":"Rette Deine Beziehung Jetzt \u27a1\ufe0f",
+                                    "video_hd_url":null,
+                                    "video_preview_image_url":null,
+                                    "video_sd_url":null,
+                                    "watermarked_video_hd_url":null,
+                                    "watermarked_video_sd_url":null
+                                 }
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Julia_Frisch_Official",
+                              "disclaimer_label":null,
+                              "display_format":"DCO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":"{{product.description}}",
+                              "link_url":"https://juliafrisch.com/the-perfect-match?utm_source=ads",
+                              "page_categories":[
+                                 "Business"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"110653097137723",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":343,
+                              "page_name":"Julia_Frisch_Official",
+                              "page_profile_picture_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t39.35426-6/471951309_9283596058368930_8141792940695457021_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Sg6I2UsErZQQ7kNvgGOR51U&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYAWFu_w56XZy1DCvyvPpW3SCQV-9eRjs6-gkP6ptmqYcA&oe=677B45CB",
+                              "page_profile_uri":"https://www.facebook.com/JuliaFrischCoach/",
+                              "root_reshared_post":null,
+                              "title":"{{product.name}}",
+                              "videos":[
+                                 
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735632000,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"1239027730519630",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":1,
+                           "collation_id":"2402289940147666",
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735718400,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"110653097137723",
+                           "page_is_deleted":false,
+                           "page_name":"Julia_Frisch_Official",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK",
+                              "MESSENGER"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"70\u0025 der Partner gehen in ihrer Beziehung fremd...\n\nMuss das wirklich sein?\n\nWie kann es sein, dass aus 3x am Tag 3x im Monat wird?\n\nWenn du das hier liest, stehst du wahrscheinlich an einem Wendepunkt \u2013 festhalten oder loslassen?\n\n\"Es war doch so sch\u00f6n am Anfang\", h\u00f6re ich oft von Teilnehmern, die schon seit mehreren Jahren in einer Partnerschaft sind.\n\nWo ist all die Liebe hin? Die Z\u00e4rtlichkeit und die wunderbaren Momente der Intimit\u00e4t, die dein Herz damals schneller schlagen lie\u00dfen?\n\nGenau darum geht es in meinem kostenfreien Webinar 'The Perfect Match'.\n\nMein Name ist Julia und ich helfe Partnern in ungl\u00fccklichen Beziehungen, die Liebe wiederzufinden. Die Liebe, die...\n\n... dich damals stundenlang grundlos l\u00e4cheln lie\u00df, wenn du eine s\u00fc\u00dfe Nachricht von deinem Partner bekommen hast.\n\n... deine Freunde und Familie fragen lie\u00df: \"Welche Medizin nimmst du, dass du so gl\u00fccklich bist?\"\n\n... so stark war, dass keine schlechte Nachricht dich von Wolke 7 holen konnte.\n\nWenn du auch noch Liebe sp\u00fcrst und herausfinden willst, wo sie geblieben ist, dann solltest du unbedingt an meinem gratis Webinar teilnehmen.\n\nKlicke einfach auf den Link und wir sehen uns gleich auf der n\u00e4chsten Seite wieder."
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"juliafrisch.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Julia_Frisch_Official",
+                              "disclaimer_label":null,
+                              "display_format":"IMAGE",
+                              "event":null,
+                              "images":[
+                                 {
+                                    "original_image_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/471778180_1102201687894692_1285904239736588212_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-SKVQJSxSQwQ7kNvgExdimI&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYA0SnsMUQLlKJbz9wjP6bdb2hdOoQCZL6CCuJy0Ywg9TQ&oe=677B39A1",
+                                    "resized_image_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t39.35426-6/471995875_8545101732262324_6035557585126513811_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=X8kgkiE1GyYQ7kNvgH2djPq&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYArWK-rHbeZuEoHmlgjCimpsnSsQ4-yVhe2uHPa460DGg&oe=677B5216",
+                                    "watermarked_resized_image_url":"",
+                                    "image_crops":[
+                                       
+                                    ]
+                                 }
+                              ],
+                              "is_reshared":false,
+                              "link_description":"Kundenfeedback: \u2b50\u2b50\u2b50\u2b50\u2b50",
+                              "link_url":"https://juliafrisch.com/the-perfect-match?utm_source=ads",
+                              "page_categories":[
+                                 "Business"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"110653097137723",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":343,
+                              "page_name":"Julia_Frisch_Official",
+                              "page_profile_picture_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t39.35426-6/472027739_3991901614423198_271610131703143186_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hwT6AuM5dJ0Q7kNvgE1RNmy&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYDcHdQGf7Dje9N8n6M_DRPsZ-yX4ZfX6qVBl1atLjyawA&oe=677B559B",
+                              "page_profile_uri":"https://www.facebook.com/JuliaFrischCoach/",
+                              "root_reshared_post":null,
+                              "title":"[Gratis Event] Dein Weg zu Schmetterlingen im Bauch ->",
+                              "videos":[
+                                 
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735632000,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"1344441380068496",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":1,
+                           "collation_id":"571313445665045",
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735632000,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"110653097137723",
+                           "page_is_deleted":false,
+                           "page_name":"Julia_Frisch_Official",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK",
+                              "MESSENGER"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"70\u0025 der Partner gehen in ihrer Beziehung fremd...\n\nMuss das wirklich sein?\n\nWie kann es sein, dass aus 3x am Tag 3x im Monat wird?\n\nWenn du das hier liest, stehst du wahrscheinlich an einem Wendepunkt \u2013 festhalten oder loslassen?\n\n\"Es war doch so sch\u00f6n am Anfang\", h\u00f6re ich oft von Teilnehmern, die schon seit mehreren Jahren in einer Partnerschaft sind.\n\nWo ist all die Liebe hin? Die Z\u00e4rtlichkeit und die wunderbaren Momente der Intimit\u00e4t, die dein Herz damals schneller schlagen lie\u00dfen?\n\nGenau darum geht es in meinem kostenfreien Webinar 'The Perfect Match'.\n\nMein Name ist Julia und ich helfe Partnern in ungl\u00fccklichen Beziehungen, die Liebe wiederzufinden. Die Liebe, die...\n\n... dich damals stundenlang grundlos l\u00e4cheln lie\u00df, wenn du eine s\u00fc\u00dfe Nachricht von deinem Partner bekommen hast.\n\n... deine Freunde und Familie fragen lie\u00df: \"Welche Medizin nimmst du, dass du so gl\u00fccklich bist?\"\n\n... so stark war, dass keine schlechte Nachricht dich von Wolke 7 holen konnte.\n\nWenn du auch noch Liebe sp\u00fcrst und herausfinden willst, wo sie geblieben ist, dann solltest du unbedingt an meinem gratis Webinar teilnehmen.\n\nKlicke einfach auf den Link und wir sehen uns gleich auf der n\u00e4chsten Seite wieder."
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"juliafrisch.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Julia_Frisch_Official",
+                              "disclaimer_label":null,
+                              "display_format":"IMAGE",
+                              "event":null,
+                              "images":[
+                                 {
+                                    "original_image_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t39.35426-6/471951946_527687333626078_7393795392361923041_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2BO0evTqXSIQ7kNvgHu9WQn&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYCl1CHbsIxMDQC5rqFxS_dtHr7Dn-7OoyQkZ9OVB7FCmg&oe=677B5BE6",
+                                    "resized_image_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/471775515_1140596771118184_7254154916229275988_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=trVJWE-7VYEQ7kNvgFO8dcI&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYAeiea6gdnqAvuzj72msuN9-3q0emODIaoEht3EOM9u1g&oe=677B3E4B",
+                                    "watermarked_resized_image_url":"",
+                                    "image_crops":[
+                                       
+                                    ]
+                                 }
+                              ],
+                              "is_reshared":false,
+                              "link_description":"Kundenfeedback: \u2b50\u2b50\u2b50\u2b50\u2b50",
+                              "link_url":"https://juliafrisch.com/the-perfect-match?utm_source=ads",
+                              "page_categories":[
+                                 "Business"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"110653097137723",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":343,
+                              "page_name":"Julia_Frisch_Official",
+                              "page_profile_picture_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t39.35426-6/471903357_575862745197780_4313003983168938793_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Xv1fxdRrxPsQ7kNvgHb5_An&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYD6SiLMVylff49nWSFBg4u6b1g9i7yyGoxG81cPHGaMrA&oe=677B4CF3",
+                              "page_profile_uri":"https://www.facebook.com/JuliaFrischCoach/",
+                              "root_reshared_post":null,
+                              "title":"[Live Mentoring] Entfache die Schmetterlinge im Bauch \u27a1\ufe0f",
+                              "videos":[
+                                 
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735632000,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"473821288742642",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":1,
+                           "collation_id":"1262314101711121",
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735718400,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"110653097137723",
+                           "page_is_deleted":false,
+                           "page_name":"Julia_Frisch_Official",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK",
+                              "MESSENGER"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"{{product.brand}}"
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"juliafrisch.com",
+                              "cards":[
+                                 {
+                                    "body":"70\u0025 der Partner gehen in ihrer Beziehung fremd...\n\nMuss das wirklich sein?\n\nWie kann es sein, dass aus 3x am Tag 3x im Monat wird?\n\nWenn du das hier liest, stehst du wahrscheinlich an einem Wendepunkt \u2013 festhalten oder loslassen?\n\n\"Es war doch so sch\u00f6n am Anfang\", h\u00f6re ich oft von Teilnehmern, die schon seit mehreren Jahren in einer Partnerschaft sind.\n\nWo ist all die Liebe hin? Die Z\u00e4rtlichkeit und die wunderbaren Momente der Intimit\u00e4t, die dein Herz damals schneller schlagen lie\u00dfen?\n\nGenau darum geht es in meinem kostenfreien Webinar 'The Perfect Match'.\n\nMein Name ist Julia und ich helfe Partnern in ungl\u00fccklichen Beziehungen, die Liebe wiederzufinden. Die Liebe, die...\n\n... dich damals stundenlang grundlos l\u00e4cheln lie\u00df, wenn du eine s\u00fc\u00dfe Nachricht von deinem Partner bekommen hast.\n\n... deine Freunde und Familie fragen lie\u00df: \"Welche Medizin nimmst du, dass du so gl\u00fccklich bist?\"\n\n... so stark war, dass keine schlechte Nachricht dich von Wolke 7 holen konnte.\n\nWenn du auch noch Liebe sp\u00fcrst und herausfinden willst, wo sie geblieben ist, dann solltest du unbedingt an meinem gratis Webinar teilnehmen.\n\nKlicke einfach auf den Link und wir sehen uns gleich auf der n\u00e4chsten Seite wieder.",
+                                    "caption":"",
+                                    "cta_text":"Learn More",
+                                    "cta_type":"LEARN_MORE",
+                                    "image_crops":[
+                                       
+                                    ],
+                                    "link_description":"Kundenfeedback: \u2b50\u2b50\u2b50\u2b50\u2b50",
+                                    "link_url":"https://juliafrisch.com/the-perfect-match?utm_source=ads",
+                                    "original_image_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t39.35426-6/472296376_949077373313219_7185752461100377581_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=47eUcvN14bMQ7kNvgHmitur&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYCflfnHR6FsjiQK23u_iTjhFbZFKSJV3y4ugSbPO4iu6g&oe=677B3A06",
+                                    "resized_image_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/472207988_947321256940462_310308602191200125_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q5_sGmm6gFUQ7kNvgFWCELQ&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYAD24d4apP6elNlrYdy5-x1mkz_Wf5Dlyp5E0M35kUGAA&oe=677B3944",
+                                    "watermarked_resized_image_url":"",
+                                    "title":"Rette Deine Beziehung Jetzt \u27a1\ufe0f",
+                                    "video_hd_url":null,
+                                    "video_preview_image_url":null,
+                                    "video_sd_url":null,
+                                    "watermarked_video_hd_url":null,
+                                    "watermarked_video_sd_url":null
+                                 },
+                                 {
+                                    "body":"70\u0025 der Partner gehen in ihrer Beziehung fremd...\n\nMuss das wirklich sein?\n\nWie kann es sein, dass aus 3x am Tag 3x im Monat wird?\n\nWenn du das hier liest, stehst du wahrscheinlich an einem Wendepunkt \u2013 festhalten oder loslassen?\n\n\"Es war doch so sch\u00f6n am Anfang\", h\u00f6re ich oft von Teilnehmern, die schon seit mehreren Jahren in einer Partnerschaft sind.\n\nWo ist all die Liebe hin? Die Z\u00e4rtlichkeit und die wunderbaren Momente der Intimit\u00e4t, die dein Herz damals schneller schlagen lie\u00dfen?\n\nGenau darum geht es in meinem kostenfreien Webinar 'The Perfect Match'.\n\nMein Name ist Julia und ich helfe Partnern in ungl\u00fccklichen Beziehungen, die Liebe wiederzufinden. Die Liebe, die...\n\n... dich damals stundenlang grundlos l\u00e4cheln lie\u00df, wenn du eine s\u00fc\u00dfe Nachricht von deinem Partner bekommen hast.\n\n... deine Freunde und Familie fragen lie\u00df: \"Welche Medizin nimmst du, dass du so gl\u00fccklich bist?\"\n\n... so stark war, dass keine schlechte Nachricht dich von Wolke 7 holen konnte.\n\nWenn du auch noch Liebe sp\u00fcrst und herausfinden willst, wo sie geblieben ist, dann solltest du unbedingt an meinem gratis Webinar teilnehmen.\n\nKlicke einfach auf den Link und wir sehen uns gleich auf der n\u00e4chsten Seite wieder.",
+                                    "caption":"",
+                                    "cta_text":"Learn More",
+                                    "cta_type":"LEARN_MORE",
+                                    "image_crops":[
+                                       
+                                    ],
+                                    "link_description":"Kundenfeedback: \u2b50\u2b50\u2b50\u2b50\u2b50",
+                                    "link_url":"https://juliafrisch.com/the-perfect-match?utm_source=ads",
+                                    "original_image_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t39.35426-6/471699555_1649206279287230_562007803359540803_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Eo32Syg_5PsQ7kNvgHP4LS0&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYBzP8QldqWyy6Rro_nXCwvsLvHLuo3h2ubc72e2BosJyg&oe=677B3243",
+                                    "resized_image_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/472209444_543965542125763_1054692543799508503_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KRYJu1iy6y4Q7kNvgGl8ho8&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYDAuIQoygQyLs_6Q2dREm8gflR1YkRmGylr-V-eoprWJQ&oe=677B4898",
+                                    "watermarked_resized_image_url":"",
+                                    "title":"Rette Deine Beziehung Jetzt \u27a1\ufe0f",
+                                    "video_hd_url":null,
+                                    "video_preview_image_url":null,
+                                    "video_sd_url":null,
+                                    "watermarked_video_hd_url":null,
+                                    "watermarked_video_sd_url":null
+                                 }
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Julia_Frisch_Official",
+                              "disclaimer_label":null,
+                              "display_format":"DCO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":"{{product.description}}",
+                              "link_url":"https://juliafrisch.com/the-perfect-match?utm_source=ads",
+                              "page_categories":[
+                                 "Business"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"110653097137723",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":343,
+                              "page_name":"Julia_Frisch_Official",
+                              "page_profile_picture_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t39.35426-6/472123047_969354561748815_8697636206240996986_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6ht9mla0yTgQ7kNvgFeWrLq&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYCYtA9anfqAhl2ZKQcwQrsMFvMS5JGruOjwYFBWf1M6RA&oe=677B2DF8",
+                              "page_profile_uri":"https://www.facebook.com/JuliaFrischCoach/",
+                              "root_reshared_post":null,
+                              "title":"{{product.name}}",
+                              "videos":[
+                                 
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735632000,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"3135190856647273",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":1,
+                           "collation_id":"560601533528510",
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735718400,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"110653097137723",
+                           "page_is_deleted":false,
+                           "page_name":"Julia_Frisch_Official",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM",
+                              "AUDIENCE_NETWORK",
+                              "MESSENGER"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"70\u0025 der Partner gehen in ihrer Beziehung fremd...\n\nMuss das wirklich sein?\n\nWie kann es sein, dass aus 3x am Tag 3x im Monat wird?\n\nWenn du das hier liest, stehst du wahrscheinlich an einem Wendepunkt \u2013 festhalten oder loslassen?\n\n\"Es war doch so sch\u00f6n am Anfang\", h\u00f6re ich oft von Teilnehmern, die schon seit mehreren Jahren in einer Partnerschaft sind.\n\nWo ist all die Liebe hin? Die Z\u00e4rtlichkeit und die wunderbaren Momente der Intimit\u00e4t, die dein Herz damals schneller schlagen lie\u00dfen?\n\nGenau darum geht es in meinem kostenfreien Webinar 'The Perfect Match'.\n\nMein Name ist Julia und ich helfe Partnern in ungl\u00fccklichen Beziehungen, die Liebe wiederzufinden. Die Liebe, die...\n\n... dich damals stundenlang grundlos l\u00e4cheln lie\u00df, wenn du eine s\u00fc\u00dfe Nachricht von deinem Partner bekommen hast.\n\n... deine Freunde und Familie fragen lie\u00df: \"Welche Medizin nimmst du, dass du so gl\u00fccklich bist?\"\n\n... so stark war, dass keine schlechte Nachricht dich von Wolke 7 holen konnte.\n\nWenn du auch noch Liebe sp\u00fcrst und herausfinden willst, wo sie geblieben ist, dann solltest du unbedingt an meinem gratis Webinar teilnehmen.\n\nKlicke einfach auf den Link und wir sehen uns gleich auf der n\u00e4chsten Seite wieder."
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"juliafrisch.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Julia_Frisch_Official",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":"Kundenfeedback: \u2b50\u2b50\u2b50\u2b50\u2b50",
+                              "link_url":"https://juliafrisch.com/the-perfect-match?utm_source=ads",
+                              "page_categories":[
+                                 "Business"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"110653097137723",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":343,
+                              "page_name":"Julia_Frisch_Official",
+                              "page_profile_picture_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t39.35426-6/472007018_1039500768174576_4549338151585686212_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IsYh2Ocn4oUQ7kNvgEZ4bAN&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYAhVBxj-M-IFHvO9robnAwnLUPCtxGBjEtviAaXTjVl_A&oe=677B3714",
+                              "page_profile_uri":"https://www.facebook.com/JuliaFrischCoach/",
+                              "root_reshared_post":null,
+                              "title":"[Live Mentoring] Entfache die Schmetterlinge im Bauch \u27a1\ufe0f",
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t42.1790-2/471371485_3135190923313933_1011142370180000097_n.?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9KTBMGA85dQQ7kNvgE3Bi80&_nc_zt=28&_nc_ht=scontent-fra3-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYDPUMnNjxDi5wRewzwCSZvH-cXXcE7OwDlPiNvOBKqtCA&oe=677B4876",
+                                    "video_preview_image_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t39.35426-6/472147521_1311027823240165_4713129311398928702_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=X7Kq9R3t2fQQ7kNvgFc6g9K&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYAoJWBi6DgjvaG6FofPkIOKyTCmiQBdt2crJxqEvEAhWw&oe=677B4113",
+                                    "video_sd_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t42.1790-2/471514122_1246765933289340_3600585788164413546_n.mp4?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uJpi3Gfj8JEQ7kNvgHPl7Br&_nc_zt=28&_nc_ht=scontent-fra5-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYAm1j8l6LJwRzP8WqL13-mifCq-AiKrzQdY4kbPIPKAVA&oe=677B33A2",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735632000,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"816537113931273",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":null,
+                           "collation_id":null,
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735718400,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"110653097137723",
+                           "page_is_deleted":false,
+                           "page_name":"Julia_Frisch_Official",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"70\u0025 der Partner gehen in ihrer Beziehung fremd...\n\nMuss das wirklich sein?\n\nWie kann es sein, dass aus 3x am Tag 3x im Monat wird?\n\nWenn du das hier liest, stehst du wahrscheinlich an einem Wendepunkt \u2013 festhalten oder loslassen?\n\n\"Es war doch so sch\u00f6n am Anfang\", h\u00f6re ich oft von Teilnehmern, die schon seit mehreren Jahren in einer Partnerschaft sind.\n\nWo ist all die Liebe hin? Die Z\u00e4rtlichkeit und die wunderbaren Momente der Intimit\u00e4t, die dein Herz damals schneller schlagen lie\u00dfen?\n\nGenau darum geht es in meinem kostenfreien Webinar 'The Perfect Match'.\n\nMein Name ist Julia und ich helfe Partnern in ungl\u00fccklichen Beziehungen, die Liebe wiederzufinden. Die Liebe, die...\n\n... dich damals stundenlang grundlos l\u00e4cheln lie\u00df, wenn du eine s\u00fc\u00dfe Nachricht von deinem Partner bekommen hast.\n\n... deine Freunde und Familie fragen lie\u00df: \"Welche Medizin nimmst du, dass du so gl\u00fccklich bist?\"\n\n... so stark war, dass keine schlechte Nachricht dich von Wolke 7 holen konnte.\n\nWenn du auch noch Liebe sp\u00fcrst und herausfinden willst, wo sie geblieben ist, dann solltest du unbedingt an meinem gratis Webinar teilnehmen.\n\nKlicke einfach auf den Link und wir sehen uns gleich auf der n\u00e4chsten Seite wieder."
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"juliafrisch.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Julia_Frisch_Official",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":"Kundenfeedback: \u2b50\u2b50\u2b50\u2b50\u2b50",
+                              "link_url":"https://juliafrisch.com/the-perfect-match?utm_source=ads",
+                              "page_categories":[
+                                 "Business"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"110653097137723",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":343,
+                              "page_name":"Julia_Frisch_Official",
+                              "page_profile_picture_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t39.35426-6/470542527_1499229834100651_5393561364756496211_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FgxFumCSpDsQ7kNvgHKBX9W&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYBJUgn9YTv7W1GhQr21awMFv4cksGhDgq-bUDZNz8VpPw&oe=677B4E29",
+                              "page_profile_uri":"https://www.facebook.com/JuliaFrischCoach/",
+                              "root_reshared_post":null,
+                              "title":"[Live Mentoring] Entfache die Schmetterlinge im Bauch \u27a1\ufe0f",
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t42.1790-2/471622100_816537143931270_2182674645844410208_n.?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pAdYz3NUm8oQ7kNvgFa9jVm&_nc_zt=28&_nc_ht=scontent-fra3-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYCNOwmBYIoIwIUTVnmXYGsujdOBNq4ueKqdoWpwj5OpuA&oe=677B55B0",
+                                    "video_preview_image_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/472067945_1135441491278274_4280069201998687489_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WOLYteH7rzUQ7kNvgEW0_xs&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYD-o8KcumhHZJU0Wps8ezwlu4fy2ISUrtc32K9TxsBgpA&oe=677B46F2",
+                                    "video_sd_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t42.1790-2/456578398_1608301833091649_8808452076684001353_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R3SNr_gFzPkQ7kNvgH117Lo&_nc_zt=28&_nc_ht=scontent-fra5-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYBObpSMEyEt3d_SFuyE4ZXYfK9Ykfc58yRulDePfckXSQ&oe=677B3D6D",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735545600,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"902623851988418",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":null,
+                           "collation_id":null,
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735718400,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"110653097137723",
+                           "page_is_deleted":false,
+                           "page_name":"Julia_Frisch_Official",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"70\u0025 der Partner gehen in ihrer Beziehung fremd...\n\nMuss das wirklich sein?\n\nWie kann es sein, dass aus 3x am Tag 3x im Monat wird?\n\nWenn du das hier liest, stehst du wahrscheinlich an einem Wendepunkt \u2013 festhalten oder loslassen?\n\n\"Es war doch so sch\u00f6n am Anfang\", h\u00f6re ich oft von Teilnehmern, die schon seit mehreren Jahren in einer Partnerschaft sind.\n\nWo ist all die Liebe hin? Die Z\u00e4rtlichkeit und die wunderbaren Momente der Intimit\u00e4t, die dein Herz damals schneller schlagen lie\u00dfen?\n\nGenau darum geht es in meinem kostenfreien Webinar 'The Perfect Match'.\n\nMein Name ist Julia und ich helfe Partnern in ungl\u00fccklichen Beziehungen, die Liebe wiederzufinden. Die Liebe, die...\n\n... dich damals stundenlang grundlos l\u00e4cheln lie\u00df, wenn du eine s\u00fc\u00dfe Nachricht von deinem Partner bekommen hast.\n\n... deine Freunde und Familie fragen lie\u00df: \"Welche Medizin nimmst du, dass du so gl\u00fccklich bist?\"\n\n... so stark war, dass keine schlechte Nachricht dich von Wolke 7 holen konnte.\n\nWenn du auch noch Liebe sp\u00fcrst und herausfinden willst, wo sie geblieben ist, dann solltest du unbedingt an meinem gratis Webinar teilnehmen.\n\nKlicke einfach auf den Link und wir sehen uns gleich auf der n\u00e4chsten Seite wieder."
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"juliafrisch.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Julia_Frisch_Official",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":"Kundenfeedback: \u2b50\u2b50\u2b50\u2b50\u2b50",
+                              "link_url":"https://juliafrisch.com/the-perfect-match?utm_source=ads",
+                              "page_categories":[
+                                 "Business"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"110653097137723",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":343,
+                              "page_name":"Julia_Frisch_Official",
+                              "page_profile_picture_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.35426-6/472193844_615690720902797_5818517657364211027_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eLTH3Dll6ZIQ7kNvgHe5UHB&_nc_zt=14&_nc_ht=scontent-fra3-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYAr7cAeQSf9xaNctDE8EyEyGopGje8Rgh8vTVIbb1lj4A&oe=677B4328",
+                              "page_profile_uri":"https://www.facebook.com/JuliaFrischCoach/",
+                              "root_reshared_post":null,
+                              "title":"[Live Mentoring] Entfache die Schmetterlinge im Bauch \u27a1\ufe0f",
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t42.1790-2/471375445_902623895321747_8910547125678309868_n.?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tSRgXj925bcQ7kNvgFK4Zlm&_nc_zt=28&_nc_ht=scontent-fra3-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYBrJXsA83FJyt0L7Dd0TUNTUZVYvGa578ZoMaPUqyXzSg&oe=677B53CA",
+                                    "video_preview_image_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t39.35426-6/471989765_1149163320191612_3336052800347729230_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KKQOblhQJa8Q7kNvgFBCbha&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYB21zGs4amSbuHZ2iuvMy0hYUGzXSDU7nWCphiDuIvTlw&oe=677B56BF",
+                                    "video_sd_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t42.1790-2/456578398_1608301833091649_8808452076684001353_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R3SNr_gFzPkQ7kNvgH117Lo&_nc_zt=28&_nc_ht=scontent-fra5-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYBObpSMEyEt3d_SFuyE4ZXYfK9Ykfc58yRulDePfckXSQ&oe=677B3D6D",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735545600,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"943976623909928",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":null,
+                           "collation_id":null,
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735718400,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"110653097137723",
+                           "page_is_deleted":false,
+                           "page_name":"Julia_Frisch_Official",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"70\u0025 der Partner gehen in ihrer Beziehung fremd...\n\nMuss das wirklich sein?\n\nWie kann es sein, dass aus 3x am Tag 3x im Monat wird?\n\nWenn du das hier liest, stehst du wahrscheinlich an einem Wendepunkt \u2013 festhalten oder loslassen?\n\n\"Es war doch so sch\u00f6n am Anfang\", h\u00f6re ich oft von Teilnehmern, die schon seit mehreren Jahren in einer Partnerschaft sind.\n\nWo ist all die Liebe hin? Die Z\u00e4rtlichkeit und die wunderbaren Momente der Intimit\u00e4t, die dein Herz damals schneller schlagen lie\u00dfen?\n\nGenau darum geht es in meinem kostenfreien Webinar 'The Perfect Match'.\n\nMein Name ist Julia und ich helfe Partnern in ungl\u00fccklichen Beziehungen, die Liebe wiederzufinden. Die Liebe, die...\n\n... dich damals stundenlang grundlos l\u00e4cheln lie\u00df, wenn du eine s\u00fc\u00dfe Nachricht von deinem Partner bekommen hast.\n\n... deine Freunde und Familie fragen lie\u00df: \"Welche Medizin nimmst du, dass du so gl\u00fccklich bist?\"\n\n... so stark war, dass keine schlechte Nachricht dich von Wolke 7 holen konnte.\n\nWenn du auch noch Liebe sp\u00fcrst und herausfinden willst, wo sie geblieben ist, dann solltest du unbedingt an meinem gratis Webinar teilnehmen.\n\nKlicke einfach auf den Link und wir sehen uns gleich auf der n\u00e4chsten Seite wieder."
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"juliafrisch.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Julia_Frisch_Official",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":"Kundenfeedback: \u2b50\u2b50\u2b50\u2b50\u2b50",
+                              "link_url":"https://juliafrisch.com/the-perfect-match?utm_source=ads",
+                              "page_categories":[
+                                 "Business"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"110653097137723",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":343,
+                              "page_name":"Julia_Frisch_Official",
+                              "page_profile_picture_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t39.35426-6/472056663_1135276431280912_7584911610687342051_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vLM-lUN4cDkQ7kNvgFBpCC8&_nc_zt=14&_nc_ht=scontent-fra5-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYBGPxBe3zEL0-nF95LeJn4-RNn2qJE5aZH-jeSOMl89SQ&oe=677B5E1E",
+                              "page_profile_uri":"https://www.facebook.com/JuliaFrischCoach/",
+                              "root_reshared_post":null,
+                              "title":"[Live Mentoring] Entfache die Schmetterlinge im Bauch \u27a1\ufe0f",
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra3-1.xx.fbcdn.net/v/t42.1790-2/471795960_943976653909925_1768778152033455447_n.?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=khN8DZvcONgQ7kNvgElPa_Y&_nc_zt=28&_nc_ht=scontent-fra3-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYDir2yuOQ3zII9OVy7FgyOqDSxLGdzQKtuUIOV6xJsoaA&oe=677B5471",
+                                    "video_preview_image_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t39.35426-6/471734479_611834211504246_3132605296032698620_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dI-BbVcQJ7MQ7kNvgHirv4_&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYCJDfCoeJncLU0OWYeKniSroXfd-QD9Wn7fCUxodYPvMA&oe=677B4C57",
+                                    "video_sd_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t42.1790-2/456578398_1608301833091649_8808452076684001353_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R3SNr_gFzPkQ7kNvgH117Lo&_nc_zt=28&_nc_ht=scontent-fra5-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYBObpSMEyEt3d_SFuyE4ZXYfK9Ykfc58yRulDePfckXSQ&oe=677B3D6D",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735545600,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               },
+               {
+                  "node":{
+                     "collated_results":[
+                        {
+                           "ad_archive_id":"1161195972055187",
+                           "ad_id":null,
+                           "archive_types":[
+                              
+                           ],
+                           "categories":[
+                              "UNKNOWN"
+                           ],
+                           "collation_count":null,
+                           "collation_id":null,
+                           "contains_digital_created_media":false,
+                           "contains_sensitive_content":false,
+                           "currency":"",
+                           "end_date":1735718400,
+                           "entity_type":"PERSON_PROFILE",
+                           "fev_info":null,
+                           "finserv_ad_data":{
+                              "is_deemed_finserv":false,
+                              "is_limited_delivery":false
+                           },
+                           "gated_type":"ELIGIBLE",
+                           "has_user_reported":false,
+                           "hidden_safety_data":false,
+                           "hide_data_status":"NONE",
+                           "impressions_with_index":{
+                              "impressions_text":null,
+                              "impressions_index":-1
+                           },
+                           "is_aaa_eligible":true,
+                           "is_active":true,
+                           "is_profile_page":false,
+                           "menu_items":[
+                              
+                           ],
+                           "page_id":"110653097137723",
+                           "page_is_deleted":false,
+                           "page_name":"Julia_Frisch_Official",
+                           "political_countries":[
+                              
+                           ],
+                           "publisher_platform":[
+                              "FACEBOOK",
+                              "INSTAGRAM"
+                           ],
+                           "reach_estimate":null,
+                           "report_count":null,
+                           "snapshot":{
+                              "body":{
+                                 "text":"70\u0025 der Partner gehen in ihrer Beziehung fremd...\n\nMuss das wirklich sein?\n\nWie kann es sein, dass aus 3x am Tag 3x im Monat wird?\n\nWenn du das hier liest, stehst du wahrscheinlich an einem Wendepunkt \u2013 festhalten oder loslassen?\n\n\"Es war doch so sch\u00f6n am Anfang\", h\u00f6re ich oft von Teilnehmern, die schon seit mehreren Jahren in einer Partnerschaft sind.\n\nWo ist all die Liebe hin? Die Z\u00e4rtlichkeit und die wunderbaren Momente der Intimit\u00e4t, die dein Herz damals schneller schlagen lie\u00dfen?\n\nGenau darum geht es in meinem kostenfreien Webinar 'The Perfect Match'.\n\nMein Name ist Julia und ich helfe Partnern in ungl\u00fccklichen Beziehungen, die Liebe wiederzufinden. Die Liebe, die...\n\n... dich damals stundenlang grundlos l\u00e4cheln lie\u00df, wenn du eine s\u00fc\u00dfe Nachricht von deinem Partner bekommen hast.\n\n... deine Freunde und Familie fragen lie\u00df: \"Welche Medizin nimmst du, dass du so gl\u00fccklich bist?\"\n\n... so stark war, dass keine schlechte Nachricht dich von Wolke 7 holen konnte.\n\nWenn du auch noch Liebe sp\u00fcrst und herausfinden willst, wo sie geblieben ist, dann solltest du unbedingt an meinem gratis Webinar teilnehmen.\n\nKlicke einfach auf den Link und wir sehen uns gleich auf der n\u00e4chsten Seite wieder."
+                              },
+                              "branded_content":null,
+                              "brazil_tax_id":null,
+                              "byline":null,
+                              "caption":"juliafrisch.com",
+                              "cards":[
+                                 
+                              ],
+                              "cta_text":"Mehr dazu",
+                              "cta_type":"LEARN_MORE",
+                              "country_iso_code":null,
+                              "current_page_name":"Julia_Frisch_Official",
+                              "disclaimer_label":null,
+                              "display_format":"VIDEO",
+                              "event":null,
+                              "images":[
+                                 
+                              ],
+                              "is_reshared":false,
+                              "link_description":"Kundenfeedback: \u2b50\u2b50\u2b50\u2b50\u2b50",
+                              "link_url":"https://juliafrisch.com/the-perfect-match?utm_source=ads",
+                              "page_categories":[
+                                 "Business"
+                              ],
+                              "page_entity_type":"PERSON_PROFILE",
+                              "page_id":"110653097137723",
+                              "page_is_deleted":false,
+                              "page_is_profile_page":false,
+                              "page_like_count":343,
+                              "page_name":"Julia_Frisch_Official",
+                              "page_profile_picture_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t39.35426-6/471820596_482384094890157_2150586314346223142_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PHe4DaOvTNwQ7kNvgHIBAEH&_nc_zt=14&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYCeH7lfWZKrqb_CJkon4Ke-BE_63c7uw6Oyo61DVNADaQ&oe=677B5A19",
+                              "page_profile_uri":"https://www.facebook.com/JuliaFrischCoach/",
+                              "root_reshared_post":null,
+                              "title":"[Live Mentoring] Entfache die Schmetterlinge im Bauch \u27a1\ufe0f",
+                              "videos":[
+                                 {
+                                    "video_hd_url":"https://scontent-fra5-1.xx.fbcdn.net/v/t42.1790-2/471615527_1161196012055183_2786799971317176519_n.?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_D8Cmt2qPBEQ7kNvgEvPJvN&_nc_zt=28&_nc_ht=scontent-fra5-1.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYARgeuOpA5Yy2AwWHOeid0CxBUkXqBFSMNoX1vIsr31LQ&oe=677B540B",
+                                    "video_preview_image_url":"https://scontent-fra3-2.xx.fbcdn.net/v/t39.35426-6/472300317_1026813532800688_7456370724714698980_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VIyt90hMcwoQ7kNvgGE1HES&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYDkgKfumnP1mCAAS1yenMxQll7oYWyHg3PpSKHLk4brmA&oe=677B2DF5",
+                                    "video_sd_url":"https://scontent-fra5-2.xx.fbcdn.net/v/t42.1790-2/456578398_1608301833091649_8808452076684001353_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R3SNr_gFzPkQ7kNvgH117Lo&_nc_zt=28&_nc_ht=scontent-fra5-2.xx&_nc_gid=AffdqV0b9hB1Mo2ekAxJMSi&oh=00_AYBObpSMEyEt3d_SFuyE4ZXYfK9Ykfc58yRulDePfckXSQ&oe=677B3D6D",
+                                    "watermarked_video_hd_url":"",
+                                    "watermarked_video_sd_url":""
+                                 }
+                              ],
+                              "additional_info":null,
+                              "ec_certificates":[
+                                 
+                              ],
+                              "extra_images":[
+                                 
+                              ],
+                              "extra_links":[
+                                 
+                              ],
+                              "extra_texts":[
+                                 
+                              ],
+                              "extra_videos":[
+                                 
+                              ]
+                           },
+                           "spend":null,
+                           "start_date":1735545600,
+                           "state_media_run_label":null,
+                           "targeted_or_reached_countries":[
+                              
+                           ],
+                           "total_active_time":null
+                        }
+                     ],
+                     "__typename":"CollatedSearchResults"
+                  },
+                  "cursor":null
+               }
+            ],
+            "page_info":{
+               "end_cursor":"",
+               "has_next_page":false
+            }
+         }
+      }
+   },
+   "extensions":{
+      "is_final":true
+   }
+}

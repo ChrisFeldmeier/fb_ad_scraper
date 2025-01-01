@@ -3,6 +3,7 @@ json/
 json/*
 data/
 *.log
+fb_scraper.log
 
 # Virtual Environment
 .venv/

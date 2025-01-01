@@ -378,7 +378,7 @@ class FacebookScraper:
             return []
 
     def get_ad_details(self, ad_archive_id: str, page_id: str) -> Optional[Dict]:
-        """Get detailed information for a specific ad"""
+        """Get detailed information for a specific ad and its page"""
         url = "https://www.facebook.com/api/graphql/"
         
         variables = {
@@ -416,18 +416,129 @@ class FacebookScraper:
                 return None
 
             # Extract ad details from response
-            ad_details = data.get('data', {}).get('ad', {})
+            ad_details = data.get('data', {}).get('ad_library_main', {}).get('ad_details', {})
+            advertiser = ad_details.get('advertiser', {})
+            page = advertiser.get('page', {})
+            page_info = advertiser.get('ad_library_page_info', {}).get('page_info', {})
+            page_spend = advertiser.get('ad_library_page_info', {}).get('page_spend', {})
             
-            if ad_details:
-                print("\nDetailed Ad Information:")
-                print("=" * 100)
-                print(f"Ad Archive ID: {ad_archive_id}")
-                print("=" * 100)
+            # Format the ad details
+            formatted_details = {
+                'ad': {
+                    'archive_id': ad_archive_id,
+                    'page_id': page_id,
+                    'snapshot': None,  # Will be populated when we get the ad snapshot
+                    'status': None,  # Will be populated when we get the ad status
+                    'spend': page_spend.get('lifetime_by_disclaimer', [{}])[0].get('spend'),
+                    'is_political': page_spend.get('is_political_page')
+                },
+                'page': {
+                    'name': page_info.get('page_name'),
+                    'category': page_info.get('page_category'),
+                    'about': page.get('about', {}).get('text'),
+                    'verification': page_info.get('page_verification'),
+                    'profile_url': page_info.get('page_profile_uri'),
+                    'likes': page_info.get('likes')
+                },
+                'instagram': {
+                    'username': page_info.get('ig_username'),
+                    'followers': page_info.get('ig_followers'),
+                    'verified': page_info.get('ig_verification')
+                }
+            }
+            
+            # Get the ad snapshot using get_page_ads
+            ads = self.get_page_ads(page_id)
+            if ads:
+                for ad in ads:
+                    if ad.get('ad_archive_id') == ad_archive_id:
+                        formatted_details['ad'].update({
+                            'snapshot': ad.get('snapshot'),
+                            'status': ad.get('status'),
+                            'start_date': ad.get('ad_creation_time'),
+                            'end_date': ad.get('ad_delivery_stop_time'),
+                            'platforms': ad.get('publisher_platforms'),
+                            'impressions': ad.get('impressions'),
+                            'currency': ad.get('currency')
+                        })
+                        break
+            
+            # Print formatted output
+            if formatted_details['ad']:
+                print("\nAd Details:")
+                print(f"Archive ID: {formatted_details['ad']['archive_id']}")
+                print(f"Status: {formatted_details['ad']['status']}")
+                if formatted_details['ad']['start_date']:
+                    print(f"Runtime: {formatted_details['ad']['start_date']} to {formatted_details['ad']['end_date']}")
                 
-                # Print all available information
-                print(json.dumps(ad_details, indent=2))
+                # Creative Content from Snapshot
+                snapshot = formatted_details['ad'].get('snapshot', {})
+                if snapshot:
+                    print("\nCreative Content:")
+                    body = snapshot.get('body', {})
+                    if isinstance(body, dict) and body.get('text'):
+                        print(f"Body Text: {body['text']}")
+                    elif isinstance(body, str):
+                        print(f"Body Text: {body}")
+                    
+                    # Display image URLs from snapshot
+                    images = snapshot.get('images', [])
+                    if images:
+                        print("\nAd Images:")
+                        for idx, image in enumerate(images, 1):
+                            if not isinstance(image, dict):
+                                continue
+                            print(f"\nImage {idx}:")
+                            if image.get('original_image_url'):
+                                print(f"Original URL: {image['original_image_url']}")
+                            if image.get('resized_image_url'):
+                                print(f"Resized URL: {image['resized_image_url']}")
+                    
+                    # Display video URLs from snapshot
+                    videos = snapshot.get('videos', [])
+                    if videos:
+                        print("\nAd Videos:")
+                        for idx, video in enumerate(videos, 1):
+                            if not isinstance(video, dict):
+                                continue
+                            print(f"\nVideo {idx}:")
+                            if video.get('video_hd_url'):
+                                print(f"HD URL: {video['video_hd_url']}")
+                            if video.get('video_sd_url'):
+                                print(f"SD URL: {video['video_sd_url']}")
+                            if video.get('video_preview_image_url'):
+                                print(f"Preview Image URL: {video['video_preview_image_url']}")
                 
-                return ad_details
+                # Performance Metrics
+                print("\nPerformance Metrics:")
+                if formatted_details['ad']['platforms']:
+                    print(f"Platforms: {', '.join(formatted_details['ad']['platforms'])}")
+                if formatted_details['ad']['impressions']:
+                    print(f"Impressions: {formatted_details['ad']['impressions']}")
+                if formatted_details['ad']['spend']:
+                    print(f"Total Spend: {formatted_details['ad']['currency']}{formatted_details['ad']['spend']}")
+                print(f"Political Ad: {'Yes' if formatted_details['ad']['is_political'] else 'No'}")
+                
+                # Page Context
+                print("\nPublisher Information:")
+                page = formatted_details['page']
+                print(f"Page: {page['name']} ({page['category']})")
+                print(f"About: {page['about']}")
+                print(f"Verification: {page['verification']}")
+                print(f"Facebook Likes: {page['likes']:,}")
+                
+                instagram = formatted_details['instagram']
+                if instagram['username']:
+                    print(f"\nInstagram: @{instagram['username']}")
+                    print(f"Followers: {instagram['followers']:,}")
+                    print(f"Verified: {'Yes' if instagram['verified'] else 'No'}")
+                
+                # Log any errors but don't fail
+                if 'errors' in data:
+                    for error in data['errors']:
+                        logging.warning(f"API Error in path {error.get('path')}: {error.get('message')}")
+                
+                return formatted_details
             
             return None
 

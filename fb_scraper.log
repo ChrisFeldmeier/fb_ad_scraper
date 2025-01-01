@@ -269,3 +269,31 @@
 2025-01-01 18:01:21,040 - INFO - Found spin_r: 1019110511
 2025-01-01 18:01:21,040 - INFO - Found spin_b: trunk
 2025-01-01 18:01:21,779 - INFO - Saved raw response to data/ad_detail_123456789_20250101_180121.txt
+2025-01-01 18:07:52,974 - INFO - Found fb_dtsg token: NAcPRqCD3gsUk3I7yv4SfIfUUPSHwuYmRECPeQMwkB_ES-Gt69eQiXg:16:1699733852
+2025-01-01 18:07:52,975 - INFO - Found client revision: 1019110511
+2025-01-01 18:07:52,975 - INFO - Found LSD token: xd9IV45_Rj-sCpFXGzi5AH
+2025-01-01 18:07:52,975 - INFO - Found haste session: 20089.HYP:comet_plat_default_pkg.2.1.0.2.1
+2025-01-01 18:07:52,976 - INFO - Found spin_r: 1019110511
+2025-01-01 18:07:52,976 - INFO - Found spin_b: trunk
+2025-01-01 18:07:53,257 - INFO - Saved raw response to data/ad_detail_123456789_20250101_180753.txt
+2025-01-01 18:07:53,257 - WARNING - API Error in path ['ad_library_main', 'ad_details', 'aaa_info']: A server error field_exception occured. Check server logs for details.
+2025-01-01 18:07:53,257 - WARNING - API Error in path ['ad_library_main', 'ad_details', 'verified_voice_context']: A server error field_exception occured. Check server logs for details.
+2025-01-01 18:13:50,948 - INFO - Found fb_dtsg token: NAcOBLRrDvIkfuSGc2OUAzHnrQ6dKSnpIe1PlyDTkR_yeSpxKQ21Bmw:16:1699733852
+2025-01-01 18:13:50,948 - INFO - Found client revision: 1019110720
+2025-01-01 18:13:50,949 - INFO - Found LSD token: iOXH63L7eMm5eoPsBq1IW4
+2025-01-01 18:13:50,949 - INFO - Found haste session: 20089.HYP:comet_plat_default_pkg.2.1.0.2.1
+2025-01-01 18:13:50,950 - INFO - Found spin_r: 1019110720
+2025-01-01 18:13:50,950 - INFO - Found spin_b: trunk
+2025-01-01 18:13:51,229 - INFO - Saved raw response to data/ad_detail_123456789_20250101_181351.txt
+2025-01-01 18:13:51,230 - WARNING - API Error in path ['ad_library_main', 'ad_details', 'aaa_info']: A server error field_exception occured. Check server logs for details.
+2025-01-01 18:13:51,230 - WARNING - API Error in path ['ad_library_main', 'ad_details', 'verified_voice_context']: A server error field_exception occured. Check server logs for details.
+2025-01-01 18:16:03,354 - INFO - Found fb_dtsg token: NAcM9I0nisox4H84-BGkb-9josEZ5cItn6jVQt-4FFnHH23pFhUYKQg:16:1699733852
+2025-01-01 18:16:03,355 - INFO - Found client revision: 1019110720
+2025-01-01 18:16:03,355 - INFO - Found LSD token: VWsUYt4IbVutLB0Xq7TkSP
+2025-01-01 18:16:03,356 - INFO - Found haste session: 20089.HYP:comet_plat_default_pkg.2.1.0.2.1
+2025-01-01 18:16:03,356 - INFO - Found spin_r: 1019110720
+2025-01-01 18:16:03,357 - INFO - Found spin_b: trunk
+2025-01-01 18:16:03,630 - INFO - Saved raw response to data/ad_detail_123456789_20250101_181603.txt
+2025-01-01 18:16:04,412 - INFO - Saved raw response to data/page_ads_109806077081081_20250101_181604.txt
+2025-01-01 18:16:04,415 - INFO - Found 30 unique ads (ad_archive_ids) for page ID: 109806077081081
+2025-01-01 18:16:04,424 - ERROR - Error getting ad details: 'start_date'
